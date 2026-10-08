@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-08T22:57:07Z",
+  "updated_at": "2026-10-08T23:04:13Z",
   "members": [
     {
       "id": "count-delmure",
@@ -21,6 +21,27 @@
       "twitch": {
         "login": "midasredding",
         "id": "219160446"
+      }
+    },
+    {
+      "id": "von-grail",
+      "faction": "empire",
+      "order": 20,
+      "minecraft": {
+        "name": "RootedMoon1506",
+        "uuid": "1da332e5-6ab9-4dbd-b274-293c8d448332"
+      },
+      "head": true,
+      "name": "Von Grail",
+      "role": "",
+      "age": "",
+      "height": "",
+      "race": "Human",
+      "kingdom": "Kiyomori",
+      "bio": "",
+      "twitch": {
+        "login": "rootedmoon1506",
+        "id": "855636522"
       }
     },
     {
