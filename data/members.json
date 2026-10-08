@@ -1,7 +1,28 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-08T22:54:41Z",
+  "updated_at": "2026-10-08T22:57:07Z",
   "members": [
+    {
+      "id": "count-delmure",
+      "faction": "empire",
+      "order": 10,
+      "minecraft": {
+        "name": "Midas_Is_Hot",
+        "uuid": "17b1987c-fbaf-438e-8c71-3291c9d85447"
+      },
+      "head": true,
+      "name": "Count Delmure",
+      "role": "",
+      "age": "",
+      "height": "",
+      "race": "Human",
+      "kingdom": "Kiyomori",
+      "bio": "",
+      "twitch": {
+        "login": "midasredding",
+        "id": "219160446"
+      }
+    },
     {
       "id": "misha",
       "faction": "alliance",
