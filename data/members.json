@@ -1,27 +1,5 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-08T06:47:41Z",
-  "members": [
-    {
-      "id": "misha",
-      "faction": "alliance",
-      "order": 10,
-      "minecraft": {
-        "name": "miyuwanchan",
-        "uuid": "d7dfa046-6f17-4a63-a901-83a49079029f"
-      },
-      "head": true,
-      "name": "Misha",
-      "role": "Alliance Advisor",
-      "age": "19",
-      "height": "5'1",
-      "race": "Water Genasi",
-      "kingdom": "Asteria",
-      "bio": "Wow shes so cool this is very cool",
-      "twitch": {
-        "login": "miyuwanchan",
-        "id": ""
-      }
-    }
-  ]
+  "updated_at": "2026-10-08T06:53:22Z",
+  "members": []
 }
