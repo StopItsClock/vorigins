@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-08T06:40:02Z",
+  "updated_at": "2026-10-08T06:46:17Z",
   "members": [
     {
       "id": "misha",
@@ -16,7 +16,7 @@
       "age": "19",
       "height": "5'1",
       "race": "Water Genasi",
-      "kingdom": "Elderglen",
+      "kingdom": "The Independents",
       "bio": "Wow shes so cool this is very cool",
       "twitch": {
         "login": "miyuwanchan",
