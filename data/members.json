@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-08T20:00:31Z",
+  "updated_at": "2026-10-08T22:54:41Z",
   "members": [
     {
       "id": "misha",
@@ -21,6 +21,27 @@
       "twitch": {
         "login": "miyuwanchan",
         "id": "686234820"
+      }
+    },
+    {
+      "id": "morgan-ashwolf",
+      "faction": "independents",
+      "order": 10,
+      "minecraft": {
+        "name": "Cylinks",
+        "uuid": "c272ba50-0276-472b-a52a-49a4eaac6fb7"
+      },
+      "head": true,
+      "name": "Morgan Ashwolf",
+      "role": "",
+      "age": "",
+      "height": "",
+      "race": "Beastkin",
+      "kingdom": "Elderglen",
+      "bio": "",
+      "twitch": {
+        "login": "cylinks_owo",
+        "id": "761873718"
       }
     }
   ]
