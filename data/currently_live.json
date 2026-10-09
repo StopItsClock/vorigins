@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-09T02:36:03Z",
+  "updated_at": "2026-10-09T03:06:00Z",
   "poll_seconds": 300,
   "live": {
     "228334289": {
@@ -11,24 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
       "title": "✨[18+ Eng/Esp] ✨These blocks are horrifying ✨ !socials !lurk  @rams404vt ✨",
       "url": "https://www.twitch.tv/rams404vt"
-    },
-    "231199835": {
-      "display_name": "LostOni_",
-      "game_name": "MECCHA CHAMELEON",
-      "login": "lostoni_",
-      "started_at": "2026-10-09T01:05:06Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostoni_-{width}x{height}.jpg",
-      "title": "Happy Burthday @cylinks_owo | !discord | Meccha Chameleon",
-      "url": "https://www.twitch.tv/lostoni_"
-    },
-    "761873718": {
-      "display_name": "cylinks_owo",
-      "game_name": "MECCHA CHAMELEON",
-      "login": "cylinks_owo",
-      "started_at": "2026-10-09T01:00:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cylinks_owo-{width}x{height}.jpg",
-      "title": "HELP THERE TRYING TO PAIN ME!!!!",
-      "url": "https://www.twitch.tv/cylinks_owo"
     }
   },
   "login_updates": {}
