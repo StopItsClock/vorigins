@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-09T02:00:03Z",
+  "updated_at": "2026-10-09T02:50:01Z",
   "members": [
     {
       "id": "count-delmure",
@@ -12,9 +12,9 @@
       },
       "head": true,
       "name": "Count Delmure",
-      "role": "",
-      "age": "",
-      "height": "",
+      "role": "Imperial Advisor",
+      "age": "37",
+      "height": "5'11",
       "race": "Human",
       "kingdom": "Kiyomori",
       "bio": "",
