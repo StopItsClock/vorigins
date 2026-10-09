@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-09T02:50:01Z",
+  "updated_at": "2026-10-09T03:10:42Z",
   "members": [
     {
       "id": "count-delmure",
@@ -55,9 +55,9 @@
       "head": true,
       "name": "Kai",
       "role": "",
-      "age": "",
-      "height": "",
-      "race": "",
+      "age": "56",
+      "height": "5'10",
+      "race": "Human",
       "kingdom": "Kiyomori",
       "bio": "",
       "twitch": {
