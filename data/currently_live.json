@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-09T04:06:02Z",
+  "updated_at": "2026-10-09T04:25:58Z",
   "poll_seconds": 300,
-  "live": {
-    "228334289": {
-      "display_name": "Rams404Vt",
-      "game_name": "Minecraft",
-      "login": "rams404vt",
-      "started_at": "2026-10-09T01:25:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
-      "title": "✨[18+ Eng/Esp] ✨These blocks are horrifying ✨ !socials !lurk  @rams404vt ✨",
-      "url": "https://www.twitch.tv/rams404vt"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
