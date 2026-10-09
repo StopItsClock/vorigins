@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-09T01:51:21Z",
+  "updated_at": "2026-10-09T02:00:03Z",
   "members": [
     {
       "id": "count-delmure",
@@ -42,6 +42,27 @@
       "twitch": {
         "login": "rams404vt",
         "id": "228334289"
+      }
+    },
+    {
+      "id": "kai",
+      "faction": "empire",
+      "order": 40,
+      "minecraft": {
+        "name": "Lost0ni",
+        "uuid": "b144482f-93ef-47ad-aa81-6c9097fc1655"
+      },
+      "head": true,
+      "name": "Kai",
+      "role": "",
+      "age": "",
+      "height": "",
+      "race": "",
+      "kingdom": "Kiyomori",
+      "bio": "",
+      "twitch": {
+        "login": "lostoni_",
+        "id": "231199835"
       }
     },
     {
