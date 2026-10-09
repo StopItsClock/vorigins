@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-09T03:10:42Z",
+  "updated_at": "2026-10-09T03:14:39Z",
   "members": [
     {
       "id": "count-delmure",
@@ -53,7 +53,7 @@
         "uuid": "b144482f-93ef-47ad-aa81-6c9097fc1655"
       },
       "head": true,
-      "name": "Kai",
+      "name": "Kai Low",
       "role": "",
       "age": "56",
       "height": "5'10",
