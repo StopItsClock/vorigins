@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-08T23:04:13Z",
+  "updated_at": "2026-10-09T01:39:57Z",
   "members": [
     {
       "id": "count-delmure",
@@ -42,6 +42,27 @@
       "twitch": {
         "login": "rootedmoon1506",
         "id": "855636522"
+      }
+    },
+    {
+      "id": "rams",
+      "faction": "empire",
+      "order": 30,
+      "minecraft": {
+        "name": "Rams404",
+        "uuid": "88cc9982-42a3-4759-b016-ed6294107cb0"
+      },
+      "head": true,
+      "name": "Rams",
+      "role": "",
+      "age": "",
+      "height": "",
+      "race": "",
+      "kingdom": "Kiyomori",
+      "bio": "",
+      "twitch": {
+        "login": "rams404vt",
+        "id": "228334289"
       }
     },
     {
