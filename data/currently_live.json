@@ -1,26 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-11T05:21:00Z",
+  "updated_at": "2026-10-11T05:25:57Z",
   "poll_seconds": 300,
-  "live": {
-    "231199835": {
-      "display_name": "LostOni_",
-      "game_name": "PEAK",
-      "login": "lostoni_",
-      "started_at": "2026-10-11T01:04:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostoni_-{width}x{height}.jpg",
-      "title": "Happy Burthday @cylinks_owo | !discord | Peak",
-      "url": "https://www.twitch.tv/lostoni_"
-    },
-    "761873718": {
-      "display_name": "cylinks_owo",
-      "game_name": "PEAK",
-      "login": "cylinks_owo",
-      "started_at": "2026-10-11T01:00:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cylinks_owo-{width}x{height}.jpg",
-      "title": "Spending my birthday at the PEAK",
-      "url": "https://www.twitch.tv/cylinks_owo"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
