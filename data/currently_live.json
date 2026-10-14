@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-14T22:35:28Z",
+  "updated_at": "2026-10-14T23:05:26Z",
   "poll_seconds": 300,
-  "live": {
-    "228334289": {
-      "display_name": "Rams404Vt",
-      "game_name": "LOCKDOWN Protocol",
-      "login": "rams404vt",
-      "started_at": "2026-10-14T20:35:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
-      "title": "✨[18+ Eng/Esp] ✨The office is off today✨ !socials !lurk  @rams404vt ✨",
-      "url": "https://www.twitch.tv/rams404vt"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
