@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-10T18:00:09Z",
+  "updated_at": "2026-10-15T04:55:44Z",
   "members": [
     {
       "id": "count-delmure",
@@ -12,7 +12,7 @@
       },
       "head": true,
       "name": "Count Delmure",
-      "role": "Imperial Advisor",
+      "role": "Master of the Treasury, Sword of the Emperor (Imperial Advisor)",
       "age": "37",
       "height": "5'11",
       "race": "Human",
