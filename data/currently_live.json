@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-14T23:05:26Z",
+  "updated_at": "2026-10-15T20:10:25Z",
   "poll_seconds": 300,
-  "live": {},
+  "live": {
+    "228334289": {
+      "display_name": "Rams404Vt",
+      "game_name": "Minecraft",
+      "login": "rams404vt",
+      "started_at": "2026-10-15T20:09:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
+      "title": "✨[18+ Eng/Esp] ✨I gotta survive in this cube MC ➜ LP✨ !socials !lurk  @rams404vt ✨",
+      "url": "https://www.twitch.tv/rams404vt"
+    }
+  },
   "login_updates": {}
 }
