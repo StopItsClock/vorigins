@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-15T04:55:44Z",
+  "updated_at": "2026-10-15T04:56:37Z",
   "members": [
     {
       "id": "count-delmure",
@@ -75,7 +75,7 @@
       },
       "head": true,
       "name": "Misha",
-      "role": "Alliance Advisor",
+      "role": "Advisor of Still Water (Alliance Advisor)",
       "age": "19",
       "height": "5'1",
       "race": "Water Genasi",
