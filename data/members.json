@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-16T20:25:37Z",
+  "updated_at": "2026-10-16T20:32:30Z",
   "members": [
     {
       "id": "count-delmure",
@@ -63,6 +63,27 @@
       "twitch": {
         "login": "lostoni_",
         "id": "231199835"
+      }
+    },
+    {
+      "id": "rook",
+      "faction": "empire",
+      "order": 50,
+      "minecraft": {
+        "name": "Ren_Dracoliche",
+        "uuid": "70b1ff56-9d2c-4ba5-a9d0-ce8a936d598e"
+      },
+      "head": true,
+      "name": "Rook",
+      "role": "",
+      "age": "",
+      "height": "6'0",
+      "race": "Human",
+      "kingdom": "Kiyomori",
+      "bio": "",
+      "twitch": {
+        "login": "dracolicheren",
+        "id": "243161944"
       }
     },
     {
