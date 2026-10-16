@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-15T04:56:37Z",
+  "updated_at": "2026-10-16T19:11:06Z",
   "members": [
     {
       "id": "count-delmure",
@@ -105,6 +105,27 @@
       "twitch": {
         "login": "rootedmoon1506",
         "id": "855636522"
+      }
+    },
+    {
+      "id": "puckulus-aquasius",
+      "faction": "alliance",
+      "order": 30,
+      "minecraft": {
+        "name": "PuckPixie",
+        "uuid": "7f44554a-583b-4e3f-bb6c-17a08320c9aa"
+      },
+      "head": true,
+      "name": "Puckulus Aquasius",
+      "role": "Head of House Aqua",
+      "age": "60",
+      "height": "5'9",
+      "race": "Water Genasi",
+      "kingdom": "Asteria",
+      "bio": "Puckulus Aquasius is the leader of House Aqua, known for his generosity, patience, and charisma. Although he comes from a family of tacticians that only believed in the Moon Goddess for their personal gain; he is a genuine and fervent believer. His wings used to be water.",
+      "twitch": {
+        "login": "puckthepixievt",
+        "id": "68909866"
       }
     },
     {
