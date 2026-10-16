@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-16T19:15:59Z",
+  "updated_at": "2026-10-16T20:23:39Z",
   "members": [
     {
       "id": "count-delmure",
@@ -168,6 +168,27 @@
       "twitch": {
         "login": "cylinks_owo",
         "id": "761873718"
+      }
+    },
+    {
+      "id": "ursoc-earthgrip",
+      "faction": "independents",
+      "order": 20,
+      "minecraft": {
+        "name": "MizuRelictus",
+        "uuid": "c76f5e33-4727-4897-9a38-b1f2da2d9a41"
+      },
+      "head": true,
+      "name": "Ursoc Earthgrip",
+      "role": "",
+      "age": "68",
+      "height": "4'4",
+      "race": "Dwarf",
+      "kingdom": "Elderglen",
+      "bio": "",
+      "twitch": {
+        "login": "mizurelictus",
+        "id": "835371235"
       }
     }
   ]
