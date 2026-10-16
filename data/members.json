@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-16T22:36:14Z",
+  "updated_at": "2026-10-16T23:26:58Z",
   "members": [
     {
       "id": "count-delmure",
@@ -252,6 +252,27 @@
       "twitch": {
         "login": "vapveran",
         "id": "555456488"
+      }
+    },
+    {
+      "id": "yukio-greyulf",
+      "faction": "independents",
+      "order": 40,
+      "minecraft": {
+        "name": "FrostedPlague",
+        "uuid": "3a3bdba9-eee5-41b5-8cb3-d552414dffb0"
+      },
+      "head": true,
+      "name": "Yukio Greyulf",
+      "role": "",
+      "age": "21",
+      "height": "5'9",
+      "race": "Beastkin",
+      "kingdom": "Elderglen",
+      "bio": "After the war his family was forced to wander, rejected from every other city state due to their beastkin nature. After being accepted into Elderglen, Yukio resolved to do anything for the people who took him in.",
+      "twitch": {
+        "login": "frostedplague7",
+        "id": "119893530"
       }
     }
   ]
