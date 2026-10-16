@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-16T19:13:31Z",
+  "updated_at": "2026-10-16T19:14:36Z",
   "members": [
     {
       "id": "count-delmure",
@@ -87,30 +87,9 @@
       }
     },
     {
-      "id": "von-grail",
-      "faction": "alliance",
-      "order": 20,
-      "minecraft": {
-        "name": "RootedMoon1506",
-        "uuid": "1da332e5-6ab9-4dbd-b274-293c8d448332"
-      },
-      "head": true,
-      "name": "Von Grail",
-      "role": "",
-      "age": "32",
-      "height": "5'9",
-      "race": "Fire Genasi",
-      "kingdom": "Asteria",
-      "bio": "",
-      "twitch": {
-        "login": "rootedmoon1506",
-        "id": "855636522"
-      }
-    },
-    {
       "id": "puckulus-aquasius",
       "faction": "alliance",
-      "order": 30,
+      "order": 20,
       "minecraft": {
         "name": "PuckPixie",
         "uuid": "7f44554a-583b-4e3f-bb6c-17a08320c9aa"
@@ -126,6 +105,27 @@
       "twitch": {
         "login": "puckthepixievt",
         "id": "68909866"
+      }
+    },
+    {
+      "id": "von-grail",
+      "faction": "alliance",
+      "order": 30,
+      "minecraft": {
+        "name": "RootedMoon1506",
+        "uuid": "1da332e5-6ab9-4dbd-b274-293c8d448332"
+      },
+      "head": true,
+      "name": "Von Grail",
+      "role": "",
+      "age": "32",
+      "height": "5'9",
+      "race": "Fire Genasi",
+      "kingdom": "Asteria",
+      "bio": "",
+      "twitch": {
+        "login": "rootedmoon1506",
+        "id": "855636522"
       }
     },
     {
