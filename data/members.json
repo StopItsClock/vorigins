@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-16T22:35:24Z",
+  "updated_at": "2026-10-16T22:36:14Z",
   "members": [
     {
       "id": "count-delmure",
@@ -84,6 +84,27 @@
       "twitch": {
         "login": "dracolicheren",
         "id": "243161944"
+      }
+    },
+    {
+      "id": "the-collective",
+      "faction": "empire",
+      "order": 60,
+      "minecraft": {
+        "name": "Chubblezap",
+        "uuid": "26e4150c-4ffd-4a1f-85b3-fb05cb47f516"
+      },
+      "head": true,
+      "name": "The Collective",
+      "role": "",
+      "age": "",
+      "height": "Varies",
+      "race": "Human",
+      "kingdom": "Kiyomori",
+      "bio": "A mysterious group of people controlled by a single mind, trying to find a way to reunite themselves.",
+      "twitch": {
+        "login": "vvdragon_",
+        "id": "110867034"
       }
     },
     {
