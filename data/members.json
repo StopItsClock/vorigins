@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-16T20:23:39Z",
+  "updated_at": "2026-10-16T20:25:37Z",
   "members": [
     {
       "id": "count-delmure",
@@ -185,7 +185,7 @@
       "height": "4'4",
       "race": "Dwarf",
       "kingdom": "Elderglen",
-      "bio": "",
+      "bio": "\"Weight of the world to me is akin to this hammer in my hand - make of that what you will\"",
       "twitch": {
         "login": "mizurelictus",
         "id": "835371235"
