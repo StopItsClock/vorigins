@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-16T19:14:36Z",
+  "updated_at": "2026-10-16T19:15:59Z",
   "members": [
     {
       "id": "count-delmure",
@@ -66,30 +66,9 @@
       }
     },
     {
-      "id": "misha",
-      "faction": "alliance",
-      "order": 10,
-      "minecraft": {
-        "name": "miyuwanchan",
-        "uuid": "d7dfa046-6f17-4a63-a901-83a49079029f"
-      },
-      "head": true,
-      "name": "Misha",
-      "role": "Advisor of Still Water (Alliance Advisor)",
-      "age": "19",
-      "height": "5'1",
-      "race": "Water Genasi",
-      "kingdom": "Asteria",
-      "bio": "",
-      "twitch": {
-        "login": "miyuwanchan",
-        "id": "686234820"
-      }
-    },
-    {
       "id": "puckulus-aquasius",
       "faction": "alliance",
-      "order": 20,
+      "order": 10,
       "minecraft": {
         "name": "PuckPixie",
         "uuid": "7f44554a-583b-4e3f-bb6c-17a08320c9aa"
@@ -105,6 +84,27 @@
       "twitch": {
         "login": "puckthepixievt",
         "id": "68909866"
+      }
+    },
+    {
+      "id": "misha",
+      "faction": "alliance",
+      "order": 20,
+      "minecraft": {
+        "name": "miyuwanchan",
+        "uuid": "d7dfa046-6f17-4a63-a901-83a49079029f"
+      },
+      "head": true,
+      "name": "Misha",
+      "role": "Advisor of Still Water (Alliance Advisor)",
+      "age": "19",
+      "height": "5'1",
+      "race": "Water Genasi",
+      "kingdom": "Asteria",
+      "bio": "",
+      "twitch": {
+        "login": "miyuwanchan",
+        "id": "686234820"
       }
     },
     {
