@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-16T20:32:30Z",
+  "updated_at": "2026-10-16T20:41:24Z",
   "members": [
     {
       "id": "count-delmure",
@@ -80,7 +80,7 @@
       "height": "6'0",
       "race": "Human",
       "kingdom": "Kiyomori",
-      "bio": "",
+      "bio": "\"Only i can cure this damned disease\"",
       "twitch": {
         "login": "dracolicheren",
         "id": "243161944"
