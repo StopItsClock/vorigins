@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-17T17:20:29Z",
+  "updated_at": "2026-10-17T21:05:03Z",
   "members": [
     {
       "id": "count-delmure",
@@ -332,7 +332,7 @@
       "height": "5'11",
       "race": "Beastkin",
       "kingdom": "Elderglen",
-      "bio": "Need to keep up with loved ones around the world? Come on down to Mr Mail's for Mail, Mounts, and More for all your postal needs!",
+      "bio": "Need to keep up with loved ones around the world? Come on down to Mr. Mail for Mail, Mounts, and More so we can handle ALL your postal needs!",
       "twitch": {
         "login": "vapveran",
         "id": "555456488"
