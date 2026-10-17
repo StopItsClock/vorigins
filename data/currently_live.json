@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-17T00:50:10Z",
+  "updated_at": "2026-10-17T01:00:10Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostoni_-{width}x{height}.jpg",
       "title": "Single Player Gaming Time!  | !discord | Ghost of Tsu",
       "url": "https://www.twitch.tv/lostoni_"
+    },
+    "761873718": {
+      "display_name": "cylinks_owo",
+      "game_name": "ACE COMBAT 8: WINGS OF THEVE",
+      "login": "cylinks_owo",
+      "started_at": "2026-10-17T00:58:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cylinks_owo-{width}x{height}.jpg",
+      "title": "Vtubers Fly Now ?",
+      "url": "https://www.twitch.tv/cylinks_owo"
     }
   },
   "login_updates": {}
