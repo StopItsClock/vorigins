@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-17T03:40:10Z",
+  "updated_at": "2026-10-17T03:45:10Z",
   "poll_seconds": 300,
   "live": {
     "119893530": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
       "title": "FFXIV FALL GUYS COLLAB 🧊  @bluebellscript @kromatikaa @Liffeh @ozneren @Mocho_b @FrostedPlague7 @Musturds @lina_55vt",
       "url": "https://www.twitch.tv/frostedplague7"
-    },
-    "761873718": {
-      "display_name": "cylinks_owo",
-      "game_name": "ACE COMBAT 8: WINGS OF THEVE",
-      "login": "cylinks_owo",
-      "started_at": "2026-10-17T00:58:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cylinks_owo-{width}x{height}.jpg",
-      "title": "Vtubers Fly Now ?",
-      "url": "https://www.twitch.tv/cylinks_owo"
     },
     "855636522": {
       "display_name": "RootedMoon1506",
