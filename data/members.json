@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-17T00:17:28Z",
+  "updated_at": "2026-10-17T06:18:07Z",
   "members": [
     {
       "id": "count-delmure",
@@ -105,6 +105,27 @@
       "twitch": {
         "login": "vvdragon_",
         "id": "110867034"
+      }
+    },
+    {
+      "id": "giuseppe-banana-crabapple",
+      "faction": "empire",
+      "order": 70,
+      "minecraft": {
+        "name": "Bananaramajama",
+        "uuid": ""
+      },
+      "head": false,
+      "name": "Giuseppe 'Banana' Crabapple",
+      "role": "",
+      "age": "22",
+      "height": "6'0",
+      "race": "Human",
+      "kingdom": "Kiyomori",
+      "bio": "A Ranger chasing the ghosts of the past, hoping to put them to rest.\nMaybe then he can find forgiveness.",
+      "twitch": {
+        "login": "banana_ramajama",
+        "id": "58276005"
       }
     },
     {
