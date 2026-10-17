@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-16T23:32:09Z",
+  "updated_at": "2026-10-17T00:17:28Z",
   "members": [
     {
       "id": "count-delmure",
@@ -234,30 +234,9 @@
       }
     },
     {
-      "id": "ursoc-earthgrip",
-      "faction": "independents",
-      "order": 30,
-      "minecraft": {
-        "name": "MizuRelictus",
-        "uuid": "c76f5e33-4727-4897-9a38-b1f2da2d9a41"
-      },
-      "head": true,
-      "name": "Ursoc Earthgrip",
-      "role": "",
-      "age": "68",
-      "height": "4'4",
-      "race": "Dwarf",
-      "kingdom": "Elderglen",
-      "bio": "\"Weight of the world to me is akin to this hammer in my hand - make of that what you will\"",
-      "twitch": {
-        "login": "mizurelictus",
-        "id": "835371235"
-      }
-    },
-    {
       "id": "mr-mail",
       "faction": "independents",
-      "order": 40,
+      "order": 30,
       "minecraft": {
         "name": "VeranV",
         "uuid": "64c87b73-7fdb-475c-beac-237c7b781110"
@@ -273,6 +252,27 @@
       "twitch": {
         "login": "vapveran",
         "id": "555456488"
+      }
+    },
+    {
+      "id": "ursoc-earthgrip",
+      "faction": "independents",
+      "order": 40,
+      "minecraft": {
+        "name": "MizuRelictus",
+        "uuid": "c76f5e33-4727-4897-9a38-b1f2da2d9a41"
+      },
+      "head": true,
+      "name": "Ursoc Earthgrip",
+      "role": "",
+      "age": "68",
+      "height": "4'4",
+      "race": "Dwarf",
+      "kingdom": "Elderglen",
+      "bio": "\"Weight of the world to me is akin to this hammer in my hand - make of that what you will\"",
+      "twitch": {
+        "login": "mizurelictus",
+        "id": "835371235"
       }
     }
   ]
