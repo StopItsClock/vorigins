@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-17T17:19:46Z",
+  "updated_at": "2026-10-17T17:20:29Z",
   "members": [
     {
       "id": "count-delmure",
@@ -168,6 +168,27 @@
       "twitch": {
         "login": "wiltedirony",
         "id": "886081934"
+      }
+    },
+    {
+      "id": "dallius",
+      "faction": "empire",
+      "order": 100,
+      "minecraft": {
+        "name": "RedBladeCrimson",
+        "uuid": "59dce730-5419-4276-8715-219d00336bfc"
+      },
+      "head": true,
+      "name": "Dallius",
+      "role": "",
+      "age": "28",
+      "height": "6'4",
+      "race": "Human",
+      "kingdom": "Kiyomori",
+      "bio": "Dallius is a battle hardened character, having a lot of resentment for war, as he lost both his mother and father in the hollow war, he aims to use his actions to protect those who cannot protect themselves.",
+      "twitch": {
+        "login": "redbladecrimson",
+        "id": "239191238"
       }
     },
     {
