@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-17T16:55:10Z",
+  "updated_at": "2026-10-17T17:20:10Z",
   "poll_seconds": 300,
   "live": {
     "835371235": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
       "title": "[LoZ:OoT] My 1st ever time playing! - pt5 - 100SSR",
       "url": "https://www.twitch.tv/mizurelictus"
+    },
+    "886081934": {
+      "display_name": "wiltedIrony",
+      "game_name": "Deltarune",
+      "login": "wiltedirony",
+      "started_at": "2026-10-17T16:19:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wiltedirony-{width}x{height}.jpg",
+      "title": "HE SPAM ON MY TON TILL I NEO | !discord !roll !clip [ENG/ARA]",
+      "url": "https://www.twitch.tv/wiltedirony"
     }
   },
   "login_updates": {}
