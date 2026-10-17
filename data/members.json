@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-17T17:18:36Z",
+  "updated_at": "2026-10-17T17:19:46Z",
   "members": [
     {
       "id": "count-delmure",
@@ -147,6 +147,27 @@
       "twitch": {
         "login": "66grimdemise66",
         "id": "495919620"
+      }
+    },
+    {
+      "id": "shion",
+      "faction": "empire",
+      "order": 90,
+      "minecraft": {
+        "name": "wiltedIrony",
+        "uuid": "aacf0b35-0282-455a-932c-fb0bf4ec161c"
+      },
+      "head": true,
+      "name": "Shion",
+      "role": "",
+      "age": "24",
+      "height": "5'8",
+      "race": "Human",
+      "kingdom": "Kiyomori",
+      "bio": "A socially awkward human trying to discern the truth behind the Unforgiven, while learning to deal with their unreliable memory, conditional belonging, and the fear that the dead might be the only people who truly wanted them.",
+      "twitch": {
+        "login": "wiltedirony",
+        "id": "886081934"
       }
     },
     {
