@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-17T06:18:07Z",
+  "updated_at": "2026-10-17T17:18:36Z",
   "members": [
     {
       "id": "count-delmure",
@@ -126,6 +126,27 @@
       "twitch": {
         "login": "banana_ramajama",
         "id": "58276005"
+      }
+    },
+    {
+      "id": "winnifred-sterling",
+      "faction": "empire",
+      "order": 80,
+      "minecraft": {
+        "name": "66GrimDemise66",
+        "uuid": "bab80933-cdbc-4d2c-b9f4-5026879cf4ab"
+      },
+      "head": true,
+      "name": "Winnifred Sterling",
+      "role": "",
+      "age": "23",
+      "height": "5'3",
+      "race": "Human",
+      "kingdom": "Kiyomori",
+      "bio": "The grieving knight turned rogue.",
+      "twitch": {
+        "login": "66grimdemise66",
+        "id": "495919620"
       }
     },
     {
