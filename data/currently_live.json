@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-17T04:55:10Z",
+  "updated_at": "2026-10-17T05:25:10Z",
   "poll_seconds": 300,
   "live": {
     "119893530": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
       "title": "FFXIV FALL GUYS COLLAB 🧊  @bluebellscript @kromatikaa @Liffeh @ozneren @Mocho_b @FrostedPlague7 @Musturds @lina_55vt",
       "url": "https://www.twitch.tv/frostedplague7"
-    },
-    "855636522": {
-      "display_name": "RootedMoon1506",
-      "game_name": "Valheim",
-      "login": "rootedmoon1506",
-      "started_at": "2026-10-17T02:45:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rootedmoon1506-{width}x{height}.jpg",
-      "title": "Somebody come get her, she getting bit by skeeters - Valheim w/ @Dolphin_Squad5 @PreciousAngelWings @shado_wisp",
-      "url": "https://www.twitch.tv/rootedmoon1506"
     }
   },
   "login_updates": {}
