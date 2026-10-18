@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-18T00:30:10Z",
+  "updated_at": "2026-10-18T00:55:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -29,6 +29,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
       "title": "[GamersOutReach] Playing spooky games for charity Day 2! Playing amnesia the dark descent for the first time!",
       "url": "https://www.twitch.tv/redbladecrimson"
+    },
+    "761873718": {
+      "display_name": "cylinks_owo",
+      "game_name": "Just Chatting",
+      "login": "cylinks_owo",
+      "started_at": "2026-10-18T00:54:34Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cylinks_owo-{width}x{height}.jpg",
+      "title": "SPOOKY SMASH AND PASS",
+      "url": "https://www.twitch.tv/cylinks_owo"
     }
   },
   "login_updates": {}
