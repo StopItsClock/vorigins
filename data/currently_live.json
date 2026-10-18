@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-18T03:45:12Z",
+  "updated_at": "2026-10-18T04:05:10Z",
   "poll_seconds": 300,
-  "live": {
-    "68909866": {
-      "display_name": "PuckThePixieVT",
-      "game_name": "Dungeons & Dragons",
-      "login": "puckthepixievt",
-      "started_at": "2026-10-18T00:03:17Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
-      "title": "[18+] Fanged Smiles and a lake of blood | D&D",
-      "url": "https://www.twitch.tv/puckthepixievt"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
