@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-18T00:16:38Z",
+  "updated_at": "2026-10-18T00:21:55Z",
   "members": [
     {
       "id": "count-delmure",
@@ -11,7 +11,7 @@
         "uuid": "17b1987c-fbaf-438e-8c71-3291c9d85447"
       },
       "head": true,
-      "name": "Count Delmure",
+      "name": "Lord Vernon Delmure",
       "role": "Master of the Treasury, Sword of the Emperor (Imperial Advisor)",
       "age": "37",
       "height": "5'11",
