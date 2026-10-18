@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-17T23:40:11Z",
+  "updated_at": "2026-10-18T00:05:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "Sudden Pantheon Audible on the play | Hunter Main | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "68909866": {
+      "display_name": "PuckThePixieVT",
+      "game_name": "Dungeons & Dragons",
+      "login": "puckthepixievt",
+      "started_at": "2026-10-18T00:03:17Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
+      "title": "[18+] Fanged Smiles and a lake of blood | D&D",
+      "url": "https://www.twitch.tv/puckthepixievt"
     }
   },
   "login_updates": {}
