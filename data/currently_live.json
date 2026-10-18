@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-18T02:55:19Z",
+  "updated_at": "2026-10-18T03:00:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
       "title": "[18+] Fanged Smiles and a lake of blood | D&D",
       "url": "https://www.twitch.tv/puckthepixievt"
-    },
-    "239191238": {
-      "display_name": "RedBladeCrimson",
-      "game_name": "Special Events",
-      "login": "redbladecrimson",
-      "started_at": "2026-10-18T00:29:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
-      "title": "[GamersOutReach] Playing spooky games for charity Day 2! Playing amnesia the dark descent for the first time!",
-      "url": "https://www.twitch.tv/redbladecrimson"
     }
   },
   "login_updates": {}
