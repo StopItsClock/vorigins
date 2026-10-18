@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-18T03:35:10Z",
+  "updated_at": "2026-10-18T03:45:12Z",
   "poll_seconds": 300,
   "live": {
-    "58276005": {
-      "display_name": "Banana_Ramajama",
-      "game_name": "Destiny 2",
-      "login": "banana_ramajama",
-      "started_at": "2026-10-17T21:59:11Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
-      "title": "Sudden Pantheon Audible on the play | Hunter Main | !discord !horror !lurk !clip",
-      "url": "https://www.twitch.tv/banana_ramajama"
-    },
     "68909866": {
       "display_name": "PuckThePixieVT",
       "game_name": "Dungeons & Dragons",
