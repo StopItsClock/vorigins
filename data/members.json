@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-18T17:34:56Z",
+  "updated_at": "2026-10-18T17:35:41Z",
   "members": [
     {
       "id": "count-delmure",
@@ -294,6 +294,27 @@
       "twitch": {
         "login": "raiinelive",
         "id": "139155084"
+      }
+    },
+    {
+      "id": "flo-ya-wa",
+      "faction": "alliance",
+      "order": 60,
+      "minecraft": {
+        "name": "Helpinghand97",
+        "uuid": "0aa9c55c-c175-448f-81d7-3ad19b919f96"
+      },
+      "head": true,
+      "name": "Flo Ya-Wa",
+      "role": "",
+      "age": "35",
+      "height": "5'5",
+      "race": "Water Genasi",
+      "kingdom": "Asteria",
+      "bio": "Knowledge has to flow as easily as freedom does. I will find where it is least resistant and I will take care of opening the gates.",
+      "twitch": {
+        "login": "helpinghand97",
+        "id": "63513141"
       }
     },
     {
