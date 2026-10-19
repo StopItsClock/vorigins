@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-19T21:55:10Z",
+  "updated_at": "2026-10-19T22:30:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "Its zombie killing day and I'm all out of day | With @tiny_purple_bear | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "68909866": {
+      "display_name": "PuckThePixieVT",
+      "game_name": "Just Chatting",
+      "login": "puckthepixievt",
+      "started_at": "2026-10-19T22:26:38Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
+      "title": "[18+] Let's yap! Chatting stream!",
+      "url": "https://www.twitch.tv/puckthepixievt"
     },
     "228334289": {
       "display_name": "Rams404Vt",
