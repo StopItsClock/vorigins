@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-19T03:50:10Z",
+  "updated_at": "2026-10-19T04:00:10Z",
   "poll_seconds": 300,
   "live": {
     "119893530": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
       "title": "[Sprout 🌱] Yapping, Blue Quests, and Gathering! 🧊 !pine !socials !cover 🍧 @frostedplague7",
       "url": "https://www.twitch.tv/frostedplague7"
-    },
-    "239191238": {
-      "display_name": "RedBladeCrimson",
-      "game_name": "Resident Evil",
-      "login": "redbladecrimson",
-      "started_at": "2026-10-19T00:30:12Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
-      "title": "[First time Resident Evil] Henchmen finds out the residents are evil! Raising money for GamersOutReach!",
-      "url": "https://www.twitch.tv/redbladecrimson"
     }
   },
   "login_updates": {}
