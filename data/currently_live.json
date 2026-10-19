@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-19T03:20:10Z",
+  "updated_at": "2026-10-19T03:50:10Z",
   "poll_seconds": 300,
   "live": {
     "119893530": {
@@ -20,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
       "title": "[First time Resident Evil] Henchmen finds out the residents are evil! Raising money for GamersOutReach!",
       "url": "https://www.twitch.tv/redbladecrimson"
-    },
-    "761873718": {
-      "display_name": "cylinks_owo",
-      "game_name": "Just Chatting",
-      "login": "cylinks_owo",
-      "started_at": "2026-10-19T01:00:34Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cylinks_owo-{width}x{height}.jpg",
-      "title": "HOT~TAKES☕",
-      "url": "https://www.twitch.tv/cylinks_owo"
     }
   },
   "login_updates": {}
