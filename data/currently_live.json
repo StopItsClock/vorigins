@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-19T05:10:10Z",
+  "updated_at": "2026-10-19T05:40:10Z",
   "poll_seconds": 300,
-  "live": {
-    "119893530": {
-      "display_name": "FrostedPlague7",
-      "game_name": "FINAL FANTASY XIV ONLINE",
-      "login": "frostedplague7",
-      "started_at": "2026-10-19T01:03:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
-      "title": "[Sprout 🌱] Yapping, Blue Quests, and Gathering! 🧊 !pine !socials !cover 🍧 @frostedplague7",
-      "url": "https://www.twitch.tv/frostedplague7"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
