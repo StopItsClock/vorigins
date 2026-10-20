@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-20T22:05:10Z",
+  "updated_at": "2026-10-20T22:20:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -29,15 +29,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
       "title": "I AM BACKKK BABYYY AND WE ARE PLAYING Deadlock??? | !Discord !lurk | 🐉🧟",
       "url": "https://www.twitch.tv/dracolicheren"
-    },
-    "835371235": {
-      "display_name": "MizuRelictus",
-      "game_name": "Risk of Rain 2",
-      "login": "mizurelictus",
-      "started_at": "2026-10-20T15:01:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
-      "title": "[RoR2] Oldges clear the new DLC 1st time no issues at all surely :)",
-      "url": "https://www.twitch.tv/mizurelictus"
     }
   },
   "login_updates": {}
