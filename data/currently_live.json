@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-19T23:40:10Z",
+  "updated_at": "2026-10-20T00:00:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
       "title": "[18+] Let's yap! Chatting stream!",
       "url": "https://www.twitch.tv/puckthepixievt"
-    },
-    "228334289": {
-      "display_name": "Rams404Vt",
-      "game_name": "Marvel Rivals",
-      "login": "rams404vt",
-      "started_at": "2026-10-19T20:28:11Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
-      "title": "✨[18+ Eng/Esp] ✨Your girl is back on the grind for ranked ✨ !socials !lurk  @rams404vt ✨",
-      "url": "https://www.twitch.tv/rams404vt"
     }
   },
   "login_updates": {}
