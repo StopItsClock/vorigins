@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-20T23:20:10Z",
+  "updated_at": "2026-10-20T23:30:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "And they evolve into... A NUN WITH A GUN?! | Hackers Memory First Playthrough | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
-    },
-    "243161944": {
-      "display_name": "DracolicheRen",
-      "game_name": "Deadlock",
-      "login": "dracolicheren",
-      "started_at": "2026-10-20T21:17:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
-      "title": "I AM BACKKK BABYYY AND WE ARE PLAYING Deadlock??? | !Discord !lurk | 🐉🧟",
-      "url": "https://www.twitch.tv/dracolicheren"
     }
   },
   "login_updates": {}
