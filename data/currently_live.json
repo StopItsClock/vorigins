@@ -1,8 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-20T21:55:10Z",
+  "updated_at": "2026-10-20T22:00:10Z",
   "poll_seconds": 300,
   "live": {
+    "68909866": {
+      "display_name": "PuckThePixieVT",
+      "game_name": "Music",
+      "login": "puckthepixievt",
+      "started_at": "2026-10-20T21:57:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
+      "title": "[18+] Standing karaoke! Let's jam!",
+      "url": "https://www.twitch.tv/puckthepixievt"
+    },
     "243161944": {
       "display_name": "DracolicheRen",
       "game_name": "Deadlock",
