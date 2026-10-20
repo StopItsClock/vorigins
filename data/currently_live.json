@@ -1,8 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-20T22:00:10Z",
+  "updated_at": "2026-10-20T22:05:10Z",
   "poll_seconds": 300,
   "live": {
+    "58276005": {
+      "display_name": "Banana_Ramajama",
+      "game_name": "Digimon Story: Cyber Sleuth - Hacker's Memory",
+      "login": "banana_ramajama",
+      "started_at": "2026-10-20T22:00:06Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
+      "title": "And they evolve into... A NUN WITH A GUN?! | Hackers Memory First Playthrough | !discord !horror !lurk !clip",
+      "url": "https://www.twitch.tv/banana_ramajama"
+    },
     "68909866": {
       "display_name": "PuckThePixieVT",
       "game_name": "Music",
