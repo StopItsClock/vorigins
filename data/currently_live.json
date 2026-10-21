@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-21T20:05:12Z",
+  "updated_at": "2026-10-21T20:15:10Z",
   "poll_seconds": 300,
   "live": {
     "228334289": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
       "title": "✨[18+ Eng/Esp] ✨I'm back in the freaking ocean again✨ !socials !lurk  @rams404vt ✨",
       "url": "https://www.twitch.tv/rams404vt"
-    },
-    "835371235": {
-      "display_name": "MizuRelictus",
-      "game_name": "Echoes of Mystralia",
-      "login": "mizurelictus",
-      "started_at": "2026-10-21T16:56:52Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
-      "title": "[Echoes of Mystralia] Checking new content & giving away 2 KEYS TO THE GAME AT 23 UTC +3",
-      "url": "https://www.twitch.tv/mizurelictus"
     }
   },
   "login_updates": {}
