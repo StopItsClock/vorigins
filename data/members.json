@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-21T18:53:30Z",
+  "updated_at": "2026-10-21T18:54:37Z",
   "members": [
     {
       "id": "count-delmure",
@@ -189,6 +189,27 @@
       "twitch": {
         "login": "redbladecrimson",
         "id": "239191238"
+      }
+    },
+    {
+      "id": "philip-rhamu",
+      "faction": "empire",
+      "order": 110,
+      "minecraft": {
+        "name": "Elio_Zinn",
+        "uuid": "e946ad95-80ca-4094-a4f4-5f073acb9234"
+      },
+      "head": true,
+      "name": "Philip Rhamu",
+      "role": "",
+      "age": "18",
+      "height": "5'5",
+      "race": "Human",
+      "kingdom": "Kiyomori",
+      "bio": "Don't forget to smile friend! They're worth a thousand words and I want to hear each one of them!",
+      "twitch": {
+        "login": "elio_zinn",
+        "id": "1003296268"
       }
     },
     {
