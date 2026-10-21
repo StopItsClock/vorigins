@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-21T18:59:27Z",
+  "updated_at": "2026-10-21T19:03:20Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -57,7 +57,7 @@
       "role": "",
       "age": "",
       "height": "",
-      "race": "",
+      "race": "Human",
       "kingdom": "Kiyomori",
       "bio": "",
       "twitch": {
