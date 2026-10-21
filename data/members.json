@@ -1,32 +1,11 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-21T18:59:23Z",
+  "updated_at": "2026-10-21T18:59:27Z",
   "members": [
-    {
-      "id": "count-delmure",
-      "faction": "empire",
-      "order": 10,
-      "minecraft": {
-        "name": "Midas_Is_Hot",
-        "uuid": "17b1987c-fbaf-438e-8c71-3291c9d85447"
-      },
-      "head": true,
-      "name": "Lord Vernon Delmure",
-      "role": "Master of the Treasury, Sword of the Emperor (Imperial Advisor)",
-      "age": "37",
-      "height": "5'11",
-      "race": "Human",
-      "kingdom": "Kiyomori",
-      "bio": "",
-      "twitch": {
-        "login": "midasredding",
-        "id": "219160446"
-      }
-    },
     {
       "id": "alexander-da-maris",
       "faction": "empire",
-      "order": 20,
+      "order": 10,
       "minecraft": {
         "name": "Meoweomell",
         "uuid": "2e4f9971-4fdb-4386-b805-bfe78c344a3a"
@@ -42,6 +21,27 @@
       "twitch": {
         "login": "meoweomell_marsyus_seliem",
         "id": "983832675"
+      }
+    },
+    {
+      "id": "count-delmure",
+      "faction": "empire",
+      "order": 20,
+      "minecraft": {
+        "name": "Midas_Is_Hot",
+        "uuid": "17b1987c-fbaf-438e-8c71-3291c9d85447"
+      },
+      "head": true,
+      "name": "Lord Vernon Delmure",
+      "role": "Master of the Treasury, Sword of the Emperor (Imperial Advisor)",
+      "age": "37",
+      "height": "5'11",
+      "race": "Human",
+      "kingdom": "Kiyomori",
+      "bio": "",
+      "twitch": {
+        "login": "midasredding",
+        "id": "219160446"
       }
     },
     {
