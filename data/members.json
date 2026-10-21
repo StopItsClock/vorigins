@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-21T18:57:52Z",
+  "updated_at": "2026-10-21T18:57:55Z",
   "members": [
     {
       "id": "count-delmure",
@@ -108,30 +108,9 @@
       }
     },
     {
-      "id": "giuseppe-banana-crabapple",
-      "faction": "empire",
-      "order": 60,
-      "minecraft": {
-        "name": "Bananaramajama",
-        "uuid": ""
-      },
-      "head": false,
-      "name": "Giuseppe 'Banana' Crabapple",
-      "role": "",
-      "age": "22",
-      "height": "6'0",
-      "race": "Human",
-      "kingdom": "Kiyomori",
-      "bio": "A Ranger chasing the ghosts of the past, hoping to put them to rest.\nMaybe then he can find forgiveness.",
-      "twitch": {
-        "login": "banana_ramajama",
-        "id": "58276005"
-      }
-    },
-    {
       "id": "alexander-da-maris",
       "faction": "empire",
-      "order": 70,
+      "order": 60,
       "minecraft": {
         "name": "Meoweomell",
         "uuid": "2e4f9971-4fdb-4386-b805-bfe78c344a3a"
@@ -147,6 +126,27 @@
       "twitch": {
         "login": "meoweomell_marsyus_seliem",
         "id": "983832675"
+      }
+    },
+    {
+      "id": "giuseppe-banana-crabapple",
+      "faction": "empire",
+      "order": 70,
+      "minecraft": {
+        "name": "Bananaramajama",
+        "uuid": ""
+      },
+      "head": false,
+      "name": "Giuseppe 'Banana' Crabapple",
+      "role": "",
+      "age": "22",
+      "height": "6'0",
+      "race": "Human",
+      "kingdom": "Kiyomori",
+      "bio": "A Ranger chasing the ghosts of the past, hoping to put them to rest.\nMaybe then he can find forgiveness.",
+      "twitch": {
+        "login": "banana_ramajama",
+        "id": "58276005"
       }
     },
     {
