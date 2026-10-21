@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-21T18:57:45Z",
+  "updated_at": "2026-10-21T18:57:49Z",
   "members": [
     {
       "id": "count-delmure",
@@ -150,30 +150,9 @@
       }
     },
     {
-      "id": "shion",
-      "faction": "empire",
-      "order": 80,
-      "minecraft": {
-        "name": "wiltedIrony",
-        "uuid": "aacf0b35-0282-455a-932c-fb0bf4ec161c"
-      },
-      "head": true,
-      "name": "Shion",
-      "role": "",
-      "age": "24",
-      "height": "5'8",
-      "race": "Human",
-      "kingdom": "Kiyomori",
-      "bio": "A socially awkward human trying to discern the truth behind the Unforgiven, while learning to deal with their unreliable memory, conditional belonging, and the fear that the dead might be the only people who truly wanted them.",
-      "twitch": {
-        "login": "wiltedirony",
-        "id": "886081934"
-      }
-    },
-    {
       "id": "alexander-da-maris",
       "faction": "empire",
-      "order": 90,
+      "order": 80,
       "minecraft": {
         "name": "Meoweomell",
         "uuid": "2e4f9971-4fdb-4386-b805-bfe78c344a3a"
@@ -189,6 +168,27 @@
       "twitch": {
         "login": "meoweomell_marsyus_seliem",
         "id": "983832675"
+      }
+    },
+    {
+      "id": "shion",
+      "faction": "empire",
+      "order": 90,
+      "minecraft": {
+        "name": "wiltedIrony",
+        "uuid": "aacf0b35-0282-455a-932c-fb0bf4ec161c"
+      },
+      "head": true,
+      "name": "Shion",
+      "role": "",
+      "age": "24",
+      "height": "5'8",
+      "race": "Human",
+      "kingdom": "Kiyomori",
+      "bio": "A socially awkward human trying to discern the truth behind the Unforgiven, while learning to deal with their unreliable memory, conditional belonging, and the fear that the dead might be the only people who truly wanted them.",
+      "twitch": {
+        "login": "wiltedirony",
+        "id": "886081934"
       }
     },
     {
