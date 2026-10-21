@@ -1,8 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-21T21:55:10Z",
+  "updated_at": "2026-10-21T22:05:10Z",
   "poll_seconds": 300,
   "live": {
+    "68909866": {
+      "display_name": "PuckThePixieVT",
+      "game_name": "Halo: The Master Chief Collection",
+      "login": "puckthepixievt",
+      "started_at": "2026-10-21T22:00:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
+      "title": "[18+] i am filling out a job application mid collab send help",
+      "url": "https://www.twitch.tv/puckthepixievt"
+    },
     "228334289": {
       "display_name": "Rams404Vt",
       "game_name": "Minecraft",
