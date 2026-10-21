@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-21T18:54:37Z",
+  "updated_at": "2026-10-21T18:55:43Z",
   "members": [
     {
       "id": "count-delmure",
@@ -210,6 +210,27 @@
       "twitch": {
         "login": "elio_zinn",
         "id": "1003296268"
+      }
+    },
+    {
+      "id": "alexander-da-maris",
+      "faction": "empire",
+      "order": 120,
+      "minecraft": {
+        "name": "Meoweomell",
+        "uuid": "2e4f9971-4fdb-4386-b805-bfe78c344a3a"
+      },
+      "head": true,
+      "name": "Alexander Da Maris",
+      "role": "The Emperor",
+      "age": "35",
+      "height": "5'11",
+      "race": "Human",
+      "kingdom": "Kiyomori",
+      "bio": "A self crowned Emperor, the ruler of Kiyomori. Most well known for his eccentricity",
+      "twitch": {
+        "login": "meoweomell_marsyus_seliem",
+        "id": "983832675"
       }
     },
     {
