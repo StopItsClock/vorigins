@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-21T05:45:11Z",
+  "updated_at": "2026-10-21T05:51:04Z",
   "poll_seconds": 300,
-  "live": {
-    "110867034": {
-      "display_name": "VVDragon_",
-      "game_name": "FTL: Faster Than Light",
-      "login": "vvdragon_",
-      "started_at": "2026-10-21T02:57:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
-      "title": "[FTL: MULTIVERSE] Crashing Ships In Space!",
-      "url": "https://www.twitch.tv/vvdragon_"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
