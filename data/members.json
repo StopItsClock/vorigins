@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-21T18:58:02Z",
+  "updated_at": "2026-10-21T18:59:19Z",
   "members": [
     {
       "id": "count-delmure",
@@ -45,30 +45,9 @@
       }
     },
     {
-      "id": "kai",
-      "faction": "empire",
-      "order": 30,
-      "minecraft": {
-        "name": "Lost0ni",
-        "uuid": "b144482f-93ef-47ad-aa81-6c9097fc1655"
-      },
-      "head": true,
-      "name": "Kai Cho",
-      "role": "",
-      "age": "56",
-      "height": "5'10",
-      "race": "Human",
-      "kingdom": "Kiyomori",
-      "bio": "",
-      "twitch": {
-        "login": "lostoni_",
-        "id": "231199835"
-      }
-    },
-    {
       "id": "alexander-da-maris",
       "faction": "empire",
-      "order": 40,
+      "order": 30,
       "minecraft": {
         "name": "Meoweomell",
         "uuid": "2e4f9971-4fdb-4386-b805-bfe78c344a3a"
@@ -84,6 +63,27 @@
       "twitch": {
         "login": "meoweomell_marsyus_seliem",
         "id": "983832675"
+      }
+    },
+    {
+      "id": "kai",
+      "faction": "empire",
+      "order": 40,
+      "minecraft": {
+        "name": "Lost0ni",
+        "uuid": "b144482f-93ef-47ad-aa81-6c9097fc1655"
+      },
+      "head": true,
+      "name": "Kai Cho",
+      "role": "",
+      "age": "56",
+      "height": "5'10",
+      "race": "Human",
+      "kingdom": "Kiyomori",
+      "bio": "",
+      "twitch": {
+        "login": "lostoni_",
+        "id": "231199835"
       }
     },
     {
