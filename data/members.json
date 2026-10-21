@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-21T18:59:19Z",
+  "updated_at": "2026-10-21T18:59:23Z",
   "members": [
     {
       "id": "count-delmure",
@@ -24,30 +24,9 @@
       }
     },
     {
-      "id": "rams",
-      "faction": "empire",
-      "order": 20,
-      "minecraft": {
-        "name": "Rams404",
-        "uuid": "88cc9982-42a3-4759-b016-ed6294107cb0"
-      },
-      "head": true,
-      "name": "Violet",
-      "role": "",
-      "age": "",
-      "height": "",
-      "race": "",
-      "kingdom": "Kiyomori",
-      "bio": "",
-      "twitch": {
-        "login": "rams404vt",
-        "id": "228334289"
-      }
-    },
-    {
       "id": "alexander-da-maris",
       "faction": "empire",
-      "order": 30,
+      "order": 20,
       "minecraft": {
         "name": "Meoweomell",
         "uuid": "2e4f9971-4fdb-4386-b805-bfe78c344a3a"
@@ -63,6 +42,27 @@
       "twitch": {
         "login": "meoweomell_marsyus_seliem",
         "id": "983832675"
+      }
+    },
+    {
+      "id": "rams",
+      "faction": "empire",
+      "order": 30,
+      "minecraft": {
+        "name": "Rams404",
+        "uuid": "88cc9982-42a3-4759-b016-ed6294107cb0"
+      },
+      "head": true,
+      "name": "Violet",
+      "role": "",
+      "age": "",
+      "height": "",
+      "race": "",
+      "kingdom": "Kiyomori",
+      "bio": "",
+      "twitch": {
+        "login": "rams404vt",
+        "id": "228334289"
       }
     },
     {
