@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-21T18:57:58Z",
+  "updated_at": "2026-10-21T18:58:02Z",
   "members": [
     {
       "id": "count-delmure",
@@ -66,30 +66,9 @@
       }
     },
     {
-      "id": "rook",
-      "faction": "empire",
-      "order": 40,
-      "minecraft": {
-        "name": "Ren_Dracoliche",
-        "uuid": "70b1ff56-9d2c-4ba5-a9d0-ce8a936d598e"
-      },
-      "head": true,
-      "name": "Rook",
-      "role": "",
-      "age": "",
-      "height": "6'0",
-      "race": "Human",
-      "kingdom": "Kiyomori",
-      "bio": "\"Only I can cure this damned disease\"",
-      "twitch": {
-        "login": "dracolicheren",
-        "id": "243161944"
-      }
-    },
-    {
       "id": "alexander-da-maris",
       "faction": "empire",
-      "order": 50,
+      "order": 40,
       "minecraft": {
         "name": "Meoweomell",
         "uuid": "2e4f9971-4fdb-4386-b805-bfe78c344a3a"
@@ -105,6 +84,27 @@
       "twitch": {
         "login": "meoweomell_marsyus_seliem",
         "id": "983832675"
+      }
+    },
+    {
+      "id": "rook",
+      "faction": "empire",
+      "order": 50,
+      "minecraft": {
+        "name": "Ren_Dracoliche",
+        "uuid": "70b1ff56-9d2c-4ba5-a9d0-ce8a936d598e"
+      },
+      "head": true,
+      "name": "Rook",
+      "role": "",
+      "age": "",
+      "height": "6'0",
+      "race": "Human",
+      "kingdom": "Kiyomori",
+      "bio": "\"Only I can cure this damned disease\"",
+      "twitch": {
+        "login": "dracolicheren",
+        "id": "243161944"
       }
     },
     {
