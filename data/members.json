@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-21T18:56:30Z",
+  "updated_at": "2026-10-21T18:57:41Z",
   "members": [
     {
       "id": "count-delmure",
@@ -26,7 +26,7 @@
     {
       "id": "rams",
       "faction": "empire",
-      "order": 30,
+      "order": 20,
       "minecraft": {
         "name": "Rams404",
         "uuid": "88cc9982-42a3-4759-b016-ed6294107cb0"
@@ -47,7 +47,7 @@
     {
       "id": "kai",
       "faction": "empire",
-      "order": 40,
+      "order": 30,
       "minecraft": {
         "name": "Lost0ni",
         "uuid": "b144482f-93ef-47ad-aa81-6c9097fc1655"
@@ -68,7 +68,7 @@
     {
       "id": "rook",
       "faction": "empire",
-      "order": 50,
+      "order": 40,
       "minecraft": {
         "name": "Ren_Dracoliche",
         "uuid": "70b1ff56-9d2c-4ba5-a9d0-ce8a936d598e"
@@ -89,7 +89,7 @@
     {
       "id": "the-collective",
       "faction": "empire",
-      "order": 60,
+      "order": 50,
       "minecraft": {
         "name": "Chubblezap",
         "uuid": "26e4150c-4ffd-4a1f-85b3-fb05cb47f516"
@@ -110,7 +110,7 @@
     {
       "id": "giuseppe-banana-crabapple",
       "faction": "empire",
-      "order": 70,
+      "order": 60,
       "minecraft": {
         "name": "Bananaramajama",
         "uuid": ""
@@ -131,7 +131,7 @@
     {
       "id": "winnifred-sterling",
       "faction": "empire",
-      "order": 80,
+      "order": 70,
       "minecraft": {
         "name": "66GrimDemise66",
         "uuid": "bab80933-cdbc-4d2c-b9f4-5026879cf4ab"
@@ -152,7 +152,7 @@
     {
       "id": "shion",
       "faction": "empire",
-      "order": 90,
+      "order": 80,
       "minecraft": {
         "name": "wiltedIrony",
         "uuid": "aacf0b35-0282-455a-932c-fb0bf4ec161c"
@@ -173,7 +173,7 @@
     {
       "id": "dallius",
       "faction": "empire",
-      "order": 100,
+      "order": 90,
       "minecraft": {
         "name": "RedBladeCrimson",
         "uuid": "59dce730-5419-4276-8715-219d00336bfc"
@@ -189,6 +189,27 @@
       "twitch": {
         "login": "redbladecrimson",
         "id": "239191238"
+      }
+    },
+    {
+      "id": "alexander-da-maris",
+      "faction": "empire",
+      "order": 100,
+      "minecraft": {
+        "name": "Meoweomell",
+        "uuid": "2e4f9971-4fdb-4386-b805-bfe78c344a3a"
+      },
+      "head": true,
+      "name": "Alexander Da Maris",
+      "role": "The Emperor",
+      "age": "35",
+      "height": "5'11",
+      "race": "Human",
+      "kingdom": "Kiyomori",
+      "bio": "A self crowned Emperor, the ruler of Kiyomori. Most well known for his eccentricity",
+      "twitch": {
+        "login": "meoweomell_marsyus_seliem",
+        "id": "983832675"
       }
     },
     {
@@ -210,27 +231,6 @@
       "twitch": {
         "login": "elio_zinn",
         "id": "1003296268"
-      }
-    },
-    {
-      "id": "alexander-da-maris",
-      "faction": "empire",
-      "order": 120,
-      "minecraft": {
-        "name": "Meoweomell",
-        "uuid": "2e4f9971-4fdb-4386-b805-bfe78c344a3a"
-      },
-      "head": true,
-      "name": "Alexander Da Maris",
-      "role": "The Emperor",
-      "age": "35",
-      "height": "5'11",
-      "race": "Human",
-      "kingdom": "Kiyomori",
-      "bio": "A self crowned Emperor, the ruler of Kiyomori. Most well known for his eccentricity",
-      "twitch": {
-        "login": "meoweomell_marsyus_seliem",
-        "id": "983832675"
       }
     },
     {
