@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-21T22:05:10Z",
+  "updated_at": "2026-10-21T22:15:11Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
       "title": "✨[18+ Eng/Esp] ✨I'm back in the freaking ocean again✨ !socials !lurk  @rams404vt ✨",
       "url": "https://www.twitch.tv/rams404vt"
+    },
+    "1380109945": {
+      "display_name": "NovaAustralis",
+      "game_name": "Layers of Fear",
+      "login": "novaaustralis",
+      "started_at": "2026-10-21T22:10:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_novaaustralis-{width}x{height}.jpg",
+      "title": "We're gonna paint a totally normal and pretty picture! [ Layers of Fear ] !discord !socials !pet",
+      "url": "https://www.twitch.tv/novaaustralis"
     }
   },
   "login_updates": {}
