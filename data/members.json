@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-21T18:57:41Z",
+  "updated_at": "2026-10-21T18:57:45Z",
   "members": [
     {
       "id": "count-delmure",
@@ -171,30 +171,9 @@
       }
     },
     {
-      "id": "dallius",
-      "faction": "empire",
-      "order": 90,
-      "minecraft": {
-        "name": "RedBladeCrimson",
-        "uuid": "59dce730-5419-4276-8715-219d00336bfc"
-      },
-      "head": true,
-      "name": "Dallius",
-      "role": "",
-      "age": "28",
-      "height": "6'4",
-      "race": "Human",
-      "kingdom": "Kiyomori",
-      "bio": "Dallius is a battle hardened character, having a lot of resentment for war, as he lost both his mother and father in the hollow war, he aims to use his actions to protect those who cannot protect themselves.",
-      "twitch": {
-        "login": "redbladecrimson",
-        "id": "239191238"
-      }
-    },
-    {
       "id": "alexander-da-maris",
       "faction": "empire",
-      "order": 100,
+      "order": 90,
       "minecraft": {
         "name": "Meoweomell",
         "uuid": "2e4f9971-4fdb-4386-b805-bfe78c344a3a"
@@ -210,6 +189,27 @@
       "twitch": {
         "login": "meoweomell_marsyus_seliem",
         "id": "983832675"
+      }
+    },
+    {
+      "id": "dallius",
+      "faction": "empire",
+      "order": 100,
+      "minecraft": {
+        "name": "RedBladeCrimson",
+        "uuid": "59dce730-5419-4276-8715-219d00336bfc"
+      },
+      "head": true,
+      "name": "Dallius",
+      "role": "",
+      "age": "28",
+      "height": "6'4",
+      "race": "Human",
+      "kingdom": "Kiyomori",
+      "bio": "Dallius is a battle hardened character, having a lot of resentment for war, as he lost both his mother and father in the hollow war, he aims to use his actions to protect those who cannot protect themselves.",
+      "twitch": {
+        "login": "redbladecrimson",
+        "id": "239191238"
       }
     },
     {
