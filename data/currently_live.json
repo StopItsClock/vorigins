@@ -1,8 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T02:15:10Z",
+  "updated_at": "2026-10-22T02:35:10Z",
   "poll_seconds": 300,
   "live": {
+    "77176298": {
+      "display_name": "ShivaRoseBloom",
+      "game_name": "Frostrail",
+      "login": "shivarosebloom",
+      "started_at": "2026-10-22T02:08:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
+      "title": "🌹[Frostrail] Getting big, round, and frosty while Vapor gets railed",
+      "url": "https://www.twitch.tv/shivarosebloom"
+    },
     "243161944": {
       "display_name": "DracolicheRen",
       "game_name": "Frostrail",
