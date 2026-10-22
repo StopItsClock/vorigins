@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T18:50:11Z",
+  "updated_at": "2026-10-22T19:05:10Z",
   "poll_seconds": 300,
-  "live": {
-    "835371235": {
-      "display_name": "MizuRelictus",
-      "game_name": "Monster Hunter Wilds",
-      "login": "mizurelictus",
-      "started_at": "2026-10-22T15:03:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
-      "title": "[MH:WI] The BOYS are back at again",
-      "url": "https://www.twitch.tv/mizurelictus"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
