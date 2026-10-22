@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T00:40:18Z",
+  "updated_at": "2026-10-22T01:07:56Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -133,10 +133,10 @@
       "faction": "empire",
       "order": 70,
       "minecraft": {
-        "name": "Bananaramajama",
-        "uuid": ""
+        "name": "Bananaramajama_",
+        "uuid": "16b4e7c9-8574-416d-a780-9768f4b62647"
       },
-      "head": false,
+      "head": true,
       "name": "Giuseppe 'Banana' Crabapple",
       "role": "",
       "age": "22",
