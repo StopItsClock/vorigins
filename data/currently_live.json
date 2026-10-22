@@ -1,7 +1,26 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T19:05:10Z",
+  "updated_at": "2026-10-22T21:58:28Z",
   "poll_seconds": 300,
-  "live": {},
+  "live": {
+    "58276005": {
+      "display_name": "Banana_Ramajama",
+      "game_name": "Clive Barker's Hellraiser: Revival",
+      "login": "banana_ramajama",
+      "started_at": "2026-10-22T21:53:44Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
+      "title": "Oh Hey, it's horror night I sure hope I dont get a hook through my flesh |  First Playthrough | !discord !horror !lurk !clip",
+      "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "68909866": {
+      "display_name": "PuckThePixieVT",
+      "game_name": "Music",
+      "login": "puckthepixievt",
+      "started_at": "2026-10-22T21:58:09Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
+      "title": "[18+] Go pixie boy go | Karaoke!",
+      "url": "https://www.twitch.tv/puckthepixievt"
+    }
+  },
   "login_updates": {}
 }
