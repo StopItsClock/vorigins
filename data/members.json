@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T19:13:12Z",
+  "updated_at": "2026-10-22T19:13:16Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -297,30 +297,9 @@
       }
     },
     {
-      "id": "flo-ya-wa",
-      "faction": "alliance",
-      "order": 40,
-      "minecraft": {
-        "name": "Helpinghand97",
-        "uuid": "0aa9c55c-c175-448f-81d7-3ad19b919f96"
-      },
-      "head": true,
-      "name": "Flo Ya-Wa",
-      "role": "",
-      "age": "35",
-      "height": "5'5",
-      "race": "Water Genasi",
-      "kingdom": "Asteria",
-      "bio": "Knowledge has to flow as easily as freedom does. I will find where it is least resistant and I will take care of opening the gates.",
-      "twitch": {
-        "login": "helpinghand97",
-        "id": "63513141"
-      }
-    },
-    {
       "id": "fernis-solenne",
       "faction": "alliance",
-      "order": 50,
+      "order": 40,
       "minecraft": {
         "name": "AidenChi",
         "uuid": "de560e70-cb01-4494-956d-4cb0f4b674a3"
@@ -336,6 +315,27 @@
       "twitch": {
         "login": "aidenchiivt",
         "id": "209565401"
+      }
+    },
+    {
+      "id": "flo-ya-wa",
+      "faction": "alliance",
+      "order": 50,
+      "minecraft": {
+        "name": "Helpinghand97",
+        "uuid": "0aa9c55c-c175-448f-81d7-3ad19b919f96"
+      },
+      "head": true,
+      "name": "Flo Ya-Wa",
+      "role": "",
+      "age": "35",
+      "height": "5'5",
+      "race": "Water Genasi",
+      "kingdom": "Asteria",
+      "bio": "Knowledge has to flow as easily as freedom does. I will find where it is least resistant and I will take care of opening the gates.",
+      "twitch": {
+        "login": "helpinghand97",
+        "id": "63513141"
       }
     },
     {
