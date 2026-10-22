@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T19:13:16Z",
+  "updated_at": "2026-10-22T19:13:19Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -276,30 +276,9 @@
       }
     },
     {
-      "id": "scylla-greystrom",
-      "faction": "alliance",
-      "order": 30,
-      "minecraft": {
-        "name": "raiinedays",
-        "uuid": "ef65a91c-371e-45ee-bfab-4b62bd934546"
-      },
-      "head": true,
-      "name": "Scylla Greystrom",
-      "role": "",
-      "age": "49",
-      "height": "5'9",
-      "race": "Water Genasi",
-      "kingdom": "Asteria",
-      "bio": "Scylla is a very cynical Water Genasi disciple of the church of Mother Pearl. She holds great disdain towards all other kingdoms and became a clergy member after the death of her late wife- an Earth Genasi who died in the Hollow War. Scylla believes that her beloved goddess will save us all.",
-      "twitch": {
-        "login": "raiinelive",
-        "id": "139155084"
-      }
-    },
-    {
       "id": "fernis-solenne",
       "faction": "alliance",
-      "order": 40,
+      "order": 30,
       "minecraft": {
         "name": "AidenChi",
         "uuid": "de560e70-cb01-4494-956d-4cb0f4b674a3"
@@ -315,6 +294,27 @@
       "twitch": {
         "login": "aidenchiivt",
         "id": "209565401"
+      }
+    },
+    {
+      "id": "scylla-greystrom",
+      "faction": "alliance",
+      "order": 40,
+      "minecraft": {
+        "name": "raiinedays",
+        "uuid": "ef65a91c-371e-45ee-bfab-4b62bd934546"
+      },
+      "head": true,
+      "name": "Scylla Greystrom",
+      "role": "",
+      "age": "49",
+      "height": "5'9",
+      "race": "Water Genasi",
+      "kingdom": "Asteria",
+      "bio": "Scylla is a very cynical Water Genasi disciple of the church of Mother Pearl. She holds great disdain towards all other kingdoms and became a clergy member after the death of her late wife- an Earth Genasi who died in the Hollow War. Scylla believes that her beloved goddess will save us all.",
+      "twitch": {
+        "login": "raiinelive",
+        "id": "139155084"
       }
     },
     {
