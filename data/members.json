@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T01:07:56Z",
+  "updated_at": "2026-10-22T02:33:28Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -420,6 +420,27 @@
       "twitch": {
         "login": "alectoeumenid",
         "id": "819211356"
+      }
+    },
+    {
+      "id": "sister-syzygy-aphelion",
+      "faction": "alliance",
+      "order": 100,
+      "minecraft": {
+        "name": "ShivaRoseBloom",
+        "uuid": "f9f850d6-cd69-43a1-92d5-6c67f0d41624"
+      },
+      "head": true,
+      "name": "Sister Syzygy Aphelion",
+      "role": "",
+      "age": "38",
+      "height": "5'5",
+      "race": "Water Genasi",
+      "kingdom": "Asteria",
+      "bio": "Sister Syzygy is a nun that is devoted to the moon goddess. She wants to help everyone in need and to make sure she is unbiased, she wears a blindfold.",
+      "twitch": {
+        "login": "shivarosebloom",
+        "id": "77176298"
       }
     },
     {
