@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T02:33:28Z",
+  "updated_at": "2026-10-22T02:37:59Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -269,7 +269,7 @@
       "height": "5'1",
       "race": "Water Genasi",
       "kingdom": "Asteria",
-      "bio": "",
+      "bio": "A timid young water genasi diviner with the capabilities to perceive time. Throughout her journey, she seeks to find confidence in herself and make connections she's never had the privilege of having.",
       "twitch": {
         "login": "miyuwanchan",
         "id": "686234820"
