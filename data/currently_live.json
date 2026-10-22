@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T09:50:10Z",
+  "updated_at": "2026-10-22T09:55:11Z",
   "poll_seconds": 300,
-  "live": {
-    "160748634": {
-      "display_name": "celiere",
-      "game_name": "Art",
-      "login": "celiere",
-      "started_at": "2026-10-22T03:57:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
-      "title": "【ART】♡ MC OC time babeyyy ♡ !artq !socials !tip",
-      "url": "https://www.twitch.tv/celiere"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
