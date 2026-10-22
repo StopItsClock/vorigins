@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T01:10:10Z",
+  "updated_at": "2026-10-22T01:45:10Z",
   "poll_seconds": 300,
-  "live": {},
+  "live": {
+    "938069605": {
+      "display_name": "CedarVT",
+      "game_name": "Pokémon Infinite Fusion",
+      "login": "cedarvt",
+      "started_at": "2026-10-22T01:44:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
+      "title": "Soul Link Nuzlocke! ~🍂 !discord !merch",
+      "url": "https://www.twitch.tv/cedarvt"
+    }
+  },
   "login_updates": {}
 }
