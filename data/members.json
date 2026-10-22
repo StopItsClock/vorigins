@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T19:12:56Z",
+  "updated_at": "2026-10-22T19:13:00Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -381,30 +381,9 @@
       }
     },
     {
-      "id": "the-songbird",
-      "faction": "alliance",
-      "order": 80,
-      "minecraft": {
-        "name": "NovaAustralis",
-        "uuid": "8674ad15-066e-443d-ba27-a0dc06ee8194"
-      },
-      "head": true,
-      "name": "The Songbird",
-      "role": "",
-      "age": "27",
-      "height": "5'8",
-      "race": "Fire Genasi",
-      "kingdom": "Asteria",
-      "bio": "Through a mastery of song and performance, The Songbird is known throughout the kingdoms as a traveling bard of great renown. There is magic in the arts and she seeks to ensure their survival even in these uncertain times.",
-      "twitch": {
-        "login": "novaaustralis",
-        "id": "1380109945"
-      }
-    },
-    {
       "id": "fernis-solenne",
       "faction": "alliance",
-      "order": 90,
+      "order": 80,
       "minecraft": {
         "name": "AidenChi",
         "uuid": "de560e70-cb01-4494-956d-4cb0f4b674a3"
@@ -420,6 +399,27 @@
       "twitch": {
         "login": "aidenchiivt",
         "id": "209565401"
+      }
+    },
+    {
+      "id": "the-songbird",
+      "faction": "alliance",
+      "order": 90,
+      "minecraft": {
+        "name": "NovaAustralis",
+        "uuid": "8674ad15-066e-443d-ba27-a0dc06ee8194"
+      },
+      "head": true,
+      "name": "The Songbird",
+      "role": "",
+      "age": "27",
+      "height": "5'8",
+      "race": "Fire Genasi",
+      "kingdom": "Asteria",
+      "bio": "Through a mastery of song and performance, The Songbird is known throughout the kingdoms as a traveling bard of great renown. There is magic in the arts and she seeks to ensure their survival even in these uncertain times.",
+      "twitch": {
+        "login": "novaaustralis",
+        "id": "1380109945"
       }
     },
     {
