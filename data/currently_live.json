@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T04:35:10Z",
+  "updated_at": "2026-10-22T04:45:12Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
       "display_name": "ShivaRoseBloom",
-      "game_name": "Frostrail",
+      "game_name": "Deadlock",
       "login": "shivarosebloom",
       "started_at": "2026-10-22T02:08:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
-      "title": "🌹[Frostrail] Getting big, round, and frosty while Vapor gets railed",
+      "title": "🌹[Deadlock] Getting big, round, and frosty while Vapor gets railed",
       "url": "https://www.twitch.tv/shivarosebloom"
     },
     "160748634": {
@@ -23,11 +23,11 @@
     },
     "555456488": {
       "display_name": "vapVeran",
-      "game_name": "Frostrail",
+      "game_name": "Deadlock",
       "login": "vapveran",
       "started_at": "2026-10-22T03:50:55Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vapveran-{width}x{height}.jpg",
-      "title": "[ LATE LATE LATE ] FROSTRAIL W/ @shivarosebloom @midasredding @dracolicheren",
+      "title": "[ Late Night Deadlock ] Deadlocking it w/ @shivarosebloom",
       "url": "https://www.twitch.tv/vapveran"
     },
     "938069605": {
