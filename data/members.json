@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T00:23:24Z",
+  "updated_at": "2026-10-22T00:24:47Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -525,6 +525,27 @@
       "twitch": {
         "login": "celiere",
         "id": "160748634"
+      }
+    },
+    {
+      "id": "callie-mari",
+      "faction": "independents",
+      "order": 70,
+      "minecraft": {
+        "name": "Caramoreli",
+        "uuid": "e89cdb20-76e0-4f59-ae4e-48a94e383900"
+      },
+      "head": true,
+      "name": "Callie Mari",
+      "role": "",
+      "age": "23",
+      "height": "5'",
+      "race": "Elf",
+      "kingdom": "Elderglen",
+      "bio": "\"I just want to find the peace my brother spoke of\"",
+      "twitch": {
+        "login": "caramoreli",
+        "id": "1350182752"
       }
     }
   ]
