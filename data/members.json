@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T00:26:40Z",
+  "updated_at": "2026-10-22T00:28:22Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -55,11 +55,11 @@
       "head": true,
       "name": "Violet",
       "role": "",
-      "age": "",
-      "height": "",
+      "age": "22",
+      "height": "5'7",
       "race": "Human",
       "kingdom": "Kiyomori",
-      "bio": "",
+      "bio": "Be it an old memory, a living weapon or experiment, I will find out what happened to my kingdom",
       "twitch": {
         "login": "rams404vt",
         "id": "228334289"
