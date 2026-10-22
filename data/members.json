@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T19:13:24Z",
+  "updated_at": "2026-10-22T21:30:22Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -570,30 +570,9 @@
       }
     },
     {
-      "id": "arwen-halariel",
-      "faction": "independents",
-      "order": 60,
-      "minecraft": {
-        "name": "Celiere",
-        "uuid": "d21abec5-63bd-457d-993f-a0dbed7c5fbe"
-      },
-      "head": true,
-      "name": "Arwen Halariel",
-      "role": "",
-      "age": "23",
-      "height": "5'0",
-      "race": "Beastkin",
-      "kingdom": "Elderglen",
-      "bio": "Soft spoken, analytical Snow Leopard beastkin who has a deep connection to the forest and nature; she claims to hear the voices of spirits of the dead and will often go alone into the forest to sing to them.",
-      "twitch": {
-        "login": "celiere",
-        "id": "160748634"
-      }
-    },
-    {
       "id": "callie-mari",
       "faction": "independents",
-      "order": 70,
+      "order": 60,
       "minecraft": {
         "name": "Caramoreli",
         "uuid": "e89cdb20-76e0-4f59-ae4e-48a94e383900"
@@ -609,6 +588,27 @@
       "twitch": {
         "login": "caramoreli",
         "id": "1350182752"
+      }
+    },
+    {
+      "id": "arwen-halariel",
+      "faction": "independents",
+      "order": 70,
+      "minecraft": {
+        "name": "Celiere",
+        "uuid": "d21abec5-63bd-457d-993f-a0dbed7c5fbe"
+      },
+      "head": true,
+      "name": "Arwen Halariel",
+      "role": "",
+      "age": "23",
+      "height": "5'0",
+      "race": "Beastkin",
+      "kingdom": "Elderglen",
+      "bio": "Soft spoken, analytical Snow Leopard beastkin who has a deep connection to the forest and nature; she claims to hear the voices of spirits of the dead and will often go alone into the forest to sing to them.",
+      "twitch": {
+        "login": "celiere",
+        "id": "160748634"
       }
     },
     {
