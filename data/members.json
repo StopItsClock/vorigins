@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T21:31:27Z",
+  "updated_at": "2026-10-22T21:31:30Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -549,30 +549,9 @@
       }
     },
     {
-      "id": "morgan-ashwolf",
-      "faction": "independents",
-      "order": 50,
-      "minecraft": {
-        "name": "Cylinks",
-        "uuid": "c272ba50-0276-472b-a52a-49a4eaac6fb7"
-      },
-      "head": true,
-      "name": "Morgan Ashwolf",
-      "role": "",
-      "age": "",
-      "height": "",
-      "race": "Beastkin",
-      "kingdom": "Elderglen",
-      "bio": "",
-      "twitch": {
-        "login": "cylinks_owo",
-        "id": "761873718"
-      }
-    },
-    {
       "id": "finiel",
       "faction": "independents",
-      "order": 60,
+      "order": 50,
       "minecraft": {
         "name": "CedarVT",
         "uuid": "cb6e98f1-b87c-419e-85b9-1301fa9bc737"
@@ -588,6 +567,27 @@
       "twitch": {
         "login": "cedarvt",
         "id": "938069605"
+      }
+    },
+    {
+      "id": "morgan-ashwolf",
+      "faction": "independents",
+      "order": 60,
+      "minecraft": {
+        "name": "Cylinks",
+        "uuid": "c272ba50-0276-472b-a52a-49a4eaac6fb7"
+      },
+      "head": true,
+      "name": "Morgan Ashwolf",
+      "role": "",
+      "age": "",
+      "height": "",
+      "race": "Beastkin",
+      "kingdom": "Elderglen",
+      "bio": "",
+      "twitch": {
+        "login": "cylinks_owo",
+        "id": "761873718"
       }
     },
     {
