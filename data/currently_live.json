@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T05:30:10Z",
+  "updated_at": "2026-10-22T05:35:10Z",
   "poll_seconds": 300,
   "live": {
-    "77176298": {
-      "display_name": "ShivaRoseBloom",
-      "game_name": "Deadlock",
-      "login": "shivarosebloom",
-      "started_at": "2026-10-22T02:08:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
-      "title": "🌹[Deadlock] Getting big, round, and frosty while Vapor gets railed",
-      "url": "https://www.twitch.tv/shivarosebloom"
-    },
     "160748634": {
       "display_name": "celiere",
       "game_name": "Art",
@@ -20,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
       "title": "【ART】♡ MC OC time babeyyy ♡ !artq !socials !tip",
       "url": "https://www.twitch.tv/celiere"
-    },
-    "555456488": {
-      "display_name": "vapVeran",
-      "game_name": "Deadlock",
-      "login": "vapveran",
-      "started_at": "2026-10-22T03:50:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vapveran-{width}x{height}.jpg",
-      "title": "[ Late Night Deadlock ] Deadlocking it w/ @shivarosebloom",
-      "url": "https://www.twitch.tv/vapveran"
     }
   },
   "login_updates": {}
