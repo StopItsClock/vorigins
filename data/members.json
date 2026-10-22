@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T00:37:46Z",
+  "updated_at": "2026-10-22T00:40:18Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -231,27 +231,6 @@
       "twitch": {
         "login": "elio_zinn",
         "id": "1003296268"
-      }
-    },
-    {
-      "id": "finiel",
-      "faction": "empire",
-      "order": 120,
-      "minecraft": {
-        "name": "CedarVT",
-        "uuid": "cb6e98f1-b87c-419e-85b9-1301fa9bc737"
-      },
-      "head": true,
-      "name": "Finiel",
-      "role": "",
-      "age": "20",
-      "height": "5'10",
-      "race": "Elf",
-      "kingdom": "Kiyomori",
-      "bio": "A bard who has been disowned by his family. The Elderglen took him in and taught him how to be something more.",
-      "twitch": {
-        "login": "cedarvt",
-        "id": "938069605"
       }
     },
     {
@@ -609,6 +588,27 @@
       "twitch": {
         "login": "vexaratv",
         "id": "1166441997"
+      }
+    },
+    {
+      "id": "finiel",
+      "faction": "independents",
+      "order": 90,
+      "minecraft": {
+        "name": "CedarVT",
+        "uuid": "cb6e98f1-b87c-419e-85b9-1301fa9bc737"
+      },
+      "head": true,
+      "name": "Finiel",
+      "role": "",
+      "age": "20",
+      "height": "5'10",
+      "race": "Elf",
+      "kingdom": "Elderglen",
+      "bio": "A bard who has been disowned by his family. The Elderglen took him in and taught him how to be something more.",
+      "twitch": {
+        "login": "cedarvt",
+        "id": "938069605"
       }
     }
   ]
