@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T00:24:47Z",
+  "updated_at": "2026-10-22T00:25:36Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -399,6 +399,27 @@
       "twitch": {
         "login": "xionfox",
         "id": "73150212"
+      }
+    },
+    {
+      "id": "vesta-luminos",
+      "faction": "alliance",
+      "order": 90,
+      "minecraft": {
+        "name": "AlectoEumenid",
+        "uuid": "e4835e47-64e7-4703-bf23-12be2a1d907a"
+      },
+      "head": true,
+      "name": "Vesta Luminos",
+      "role": "",
+      "age": "39",
+      "height": "5'4",
+      "race": "Fire Genasi",
+      "kingdom": "Asteria",
+      "bio": "A mournful widow hoping to provide a listening ear to those who wish to talk about the horrors they experienced during the Hollow War.",
+      "twitch": {
+        "login": "alectoeumenid",
+        "id": "819211356"
       }
     },
     {
