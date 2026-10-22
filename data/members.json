@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T19:13:19Z",
+  "updated_at": "2026-10-22T19:13:24Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -255,30 +255,9 @@
       }
     },
     {
-      "id": "misha",
-      "faction": "alliance",
-      "order": 20,
-      "minecraft": {
-        "name": "miyuwanchan",
-        "uuid": "d7dfa046-6f17-4a63-a901-83a49079029f"
-      },
-      "head": true,
-      "name": "Misha",
-      "role": "Advisor of Still Water (Alliance Advisor)",
-      "age": "19",
-      "height": "5'1",
-      "race": "Water Genasi",
-      "kingdom": "Asteria",
-      "bio": "A timid young water genasi diviner with the capabilities to perceive time. Throughout her journey, she seeks to find confidence in herself and make connections she's never had the privilege of having.",
-      "twitch": {
-        "login": "miyuwanchan",
-        "id": "686234820"
-      }
-    },
-    {
       "id": "fernis-solenne",
       "faction": "alliance",
-      "order": 30,
+      "order": 20,
       "minecraft": {
         "name": "AidenChi",
         "uuid": "de560e70-cb01-4494-956d-4cb0f4b674a3"
@@ -294,6 +273,27 @@
       "twitch": {
         "login": "aidenchiivt",
         "id": "209565401"
+      }
+    },
+    {
+      "id": "misha",
+      "faction": "alliance",
+      "order": 30,
+      "minecraft": {
+        "name": "miyuwanchan",
+        "uuid": "d7dfa046-6f17-4a63-a901-83a49079029f"
+      },
+      "head": true,
+      "name": "Misha",
+      "role": "Advisor of Still Water (Alliance Advisor)",
+      "age": "19",
+      "height": "5'1",
+      "race": "Water Genasi",
+      "kingdom": "Asteria",
+      "bio": "A timid young water genasi diviner with the capabilities to perceive time. Throughout her journey, she seeks to find confidence in herself and make connections she's never had the privilege of having.",
+      "twitch": {
+        "login": "miyuwanchan",
+        "id": "686234820"
       }
     },
     {
