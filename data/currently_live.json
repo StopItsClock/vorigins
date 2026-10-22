@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-21T23:56:03Z",
+  "updated_at": "2026-10-22T00:20:10Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
       "title": "[18+] i am filling out a job application mid collab send help",
       "url": "https://www.twitch.tv/puckthepixievt"
-    },
-    "228334289": {
-      "display_name": "Rams404Vt",
-      "game_name": "Minecraft",
-      "login": "rams404vt",
-      "started_at": "2026-10-21T19:27:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
-      "title": "✨[18+ Eng/Esp] ✨Chill minecraft and epic time✨ !socials !lurk  @rams404vt ✨",
-      "url": "https://www.twitch.tv/rams404vt"
     },
     "1380109945": {
       "display_name": "NovaAustralis",
