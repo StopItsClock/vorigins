@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T03:55:17Z",
+  "updated_at": "2026-10-22T04:00:14Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
       "title": "🌹[Frostrail] Getting big, round, and frosty while Vapor gets railed",
       "url": "https://www.twitch.tv/shivarosebloom"
+    },
+    "160748634": {
+      "display_name": "celiere",
+      "game_name": "Art",
+      "login": "celiere",
+      "started_at": "2026-10-22T03:57:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
+      "title": "【ART】♡ MC OC time babeyyy ♡ !artq !socials !tip",
+      "url": "https://www.twitch.tv/celiere"
     },
     "243161944": {
       "display_name": "DracolicheRen",
