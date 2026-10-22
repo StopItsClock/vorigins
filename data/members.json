@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T02:37:59Z",
+  "updated_at": "2026-10-22T02:43:25Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -284,13 +284,13 @@
         "uuid": "1da332e5-6ab9-4dbd-b274-293c8d448332"
       },
       "head": true,
-      "name": "Von Grail",
+      "name": "Von Grail The Grandiose",
       "role": "",
       "age": "32",
       "height": "5'9",
       "race": "Fire Genasi",
       "kingdom": "Asteria",
-      "bio": "",
+      "bio": "“Can you hear it? The world is my stage, the stars my ovation. Yearning to perform to reality itself… yet the strings tie me down. Tell me my wonderful patron, am I the actor…. or the mask I portray?”",
       "twitch": {
         "login": "rootedmoon1506",
         "id": "855636522"
