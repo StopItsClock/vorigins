@@ -1,16 +1,25 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T23:35:10Z",
+  "updated_at": "2026-10-22T23:55:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
       "display_name": "Banana_Ramajama",
-      "game_name": "Clive Barker's Hellraiser: Revival",
+      "game_name": "Destiny 2",
       "login": "banana_ramajama",
       "started_at": "2026-10-22T21:53:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
-      "title": "Oh Hey, it's horror night I sure hope I dont get a hook through my flesh |  First Playthrough | !discord !horror !lurk !clip",
+      "title": "Solo Flawless EQ |  Arc Titan Run | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "119893530": {
+      "display_name": "FrostedPlague7",
+      "game_name": "Music",
+      "login": "frostedplague7",
+      "started_at": "2026-10-22T23:54:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
+      "title": "Karaoke -> FFXIV CRAFTING TIME!!! 🧊 !pine !socials !cover 🍧 @frostedplague7",
+      "url": "https://www.twitch.tv/frostedplague7"
     }
   },
   "login_updates": {}
