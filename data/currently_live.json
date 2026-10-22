@@ -1,8 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T01:45:10Z",
+  "updated_at": "2026-10-22T02:15:10Z",
   "poll_seconds": 300,
   "live": {
+    "243161944": {
+      "display_name": "DracolicheRen",
+      "game_name": "Frostrail",
+      "login": "dracolicheren",
+      "started_at": "2026-10-22T02:11:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
+      "title": "there (their?) is frost on the rails?? | !Discord !lurk | 🐉🧟",
+      "url": "https://www.twitch.tv/dracolicheren"
+    },
     "938069605": {
       "display_name": "CedarVT",
       "game_name": "Pokémon Infinite Fusion",
