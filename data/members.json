@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T02:43:25Z",
+  "updated_at": "2026-10-22T07:01:20Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -441,6 +441,27 @@
       "twitch": {
         "login": "shivarosebloom",
         "id": "77176298"
+      }
+    },
+    {
+      "id": "fernis-solenne",
+      "faction": "alliance",
+      "order": 110,
+      "minecraft": {
+        "name": "AidenChi",
+        "uuid": "de560e70-cb01-4494-956d-4cb0f4b674a3"
+      },
+      "head": true,
+      "name": "Fernis Solenne",
+      "role": "",
+      "age": "21",
+      "height": "5'10",
+      "race": "Fire Genasi",
+      "kingdom": "Asteria",
+      "bio": "\"Weaknesses are nothing but limitations created by fear. So long as my heart is ablaze, no fear shall plague my soul or my people.\"",
+      "twitch": {
+        "login": "aidenchiivt",
+        "id": "209565401"
       }
     },
     {
