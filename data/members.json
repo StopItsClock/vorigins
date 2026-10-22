@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T07:01:20Z",
+  "updated_at": "2026-10-22T19:05:46Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -402,30 +402,9 @@
       }
     },
     {
-      "id": "vesta-luminos",
-      "faction": "alliance",
-      "order": 90,
-      "minecraft": {
-        "name": "AlectoEumenid",
-        "uuid": "e4835e47-64e7-4703-bf23-12be2a1d907a"
-      },
-      "head": true,
-      "name": "Vesta Luminos",
-      "role": "",
-      "age": "39",
-      "height": "5'4",
-      "race": "Fire Genasi",
-      "kingdom": "Asteria",
-      "bio": "A mournful widow hoping to provide a listening ear to those who wish to talk about the horrors they experienced during the Hollow War.",
-      "twitch": {
-        "login": "alectoeumenid",
-        "id": "819211356"
-      }
-    },
-    {
       "id": "sister-syzygy-aphelion",
       "faction": "alliance",
-      "order": 100,
+      "order": 90,
       "minecraft": {
         "name": "ShivaRoseBloom",
         "uuid": "f9f850d6-cd69-43a1-92d5-6c67f0d41624"
@@ -441,6 +420,27 @@
       "twitch": {
         "login": "shivarosebloom",
         "id": "77176298"
+      }
+    },
+    {
+      "id": "vesta-luminos",
+      "faction": "alliance",
+      "order": 100,
+      "minecraft": {
+        "name": "AlectoEumenid",
+        "uuid": "e4835e47-64e7-4703-bf23-12be2a1d907a"
+      },
+      "head": true,
+      "name": "Vesta Luminos",
+      "role": "",
+      "age": "39",
+      "height": "5'4",
+      "race": "Fire Genasi",
+      "kingdom": "Asteria",
+      "bio": "A mournful widow hoping to provide a listening ear to those who wish to talk about the horrors they experienced during the Hollow War.",
+      "twitch": {
+        "login": "alectoeumenid",
+        "id": "819211356"
       }
     },
     {
