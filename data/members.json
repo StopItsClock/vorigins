@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T19:13:00Z",
+  "updated_at": "2026-10-22T19:13:05Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -360,30 +360,9 @@
       }
     },
     {
-      "id": "fresnel-silica",
-      "faction": "alliance",
-      "order": 70,
-      "minecraft": {
-        "name": "ShizukaCh",
-        "uuid": "54e7fb2e-7f16-4dd0-a5e9-df4fa0ef5176"
-      },
-      "head": true,
-      "name": "Fresnel Silica",
-      "role": "",
-      "age": "30",
-      "height": "5'3",
-      "race": "Fire Genasi",
-      "kingdom": "Asteria",
-      "bio": "A Fire Genasi who turned into glass after a near fatal injury. Her true colors have been lost to time, causing her to cycle between all colors on the visible spectrum that dye her both physically and emotionally.",
-      "twitch": {
-        "login": "shizukach",
-        "id": "487437198"
-      }
-    },
-    {
       "id": "fernis-solenne",
       "faction": "alliance",
-      "order": 80,
+      "order": 70,
       "minecraft": {
         "name": "AidenChi",
         "uuid": "de560e70-cb01-4494-956d-4cb0f4b674a3"
@@ -399,6 +378,27 @@
       "twitch": {
         "login": "aidenchiivt",
         "id": "209565401"
+      }
+    },
+    {
+      "id": "fresnel-silica",
+      "faction": "alliance",
+      "order": 80,
+      "minecraft": {
+        "name": "ShizukaCh",
+        "uuid": "54e7fb2e-7f16-4dd0-a5e9-df4fa0ef5176"
+      },
+      "head": true,
+      "name": "Fresnel Silica",
+      "role": "",
+      "age": "30",
+      "height": "5'3",
+      "race": "Fire Genasi",
+      "kingdom": "Asteria",
+      "bio": "A Fire Genasi who turned into glass after a near fatal injury. Her true colors have been lost to time, causing her to cycle between all colors on the visible spectrum that dye her both physically and emotionally.",
+      "twitch": {
+        "login": "shizukach",
+        "id": "487437198"
       }
     },
     {
