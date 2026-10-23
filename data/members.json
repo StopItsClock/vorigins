@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-23T18:36:22Z",
+  "updated_at": "2026-10-23T18:37:56Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -462,6 +462,27 @@
       "twitch": {
         "login": "alectoeumenid",
         "id": "819211356"
+      }
+    },
+    {
+      "id": "atonal-ahuizotal",
+      "faction": "alliance",
+      "order": 120,
+      "minecraft": {
+        "name": "AlfNAlf",
+        "uuid": "8380fbc3-e503-46b8-9966-1c65adab7a3e"
+      },
+      "head": true,
+      "name": "Atonal Ahuizotal",
+      "role": "",
+      "age": "28",
+      "height": "6'0",
+      "race": "Water Genasi",
+      "kingdom": "Asteria",
+      "bio": "Atonal Ahuizotl, known as Ahtl, is a sellsword who believes everything in life has a cost. He takes most jobs he can find, hoping to secure a more comfortable life for himself, by any means necessary.",
+      "twitch": {
+        "login": "alfnalf",
+        "id": "452819536"
       }
     },
     {
