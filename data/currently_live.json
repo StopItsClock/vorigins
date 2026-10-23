@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-23T03:55:47Z",
+  "updated_at": "2026-10-23T19:00:10Z",
   "poll_seconds": 300,
-  "live": {},
+  "live": {
+    "1380109945": {
+      "display_name": "NovaAustralis",
+      "game_name": "Hollow Knight",
+      "login": "novaaustralis",
+      "started_at": "2026-10-23T18:56:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_novaaustralis-{width}x{height}.jpg",
+      "title": "iinto the city of tears! [ Hollow Knight ] !discord !socials !pet",
+      "url": "https://www.twitch.tv/novaaustralis"
+    }
+  },
   "login_updates": {}
 }
