@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-23T22:10:11Z",
+  "updated_at": "2026-10-23T22:35:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "Finishing the campaign please no crash, maybe horde? |  Insane Mode | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "68909866": {
+      "display_name": "PuckThePixieVT",
+      "game_name": "Co-working & Studying",
+      "login": "puckthepixievt",
+      "started_at": "2026-10-23T22:33:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
+      "title": "[18+] Coworking stream | Making a D&D campaign!",
+      "url": "https://www.twitch.tv/puckthepixievt"
     },
     "209565401": {
       "display_name": "AidenChiiVT",
