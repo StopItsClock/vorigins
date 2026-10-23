@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-23T18:34:54Z",
+  "updated_at": "2026-10-23T18:36:22Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -651,6 +651,27 @@
       "twitch": {
         "login": "vexaratv",
         "id": "1166441997"
+      }
+    },
+    {
+      "id": "elizabeth-erdo",
+      "faction": "independents",
+      "order": 100,
+      "minecraft": {
+        "name": "doeremi_",
+        "uuid": ""
+      },
+      "head": false,
+      "name": "Elizabeth Erdő",
+      "role": "",
+      "age": "67",
+      "height": "5'8",
+      "race": "Elf",
+      "kingdom": "Elderglen",
+      "bio": "Elderglen's Librarian, Ranger Mentor, and compassionate Leader of the Elves. Can she stop history from repeating itself or will she fall the same as her predecessor?",
+      "twitch": {
+        "login": "doeremi_",
+        "id": "59922801"
       }
     }
   ]
