@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-23T03:25:10Z",
+  "updated_at": "2026-10-23T03:40:10Z",
   "poll_seconds": 300,
   "live": {
     "761873718": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cylinks_owo-{width}x{height}.jpg",
       "title": "FEMBOYS GO TO WAR FOR MONEY",
       "url": "https://www.twitch.tv/cylinks_owo"
-    },
-    "819211356": {
-      "display_name": "AlectoEumenid",
-      "game_name": "Just Chatting",
-      "login": "alectoeumenid",
-      "started_at": "2026-10-23T00:02:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
-      "title": "4 Year Stream Anniversary & 2K on YouTube Celebration {18+} // !discord !socials //",
-      "url": "https://www.twitch.tv/alectoeumenid"
     }
   },
   "login_updates": {}
