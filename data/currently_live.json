@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-23T22:05:12Z",
+  "updated_at": "2026-10-23T22:10:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -29,6 +29,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
       "title": "✨[18+ Eng/Esp] ✨The dungeons call our names /w @theomenclature✨ !socials !lurk  @rams404vt ✨",
       "url": "https://www.twitch.tv/rams404vt"
+    },
+    "243161944": {
+      "display_name": "DracolicheRen",
+      "game_name": "Minecraft",
+      "login": "dracolicheren",
+      "started_at": "2026-10-23T22:05:44Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
+      "title": "Minecraft challenge or something| !Discord !lurk | 🐉🧟",
+      "url": "https://www.twitch.tv/dracolicheren"
     },
     "819211356": {
       "display_name": "AlectoEumenid",
