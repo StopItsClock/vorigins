@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T23:55:10Z",
+  "updated_at": "2026-10-23T00:05:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
       "title": "Karaoke -> FFXIV CRAFTING TIME!!! 🧊 !pine !socials !cover 🍧 @frostedplague7",
       "url": "https://www.twitch.tv/frostedplague7"
+    },
+    "819211356": {
+      "display_name": "AlectoEumenid",
+      "game_name": "Just Chatting",
+      "login": "alectoeumenid",
+      "started_at": "2026-10-23T00:02:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
+      "title": "4 Year Stream Anniversary & 2K on YouTube Celebration {18+} // !discord !socials //",
+      "url": "https://www.twitch.tv/alectoeumenid"
     }
   },
   "login_updates": {}
