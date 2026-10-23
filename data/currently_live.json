@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-23T22:35:11Z",
+  "updated_at": "2026-10-23T22:50:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -47,6 +47,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
       "title": "Minecraft challenge or something| !Discord !lurk | 🐉🧟",
       "url": "https://www.twitch.tv/dracolicheren"
+    },
+    "555456488": {
+      "display_name": "vapVeran",
+      "game_name": "Alan Wake",
+      "login": "vapveran",
+      "started_at": "2026-10-23T22:47:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vapveran-{width}x{height}.jpg",
+      "title": "[ ALAN WAKE ] I make Alan Quake when I walk in",
+      "url": "https://www.twitch.tv/vapveran"
     },
     "819211356": {
       "display_name": "AlectoEumenid",
