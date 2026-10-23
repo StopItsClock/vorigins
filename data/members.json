@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T22:35:11Z",
+  "updated_at": "2026-10-23T18:34:54Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -580,11 +580,11 @@
       "head": true,
       "name": "Morgan Ashwolf",
       "role": "",
-      "age": "",
-      "height": "",
+      "age": "39",
+      "height": "6'2",
       "race": "Beastkin",
       "kingdom": "Elderglen",
-      "bio": "",
+      "bio": "In an Evil world I chose to not bend.",
       "twitch": {
         "login": "cylinks_owo",
         "id": "761873718"
