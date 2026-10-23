@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-23T21:30:11Z",
+  "updated_at": "2026-10-23T22:00:12Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "Finishing the campaign please no crash, maybe horde? |  Insane Mode | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "209565401": {
+      "display_name": "AidenChiiVT",
+      "game_name": "Minecraft",
+      "login": "aidenchiivt",
+      "started_at": "2026-10-23T21:58:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchiivt-{width}x{height}.jpg",
+      "title": "🦝| Minecraft Shared Health | Speedrun Professionals| !Discord | !Socials | @kenjamincity @kyarah_ @alectoeumenid @dracolicheren 🦝👟👑",
+      "url": "https://www.twitch.tv/aidenchiivt"
     },
     "228334289": {
       "display_name": "Rams404Vt",
