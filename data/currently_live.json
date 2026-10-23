@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-23T03:47:08Z",
+  "updated_at": "2026-10-23T03:55:47Z",
   "poll_seconds": 300,
-  "live": {
-    "761873718": {
-      "display_name": "cylinks_owo",
-      "game_name": "Just Chatting",
-      "login": "cylinks_owo",
-      "started_at": "2026-10-23T00:59:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cylinks_owo-{width}x{height}.jpg",
-      "title": "FEMBOYS GO TO WAR FOR MONEY",
-      "url": "https://www.twitch.tv/cylinks_owo"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
