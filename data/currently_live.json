@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-23T23:30:11Z",
+  "updated_at": "2026-10-23T23:45:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -38,15 +38,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchiivt-{width}x{height}.jpg",
       "title": "🦝| Minecraft Shared Health | Speedrun Professionals| !Discord | !Socials | @kenjamincity @kyarah_ @alectoeumenid @dracolicheren 🦝👟👑",
       "url": "https://www.twitch.tv/aidenchiivt"
-    },
-    "228334289": {
-      "display_name": "Rams404Vt",
-      "game_name": "Minecraft",
-      "login": "rams404vt",
-      "started_at": "2026-10-23T21:02:06Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
-      "title": "✨[18+ Eng/Esp] ✨The dungeons call our names /w @theomenclature✨ !socials !lurk  @rams404vt ✨",
-      "url": "https://www.twitch.tv/rams404vt"
     },
     "243161944": {
       "display_name": "DracolicheRen",
