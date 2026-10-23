@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-23T02:55:27Z",
+  "updated_at": "2026-10-23T03:25:10Z",
   "poll_seconds": 300,
   "live": {
-    "119893530": {
-      "display_name": "FrostedPlague7",
-      "game_name": "FINAL FANTASY XIV ONLINE",
-      "login": "frostedplague7",
-      "started_at": "2026-10-22T23:54:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
-      "title": "[Sprout 🌱] GETTING ALL CRAFTERS TO 80 🧊 !pine !socials !cover 🍧 @frostedplague7",
-      "url": "https://www.twitch.tv/frostedplague7"
-    },
     "761873718": {
       "display_name": "cylinks_owo",
       "game_name": "WARDOGS",
