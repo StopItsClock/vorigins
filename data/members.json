@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-23T18:39:20Z",
+  "updated_at": "2026-10-23T19:03:32Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -511,10 +511,10 @@
       "faction": "independents",
       "order": 20,
       "minecraft": {
-        "name": "doeremi_",
-        "uuid": ""
+        "name": "doeremi",
+        "uuid": "242b1e64-50e4-4217-92f2-3de9f2dbf683"
       },
-      "head": false,
+      "head": true,
       "name": "Elizabeth Erdő",
       "role": "",
       "age": "67",
