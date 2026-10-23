@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-23T22:00:12Z",
+  "updated_at": "2026-10-23T22:05:12Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -29,6 +29,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
       "title": "✨[18+ Eng/Esp] ✨The dungeons call our names /w @theomenclature✨ !socials !lurk  @rams404vt ✨",
       "url": "https://www.twitch.tv/rams404vt"
+    },
+    "819211356": {
+      "display_name": "AlectoEumenid",
+      "game_name": "Minecraft",
+      "login": "alectoeumenid",
+      "started_at": "2026-10-23T22:01:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
+      "title": "Committing Some Shenanigans w/ @aidenchiivt @dracolicheren @kenjamincity @kyarah_ {18+} // !discord !socials //",
+      "url": "https://www.twitch.tv/alectoeumenid"
     },
     "1380109945": {
       "display_name": "NovaAustralis",
