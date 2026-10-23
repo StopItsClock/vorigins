@@ -1,8 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-23T21:05:11Z",
+  "updated_at": "2026-10-23T21:30:11Z",
   "poll_seconds": 300,
   "live": {
+    "58276005": {
+      "display_name": "Banana_Ramajama",
+      "game_name": "Gears of War: E-Day",
+      "login": "banana_ramajama",
+      "started_at": "2026-10-23T21:27:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
+      "title": "Finishing the campaign please no crash, maybe horde? |  Insane Mode | !discord !horror !lurk !clip",
+      "url": "https://www.twitch.tv/banana_ramajama"
+    },
     "228334289": {
       "display_name": "Rams404Vt",
       "game_name": "Minecraft",
