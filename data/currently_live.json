@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-23T22:50:11Z",
+  "updated_at": "2026-10-23T22:55:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "Finishing the campaign please no crash, maybe horde? |  Insane Mode | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "59922801": {
+      "display_name": "doeremi_",
+      "game_name": "Gaggl",
+      "login": "doeremi_",
+      "started_at": "2026-10-23T22:49:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
+      "title": "꒰ 🎨🌸 ꒱ Celebrating Family Feud's 50th -> WIN PRIZES from CashApp #ad | !cashapp !feud",
+      "url": "https://www.twitch.tv/doeremi_"
     },
     "68909866": {
       "display_name": "PuckThePixieVT",
