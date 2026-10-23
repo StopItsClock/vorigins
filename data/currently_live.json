@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-23T02:05:11Z",
+  "updated_at": "2026-10-23T02:25:10Z",
   "poll_seconds": 300,
   "live": {
-    "58276005": {
-      "display_name": "Banana_Ramajama",
-      "game_name": "Destiny 2",
-      "login": "banana_ramajama",
-      "started_at": "2026-10-22T21:53:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
-      "title": "Solo Flawless EQ |  Arc Titan Run | !discord !horror !lurk !clip",
-      "url": "https://www.twitch.tv/banana_ramajama"
-    },
     "119893530": {
       "display_name": "FrostedPlague7",
       "game_name": "FINAL FANTASY XIV ONLINE",
