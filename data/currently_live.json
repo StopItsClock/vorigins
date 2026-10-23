@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-23T00:55:10Z",
+  "updated_at": "2026-10-23T01:00:12Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
       "title": "[Sprout 🌱] GETTING ALL CRAFTERS TO 80 🧊 !pine !socials !cover 🍧 @frostedplague7",
       "url": "https://www.twitch.tv/frostedplague7"
+    },
+    "761873718": {
+      "display_name": "cylinks_owo",
+      "game_name": "WARDOGS",
+      "login": "cylinks_owo",
+      "started_at": "2026-10-23T00:59:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cylinks_owo-{width}x{height}.jpg",
+      "title": "FEMBOYS GO TO WAR FOR MONEY",
+      "url": "https://www.twitch.tv/cylinks_owo"
     },
     "819211356": {
       "display_name": "AlectoEumenid",
