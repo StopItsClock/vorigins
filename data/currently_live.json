@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-23T03:40:10Z",
+  "updated_at": "2026-10-23T03:47:08Z",
   "poll_seconds": 300,
   "live": {
     "761873718": {
       "display_name": "cylinks_owo",
-      "game_name": "WARDOGS",
+      "game_name": "Just Chatting",
       "login": "cylinks_owo",
       "started_at": "2026-10-23T00:59:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cylinks_owo-{width}x{height}.jpg",
