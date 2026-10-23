@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-23T18:37:56Z",
+  "updated_at": "2026-10-23T18:38:25Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -654,30 +654,9 @@
       }
     },
     {
-      "id": "lyandra",
-      "faction": "independents",
-      "order": 90,
-      "minecraft": {
-        "name": "VexaraTV",
-        "uuid": "61070202-9845-47e6-82e8-bab6e1973fa7"
-      },
-      "head": true,
-      "name": "Lyandra",
-      "role": "",
-      "age": "26",
-      "height": "5'11",
-      "race": "Beastkin",
-      "kingdom": "Elderglen",
-      "bio": "A determined Beastkin scout of feline origins, wanting better for her people and to unite all once more.",
-      "twitch": {
-        "login": "vexaratv",
-        "id": "1166441997"
-      }
-    },
-    {
       "id": "elizabeth-erdo",
       "faction": "independents",
-      "order": 100,
+      "order": 90,
       "minecraft": {
         "name": "doeremi_",
         "uuid": ""
@@ -693,6 +672,27 @@
       "twitch": {
         "login": "doeremi_",
         "id": "59922801"
+      }
+    },
+    {
+      "id": "lyandra",
+      "faction": "independents",
+      "order": 100,
+      "minecraft": {
+        "name": "VexaraTV",
+        "uuid": "61070202-9845-47e6-82e8-bab6e1973fa7"
+      },
+      "head": true,
+      "name": "Lyandra",
+      "role": "",
+      "age": "26",
+      "height": "5'11",
+      "race": "Beastkin",
+      "kingdom": "Elderglen",
+      "bio": "A determined Beastkin scout of feline origins, wanting better for her people and to unite all once more.",
+      "twitch": {
+        "login": "vexaratv",
+        "id": "1166441997"
       }
     }
   ]
