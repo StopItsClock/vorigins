@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-23T18:39:04Z",
+  "updated_at": "2026-10-23T18:39:08Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -423,30 +423,9 @@
       }
     },
     {
-      "id": "valeria-ria-herzlich",
-      "faction": "alliance",
-      "order": 100,
-      "minecraft": {
-        "name": "TheXionfox",
-        "uuid": "2901faa1-37cd-4efb-97a2-eed586e3480c"
-      },
-      "head": true,
-      "name": "Valeria \"Ria\" Herzlich",
-      "role": "",
-      "age": "45",
-      "height": "5'7",
-      "race": "Fire Genasi",
-      "kingdom": "Asteria",
-      "bio": "Ria is a Master Potions maker for the Fire Genasi who wishes her people the best while trying to find out the truth about what really happened during the final days of the Hollow Wars.",
-      "twitch": {
-        "login": "xionfox",
-        "id": "73150212"
-      }
-    },
-    {
       "id": "atonal-ahuizotal",
       "faction": "alliance",
-      "order": 110,
+      "order": 100,
       "minecraft": {
         "name": "AlfNAlf",
         "uuid": "8380fbc3-e503-46b8-9966-1c65adab7a3e"
@@ -462,6 +441,27 @@
       "twitch": {
         "login": "alfnalf",
         "id": "452819536"
+      }
+    },
+    {
+      "id": "valeria-ria-herzlich",
+      "faction": "alliance",
+      "order": 110,
+      "minecraft": {
+        "name": "TheXionfox",
+        "uuid": "2901faa1-37cd-4efb-97a2-eed586e3480c"
+      },
+      "head": true,
+      "name": "Valeria \"Ria\" Herzlich",
+      "role": "",
+      "age": "45",
+      "height": "5'7",
+      "race": "Fire Genasi",
+      "kingdom": "Asteria",
+      "bio": "Ria is a Master Potions maker for the Fire Genasi who wishes her people the best while trying to find out the truth about what really happened during the final days of the Hollow Wars.",
+      "twitch": {
+        "login": "xionfox",
+        "id": "73150212"
       }
     },
     {
