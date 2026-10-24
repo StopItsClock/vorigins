@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-24T00:20:12Z",
+  "updated_at": "2026-10-24T00:35:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -38,6 +38,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchiivt-{width}x{height}.jpg",
       "title": "🦝| Minecraft Shared Health | Speedrun Professionals| !Discord | !Socials | @kenjamincity @kyarah_ @alectoeumenid @dracolicheren 🦝👟👑",
       "url": "https://www.twitch.tv/aidenchiivt"
+    },
+    "239191238": {
+      "display_name": "RedBladeCrimson",
+      "game_name": "Resident Evil",
+      "login": "redbladecrimson",
+      "started_at": "2026-10-24T00:31:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
+      "title": "[First time Resident Evil] Henchmen finds out the residents are very evil! Pt2! Raising money for GamersOutReach!",
+      "url": "https://www.twitch.tv/redbladecrimson"
     },
     "243161944": {
       "display_name": "DracolicheRen",
