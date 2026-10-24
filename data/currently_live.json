@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-24T18:45:10Z",
+  "updated_at": "2026-10-24T22:10:10Z",
   "poll_seconds": 300,
-  "live": {},
+  "live": {
+    "1380109945": {
+      "display_name": "NovaAustralis",
+      "game_name": "Layers of Fear",
+      "login": "novaaustralis",
+      "started_at": "2026-10-24T22:05:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_novaaustralis-{width}x{height}.jpg",
+      "title": "she paint on my canvas till i [ Layers of Fear ] !discord !socials !pet",
+      "url": "https://www.twitch.tv/novaaustralis"
+    }
+  },
   "login_updates": {}
 }
