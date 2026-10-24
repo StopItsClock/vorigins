@@ -1,8 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-24T22:10:10Z",
+  "updated_at": "2026-10-24T22:15:11Z",
   "poll_seconds": 300,
   "live": {
+    "68909866": {
+      "display_name": "PuckThePixieVT",
+      "game_name": "Minecraft",
+      "login": "puckthepixievt",
+      "started_at": "2026-10-24T22:10:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
+      "title": "[18+] Agh! Vampires! (bisexuality not included)",
+      "url": "https://www.twitch.tv/puckthepixievt"
+    },
     "1380109945": {
       "display_name": "NovaAustralis",
       "game_name": "Layers of Fear",
