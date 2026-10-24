@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-24T04:15:10Z",
+  "updated_at": "2026-10-24T04:25:11Z",
   "poll_seconds": 300,
   "live": {
-    "59922801": {
-      "display_name": "doeremi_",
-      "game_name": "Just Chatting",
-      "login": "doeremi_",
-      "started_at": "2026-10-23T22:49:58Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
-      "title": "꒰ 🎨🌸 ꒱ POST NUT CLARITY",
-      "url": "https://www.twitch.tv/doeremi_"
-    },
     "77176298": {
       "display_name": "ShivaRoseBloom",
       "game_name": "Folk-Tography",
