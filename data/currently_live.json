@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-24T22:50:11Z",
+  "updated_at": "2026-10-24T22:55:11Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
       "title": "[18+] Agh! Vampires! (bisexuality not included)",
       "url": "https://www.twitch.tv/puckthepixievt"
+    },
+    "1003296268": {
+      "display_name": "Elio_Zinn",
+      "game_name": "Deadlock",
+      "login": "elio_zinn",
+      "started_at": "2026-10-24T22:50:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elio_zinn-{width}x{height}.jpg",
+      "title": "Evil and messed up purple Venator | Deadlock",
+      "url": "https://www.twitch.tv/elio_zinn"
     },
     "1380109945": {
       "display_name": "NovaAustralis",
