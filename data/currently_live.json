@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-24T05:05:11Z",
+  "updated_at": "2026-10-24T05:10:11Z",
   "poll_seconds": 300,
   "live": {
-    "77176298": {
-      "display_name": "ShivaRoseBloom",
-      "game_name": "Abyssal Lapidary",
-      "login": "shivarosebloom",
-      "started_at": "2026-10-24T01:33:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
-      "title": "🌹[Abyssal Lapidary] OOOHHH SHINY!!",
-      "url": "https://www.twitch.tv/shivarosebloom"
-    },
     "855636522": {
       "display_name": "RootedMoon1506",
       "game_name": "Valheim",
