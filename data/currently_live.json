@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-24T01:35:11Z",
+  "updated_at": "2026-10-24T01:50:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -47,6 +47,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vapveran-{width}x{height}.jpg",
       "title": "[ ALAN WAKE ] I make Alan Quake when I walk in",
       "url": "https://www.twitch.tv/vapveran"
+    },
+    "855636522": {
+      "display_name": "RootedMoon1506",
+      "game_name": "Valheim",
+      "login": "rootedmoon1506",
+      "started_at": "2026-10-24T01:49:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rootedmoon1506-{width}x{height}.jpg",
+      "title": "Why is the mead always gone? - Valheim w/ @Dolphin_Squad5 @PreciousAngelWings @shado_wisp",
+      "url": "https://www.twitch.tv/rootedmoon1506"
     }
   },
   "login_updates": {}
