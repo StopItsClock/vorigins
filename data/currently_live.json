@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-24T02:50:12Z",
+  "updated_at": "2026-10-24T03:05:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -29,15 +29,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
       "title": "🌹[Folk-Tography] I will be finding Bigfoot",
       "url": "https://www.twitch.tv/shivarosebloom"
-    },
-    "239191238": {
-      "display_name": "RedBladeCrimson",
-      "game_name": "Resident Evil",
-      "login": "redbladecrimson",
-      "started_at": "2026-10-24T00:31:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
-      "title": "[First time Resident Evil] Henchmen finds out the residents are very evil! Pt2! Raising money for GamersOutReach!",
-      "url": "https://www.twitch.tv/redbladecrimson"
     },
     "855636522": {
       "display_name": "RootedMoon1506",
