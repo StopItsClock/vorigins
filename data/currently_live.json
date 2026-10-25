@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-25T04:10:10Z",
+  "updated_at": "2026-10-25T04:25:10Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
       "title": "🌹[Dark Souls] Blue said she would jingle keys. I think she's mad at me",
       "url": "https://www.twitch.tv/shivarosebloom"
-    },
-    "761873718": {
-      "display_name": "cylinks_owo",
-      "game_name": "World of Warcraft",
-      "login": "cylinks_owo",
-      "started_at": "2026-10-25T00:58:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cylinks_owo-{width}x{height}.jpg",
-      "title": "Femboys in Azeroth??",
-      "url": "https://www.twitch.tv/cylinks_owo"
     }
   },
   "login_updates": {}
