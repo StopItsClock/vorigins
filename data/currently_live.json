@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-25T21:05:11Z",
+  "updated_at": "2026-10-25T21:10:10Z",
   "poll_seconds": 300,
   "live": {
     "63513141": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_helpinghand97-{width}x{height}.jpg",
       "title": "[New Model] We back to be Royals! Thats how it goes right?",
       "url": "https://www.twitch.tv/helpinghand97"
+    },
+    "77176298": {
+      "display_name": "ShivaRoseBloom",
+      "game_name": "Dark Souls: Remastered",
+      "login": "shivarosebloom",
+      "started_at": "2026-10-25T21:06:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
+      "title": "🌹[Dark Souls] Manus or Hell? WHERE ARE WE???",
+      "url": "https://www.twitch.tv/shivarosebloom"
     }
   },
   "login_updates": {}
