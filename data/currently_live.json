@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-25T00:35:11Z",
+  "updated_at": "2026-10-25T01:00:21Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
       "title": "[18+] Agh! Vampires! (bisexuality not included)",
       "url": "https://www.twitch.tv/puckthepixievt"
+    },
+    "761873718": {
+      "display_name": "cylinks_owo",
+      "game_name": "World of Warcraft",
+      "login": "cylinks_owo",
+      "started_at": "2026-10-25T00:58:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cylinks_owo-{width}x{height}.jpg",
+      "title": "Femboys in Azeroth??",
+      "url": "https://www.twitch.tv/cylinks_owo"
     },
     "819211356": {
       "display_name": "AlectoEumenid",
