@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-25T00:00:11Z",
+  "updated_at": "2026-10-25T00:05:10Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
       "title": "[18+] Agh! Vampires! (bisexuality not included)",
       "url": "https://www.twitch.tv/puckthepixievt"
+    },
+    "819211356": {
+      "display_name": "AlectoEumenid",
+      "game_name": "Just Chatting",
+      "login": "alectoeumenid",
+      "started_at": "2026-10-25T00:01:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
+      "title": "【Yandere Yoctober】Maybe Things Aren't So Bad Here {18+} // !discord !socials //",
+      "url": "https://www.twitch.tv/alectoeumenid"
     },
     "1003296268": {
       "display_name": "Elio_Zinn",
