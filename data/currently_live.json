@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-25T22:40:12Z",
+  "updated_at": "2026-10-25T23:05:13Z",
   "poll_seconds": 300,
   "live": {
     "63513141": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
       "title": "🌹[Dark Souls] Manus or Hell? WHERE ARE WE???",
       "url": "https://www.twitch.tv/shivarosebloom"
+    },
+    "239191238": {
+      "display_name": "RedBladeCrimson",
+      "game_name": "Pilgrim",
+      "login": "redbladecrimson",
+      "started_at": "2026-10-25T23:03:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
+      "title": "[Pilgrim new update] Final GamersOutReach Day PEEPEE PILGRIM!",
+      "url": "https://www.twitch.tv/redbladecrimson"
     }
   },
   "login_updates": {}
