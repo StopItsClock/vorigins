@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-25T07:54:28Z",
+  "updated_at": "2026-10-25T18:15:27Z",
   "poll_seconds": 300,
-  "live": {},
+  "live": {
+    "63513141": {
+      "display_name": "Helpinghand97",
+      "game_name": "Persona 5 Royal",
+      "login": "helpinghand97",
+      "started_at": "2026-10-25T18:10:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_helpinghand97-{width}x{height}.jpg",
+      "title": "[New Model] We back to be Royals! Thats how it goes right?",
+      "url": "https://www.twitch.tv/helpinghand97"
+    }
+  },
   "login_updates": {}
 }
