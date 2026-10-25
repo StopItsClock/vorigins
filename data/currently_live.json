@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-25T00:05:10Z",
+  "updated_at": "2026-10-25T00:35:11Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -14,7 +14,7 @@
     },
     "819211356": {
       "display_name": "AlectoEumenid",
-      "game_name": "Just Chatting",
+      "game_name": "You and Me and Her: A Love Story",
       "login": "alectoeumenid",
       "started_at": "2026-10-25T00:01:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
