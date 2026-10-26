@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-26T03:49:08Z",
+  "updated_at": "2026-10-26T03:49:11Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -633,30 +633,9 @@
       }
     },
     {
-      "id": "mr-mail",
-      "faction": "independents",
-      "order": 80,
-      "minecraft": {
-        "name": "VeranV",
-        "uuid": "64c87b73-7fdb-475c-beac-237c7b781110"
-      },
-      "head": true,
-      "name": "Mr. Mail",
-      "role": "",
-      "age": "32",
-      "height": "5'11",
-      "race": "Beastkin",
-      "kingdom": "Elderglen",
-      "bio": "Need to keep up with loved ones around the world? Come on down to Mr. Mail for Mail, Mounts, and More so we can handle ALL your postal needs!",
-      "twitch": {
-        "login": "vapveran",
-        "id": "555456488"
-      }
-    },
-    {
       "id": "rourke-dolmayan",
       "faction": "independents",
-      "order": 90,
+      "order": 80,
       "minecraft": {
         "name": "Call_Me_Anubis",
         "uuid": "0c1621e2-38ae-4515-a757-c75fe2de805b"
@@ -672,6 +651,27 @@
       "twitch": {
         "login": "a__nubis",
         "id": "612172705"
+      }
+    },
+    {
+      "id": "mr-mail",
+      "faction": "independents",
+      "order": 90,
+      "minecraft": {
+        "name": "VeranV",
+        "uuid": "64c87b73-7fdb-475c-beac-237c7b781110"
+      },
+      "head": true,
+      "name": "Mr. Mail",
+      "role": "",
+      "age": "32",
+      "height": "5'11",
+      "race": "Beastkin",
+      "kingdom": "Elderglen",
+      "bio": "Need to keep up with loved ones around the world? Come on down to Mr. Mail for Mail, Mounts, and More so we can handle ALL your postal needs!",
+      "twitch": {
+        "login": "vapveran",
+        "id": "555456488"
       }
     },
     {
