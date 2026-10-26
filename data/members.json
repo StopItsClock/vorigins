@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-26T22:37:35Z",
+  "updated_at": "2026-10-26T22:39:32Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -516,7 +516,7 @@
       },
       "head": true,
       "name": "Yukio Greyulf",
-      "role": "",
+      "role": "The Elderglen Council",
       "age": "21",
       "height": "5'9",
       "race": "Beastkin",
