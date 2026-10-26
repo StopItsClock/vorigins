@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-26T22:22:47Z",
+  "updated_at": "2026-10-26T22:24:29Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -231,6 +231,27 @@
       "twitch": {
         "login": "elio_zinn",
         "id": "1003296268"
+      }
+    },
+    {
+      "id": "dahlia-crescentwood",
+      "faction": "empire",
+      "order": 120,
+      "minecraft": {
+        "name": "FreyjaRabbit",
+        "uuid": "ee0fa93b-a17d-47e7-85b1-63f588583ba0"
+      },
+      "head": true,
+      "name": "Dahlia Crescentwood",
+      "role": "",
+      "age": "22",
+      "height": "5'7",
+      "race": "Human",
+      "kingdom": "Kiyomori",
+      "bio": "Following the death of her twin in the Hollow War, Dahlia strives for peace across Aurelia once more. Together with her companions, she travels across the lands with her traveling cart of food for trade.",
+      "twitch": {
+        "login": "freyjarabbit",
+        "id": "714177656"
       }
     },
     {
