@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-26T03:49:14Z",
+  "updated_at": "2026-10-26T22:22:47Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -714,6 +714,27 @@
       "twitch": {
         "login": "vexaratv",
         "id": "1166441997"
+      }
+    },
+    {
+      "id": "marbane-jenkins",
+      "faction": "independents",
+      "order": 120,
+      "minecraft": {
+        "name": "ReiTsukino",
+        "uuid": "986c2b55-a990-471d-aa4c-78a456f239a6"
+      },
+      "head": true,
+      "name": "Marbane Jenkins",
+      "role": "",
+      "age": "120",
+      "height": "4'0",
+      "race": "Dwarf",
+      "kingdom": "Elderglen",
+      "bio": "\"Lad...i'm a tellin ye' I dunna care if the Aurelian would be King died in te' heat o' battle or te' losin' end of a drunken bar fight. Fact is with him died a unifying force. What we got' left is mutual needs. Hard work and trade is really all we got keeping things from goin' back in te' chaos.\"",
+      "twitch": {
+        "login": "reitvt",
+        "id": "120519348"
       }
     }
   ]
