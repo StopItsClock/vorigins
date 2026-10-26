@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-26T05:45:11Z",
+  "updated_at": "2026-10-26T14:00:10Z",
   "poll_seconds": 300,
-  "live": {},
+  "live": {
+    "835371235": {
+      "display_name": "MizuRelictus",
+      "game_name": "Art",
+      "login": "mizurelictus",
+      "started_at": "2026-10-26T13:55:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
+      "title": "[Meme Re-Draws]  It would help if I could draw a straight line but hey ho here we are wahhoo - 100SSR",
+      "url": "https://www.twitch.tv/mizurelictus"
+    }
+  },
   "login_updates": {}
 }
