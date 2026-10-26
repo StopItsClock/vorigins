@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-26T22:26:04Z",
+  "updated_at": "2026-10-26T22:26:07Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -654,30 +654,9 @@
       }
     },
     {
-      "id": "morgan-ashwolf",
-      "faction": "independents",
-      "order": 80,
-      "minecraft": {
-        "name": "Cylinks",
-        "uuid": "c272ba50-0276-472b-a52a-49a4eaac6fb7"
-      },
-      "head": true,
-      "name": "Morgan Ashwolf",
-      "role": "",
-      "age": "39",
-      "height": "6'2",
-      "race": "Beastkin",
-      "kingdom": "Elderglen",
-      "bio": "In an Evil world I chose to not bend.",
-      "twitch": {
-        "login": "cylinks_owo",
-        "id": "761873718"
-      }
-    },
-    {
       "id": "marbane-jenkins",
       "faction": "independents",
-      "order": 90,
+      "order": 80,
       "minecraft": {
         "name": "ReiTsukino",
         "uuid": "986c2b55-a990-471d-aa4c-78a456f239a6"
@@ -693,6 +672,27 @@
       "twitch": {
         "login": "reitvt",
         "id": "120519348"
+      }
+    },
+    {
+      "id": "morgan-ashwolf",
+      "faction": "independents",
+      "order": 90,
+      "minecraft": {
+        "name": "Cylinks",
+        "uuid": "c272ba50-0276-472b-a52a-49a4eaac6fb7"
+      },
+      "head": true,
+      "name": "Morgan Ashwolf",
+      "role": "",
+      "age": "39",
+      "height": "6'2",
+      "race": "Beastkin",
+      "kingdom": "Elderglen",
+      "bio": "In an Evil world I chose to not bend.",
+      "twitch": {
+        "login": "cylinks_owo",
+        "id": "761873718"
       }
     },
     {
