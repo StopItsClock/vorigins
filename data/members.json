@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-26T22:39:32Z",
+  "updated_at": "2026-10-26T22:39:38Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -537,7 +537,7 @@
       },
       "head": true,
       "name": "Elizabeth Erdő",
-      "role": "",
+      "role": "The Elderglen Council",
       "age": "67",
       "height": "5'8",
       "race": "Elf",
