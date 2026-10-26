@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-26T22:26:07Z",
+  "updated_at": "2026-10-26T22:26:10Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -633,30 +633,9 @@
       }
     },
     {
-      "id": "rourke-dolmayan",
-      "faction": "independents",
-      "order": 70,
-      "minecraft": {
-        "name": "Call_Me_Anubis",
-        "uuid": "0c1621e2-38ae-4515-a757-c75fe2de805b"
-      },
-      "head": true,
-      "name": "Rourke Dolmayan",
-      "role": "",
-      "age": "26",
-      "height": "7'3",
-      "race": "Elf",
-      "kingdom": "Elderglen",
-      "bio": "Rourke Is a man hellbent on revenge he will do anything in his power to get back at the the Empire for what they have done.",
-      "twitch": {
-        "login": "a__nubis",
-        "id": "612172705"
-      }
-    },
-    {
       "id": "marbane-jenkins",
       "faction": "independents",
-      "order": 80,
+      "order": 70,
       "minecraft": {
         "name": "ReiTsukino",
         "uuid": "986c2b55-a990-471d-aa4c-78a456f239a6"
@@ -672,6 +651,27 @@
       "twitch": {
         "login": "reitvt",
         "id": "120519348"
+      }
+    },
+    {
+      "id": "rourke-dolmayan",
+      "faction": "independents",
+      "order": 80,
+      "minecraft": {
+        "name": "Call_Me_Anubis",
+        "uuid": "0c1621e2-38ae-4515-a757-c75fe2de805b"
+      },
+      "head": true,
+      "name": "Rourke Dolmayan",
+      "role": "",
+      "age": "26",
+      "height": "7'3",
+      "race": "Elf",
+      "kingdom": "Elderglen",
+      "bio": "Rourke Is a man hellbent on revenge he will do anything in his power to get back at the the Empire for what they have done.",
+      "twitch": {
+        "login": "a__nubis",
+        "id": "612172705"
       }
     },
     {
