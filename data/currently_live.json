@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-26T00:50:11Z",
+  "updated_at": "2026-10-26T00:55:34Z",
   "poll_seconds": 300,
   "live": {
-    "77176298": {
-      "display_name": "ShivaRoseBloom",
-      "game_name": "Dark Souls: Remastered",
-      "login": "shivarosebloom",
-      "started_at": "2026-10-25T21:06:32Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
-      "title": "🌹[Dark Souls] Manus or Hell? WHERE ARE WE???",
-      "url": "https://www.twitch.tv/shivarosebloom"
-    },
     "119893530": {
       "display_name": "FrostedPlague7",
       "game_name": "FINAL FANTASY XIV ONLINE",
