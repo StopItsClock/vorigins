@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-26T22:26:14Z",
+  "updated_at": "2026-10-26T22:26:17Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -591,30 +591,9 @@
       }
     },
     {
-      "id": "callie-mari",
-      "faction": "independents",
-      "order": 50,
-      "minecraft": {
-        "name": "Caramoreli",
-        "uuid": "e89cdb20-76e0-4f59-ae4e-48a94e383900"
-      },
-      "head": true,
-      "name": "Callie Mari",
-      "role": "",
-      "age": "23",
-      "height": "5'",
-      "race": "Elf",
-      "kingdom": "Elderglen",
-      "bio": "\"I just want to find the peace my brother spoke of\"",
-      "twitch": {
-        "login": "caramoreli",
-        "id": "1350182752"
-      }
-    },
-    {
       "id": "marbane-jenkins",
       "faction": "independents",
-      "order": 60,
+      "order": 50,
       "minecraft": {
         "name": "ReiTsukino",
         "uuid": "986c2b55-a990-471d-aa4c-78a456f239a6"
@@ -630,6 +609,27 @@
       "twitch": {
         "login": "reitvt",
         "id": "120519348"
+      }
+    },
+    {
+      "id": "callie-mari",
+      "faction": "independents",
+      "order": 60,
+      "minecraft": {
+        "name": "Caramoreli",
+        "uuid": "e89cdb20-76e0-4f59-ae4e-48a94e383900"
+      },
+      "head": true,
+      "name": "Callie Mari",
+      "role": "",
+      "age": "23",
+      "height": "5'",
+      "race": "Elf",
+      "kingdom": "Elderglen",
+      "bio": "\"I just want to find the peace my brother spoke of\"",
+      "twitch": {
+        "login": "caramoreli",
+        "id": "1350182752"
       }
     },
     {
