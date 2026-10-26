@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-26T22:26:17Z",
+  "updated_at": "2026-10-26T22:37:31Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -570,30 +570,9 @@
       }
     },
     {
-      "id": "runa-brightsilver",
-      "faction": "independents",
-      "order": 40,
-      "minecraft": {
-        "name": "aeroxalinius",
-        "uuid": "9dbc0118-4531-4777-828c-2e6bdf41aa02"
-      },
-      "head": true,
-      "name": "Runa Brightsilver",
-      "role": "",
-      "age": "26",
-      "height": "5'1",
-      "race": "Dwarf",
-      "kingdom": "Elderglen",
-      "bio": "Runa, daughter of Brokk, is a traveling Dwarven craftsman and Owner of Whitefire Smith & Trade. She is known for her meticulous work and well balanced weapons. She is guided by the belief that all of her creations should suit the buyer and seeks to build lasting connections through her work.",
-      "twitch": {
-        "login": "yeonovt",
-        "id": "443242156"
-      }
-    },
-    {
       "id": "marbane-jenkins",
       "faction": "independents",
-      "order": 50,
+      "order": 40,
       "minecraft": {
         "name": "ReiTsukino",
         "uuid": "986c2b55-a990-471d-aa4c-78a456f239a6"
@@ -609,6 +588,27 @@
       "twitch": {
         "login": "reitvt",
         "id": "120519348"
+      }
+    },
+    {
+      "id": "runa-brightsilver",
+      "faction": "independents",
+      "order": 50,
+      "minecraft": {
+        "name": "aeroxalinius",
+        "uuid": "9dbc0118-4531-4777-828c-2e6bdf41aa02"
+      },
+      "head": true,
+      "name": "Runa Brightsilver",
+      "role": "",
+      "age": "26",
+      "height": "5'1",
+      "race": "Dwarf",
+      "kingdom": "Elderglen",
+      "bio": "Runa, daughter of Brokk, is a traveling Dwarven craftsman and Owner of Whitefire Smith & Trade. She is known for her meticulous work and well balanced weapons. She is guided by the belief that all of her creations should suit the buyer and seeks to build lasting connections through her work.",
+      "twitch": {
+        "login": "yeonovt",
+        "id": "443242156"
       }
     },
     {
