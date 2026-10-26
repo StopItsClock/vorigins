@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-26T22:39:38Z",
+  "updated_at": "2026-10-26T22:39:48Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -558,7 +558,7 @@
       },
       "head": true,
       "name": "Marbane Jenkins",
-      "role": "",
+      "role": "The Elderglen Council",
       "age": "120",
       "height": "4'0",
       "race": "Dwarf",
