@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-27T23:00:10Z",
+  "updated_at": "2026-10-27T23:05:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
       "title": "[FTL: MULTIVERSE] Stream ends when the run does!",
       "url": "https://www.twitch.tv/vvdragon_"
+    },
+    "487437198": {
+      "display_name": "ShizukaCh",
+      "game_name": "Wii Sports",
+      "login": "shizukach",
+      "started_at": "2026-10-27T23:00:34Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
+      "title": "🤍🎑【 HAPPY BASEBALL 】doing good and yapping w/ @AidenChiiVT ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte ✦ !cover",
+      "url": "https://www.twitch.tv/shizukach"
     },
     "855636522": {
       "display_name": "RootedMoon1506",
