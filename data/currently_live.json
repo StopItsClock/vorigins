@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-27T22:50:10Z",
+  "updated_at": "2026-10-27T23:00:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "It stank like grave booty in here | Jumping around a couple games | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "110867034": {
+      "display_name": "VVDragon_",
+      "game_name": "FTL: Faster Than Light",
+      "login": "vvdragon_",
+      "started_at": "2026-10-27T22:59:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
+      "title": "[FTL: MULTIVERSE] Stream ends when the run does!",
+      "url": "https://www.twitch.tv/vvdragon_"
     },
     "855636522": {
       "display_name": "RootedMoon1506",
