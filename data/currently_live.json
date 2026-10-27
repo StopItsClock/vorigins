@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-27T00:15:19Z",
+  "updated_at": "2026-10-27T00:35:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
       "title": "[18+] Pixie science time! | Abiotic with friends!",
       "url": "https://www.twitch.tv/puckthepixievt"
-    },
-    "228334289": {
-      "display_name": "Rams404Vt",
-      "game_name": "Idols of Ash",
-      "login": "rams404vt",
-      "started_at": "2026-10-26T20:58:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
-      "title": "✨[18+ Eng/Esp] ✨BLEACH IS OVER😭IT FOLLOWS ME ✨ !socials !lurk  @rams404vt ✨",
-      "url": "https://www.twitch.tv/rams404vt"
     },
     "1166441997": {
       "display_name": "VexaraTV",
