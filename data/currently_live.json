@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-27T04:00:10Z",
+  "updated_at": "2026-10-27T04:20:11Z",
   "poll_seconds": 300,
-  "live": {
-    "938069605": {
-      "display_name": "CedarVT",
-      "game_name": "Valheim",
-      "login": "cedarvt",
-      "started_at": "2026-10-27T01:00:17Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
-      "title": "OwO What's this? a Valheim in your pocket? ~🍂 !discord !merch",
-      "url": "https://www.twitch.tv/cedarvt"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
