@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-27T22:00:10Z",
+  "updated_at": "2026-10-27T22:15:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "It stank like grave booty in here | Jumping around a couple games | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "855636522": {
+      "display_name": "RootedMoon1506",
+      "game_name": "Keep Talking and Nobody Explodes",
+      "login": "rootedmoon1506",
+      "started_at": "2026-10-27T22:11:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rootedmoon1506-{width}x{height}.jpg",
+      "title": "2 cats try to disarm a bomb - Keep talking and nobody explodes w/ @serothelibrarian",
+      "url": "https://www.twitch.tv/rootedmoon1506"
     },
     "1166441997": {
       "display_name": "VexaraTV",
