@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-28T00:15:10Z",
+  "updated_at": "2026-10-28T00:20:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -38,15 +38,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rootedmoon1506-{width}x{height}.jpg",
       "title": "2 cats try to disarm a bomb - Keep talking and nobody explodes w/ @serothelibrarian",
       "url": "https://www.twitch.tv/rootedmoon1506"
-    },
-    "1166441997": {
-      "display_name": "VexaraTV",
-      "game_name": "Cult of the Lamb",
-      "login": "vexaratv",
-      "started_at": "2026-10-27T21:57:52Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vexaratv-{width}x{height}.jpg",
-      "title": "HEY I THINK WE'RE THE BADDIES... | The Chemyst 💀┊ !discord 💜",
-      "url": "https://www.twitch.tv/vexaratv"
     }
   },
   "login_updates": {}
