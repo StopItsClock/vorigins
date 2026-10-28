@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-28T22:30:10Z",
+  "updated_at": "2026-10-28T22:35:10Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -14,7 +14,7 @@
     },
     "1166441997": {
       "display_name": "VexaraTV",
-      "game_name": "Escape the Ayurok",
+      "game_name": "Massacre at the Mirage",
       "login": "vexaratv",
       "started_at": "2026-10-28T21:55:27Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vexaratv-{width}x{height}.jpg",
