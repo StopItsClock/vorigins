@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-28T04:15:10Z",
+  "updated_at": "2026-10-28T04:20:10Z",
   "poll_seconds": 300,
   "live": {
-    "58276005": {
-      "display_name": "Banana_Ramajama",
-      "game_name": "Destiny 2",
-      "login": "banana_ramajama",
-      "started_at": "2026-10-27T21:56:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
-      "title": "EQ Solo Flawless | Arc Titan | !discord !horror !lurk !clip",
-      "url": "https://www.twitch.tv/banana_ramajama"
-    },
     "68909866": {
       "display_name": "PuckThePixieVT",
       "game_name": "Cyberpunk 2077",
