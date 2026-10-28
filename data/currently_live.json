@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-28T05:35:10Z",
+  "updated_at": "2026-10-28T18:20:10Z",
   "poll_seconds": 300,
-  "live": {},
+  "live": {
+    "59922801": {
+      "display_name": "doeremi_",
+      "game_name": "Just Chatting",
+      "login": "doeremi_",
+      "started_at": "2026-10-28T18:19:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
+      "title": "꒰ 🎨🌸 ꒱ MY BRAIN IS GOO 🌸 MY BRAIN IS GOO 🌸 MY BRAIN IS GOO 🌸 MY BRAIN IS GOO 🌸 | !vgen !DOEscord",
+      "url": "https://www.twitch.tv/doeremi_"
+    }
+  },
   "login_updates": {}
 }
