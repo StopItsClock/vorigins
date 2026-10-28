@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-28T00:20:10Z",
+  "updated_at": "2026-10-28T00:45:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -12,32 +12,14 @@
       "title": "It stank like grave booty in here | Jumping around a couple games | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
     },
-    "110867034": {
-      "display_name": "VVDragon_",
-      "game_name": "FTL: Faster Than Light",
-      "login": "vvdragon_",
-      "started_at": "2026-10-27T22:59:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
-      "title": "[FTL: MULTIVERSE] Stream ends when the run does!",
-      "url": "https://www.twitch.tv/vvdragon_"
-    },
     "487437198": {
       "display_name": "ShizukaCh",
-      "game_name": "Wii Sports",
+      "game_name": "Sonic Riders: Zero Gravity",
       "login": "shizukach",
       "started_at": "2026-10-27T23:00:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
-      "title": "🤍🎑【 HAPPY BASEBALL 】doing good and yapping w/ @AidenChiiVT ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte ✦ !cover",
+      "title": "🤍🎑【 HUH?? 】doing good and yapping w/ @AidenChiiVT ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte ✦ !cover",
       "url": "https://www.twitch.tv/shizukach"
-    },
-    "855636522": {
-      "display_name": "RootedMoon1506",
-      "game_name": "Keep Talking and Nobody Explodes",
-      "login": "rootedmoon1506",
-      "started_at": "2026-10-27T22:11:52Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rootedmoon1506-{width}x{height}.jpg",
-      "title": "2 cats try to disarm a bomb - Keep talking and nobody explodes w/ @serothelibrarian",
-      "url": "https://www.twitch.tv/rootedmoon1506"
     }
   },
   "login_updates": {}
