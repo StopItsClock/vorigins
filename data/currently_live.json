@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-28T00:55:10Z",
+  "updated_at": "2026-10-28T01:15:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "It stank like grave booty in here | Jumping around a couple games | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "68909866": {
+      "display_name": "PuckThePixieVT",
+      "game_name": "Cyberpunk 2077",
+      "login": "puckthepixievt",
+      "started_at": "2026-10-28T01:12:44Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
+      "title": "[18+] Schwarma Implant has me going cyberpsycho | Cyberpuck 2077",
+      "url": "https://www.twitch.tv/puckthepixievt"
     }
   },
   "login_updates": {}
