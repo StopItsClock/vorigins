@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-28T00:45:11Z",
+  "updated_at": "2026-10-28T00:55:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "It stank like grave booty in here | Jumping around a couple games | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
-    },
-    "487437198": {
-      "display_name": "ShizukaCh",
-      "game_name": "Sonic Riders: Zero Gravity",
-      "login": "shizukach",
-      "started_at": "2026-10-27T23:00:34Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
-      "title": "🤍🎑【 HUH?? 】doing good and yapping w/ @AidenChiiVT ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte ✦ !cover",
-      "url": "https://www.twitch.tv/shizukach"
     }
   },
   "login_updates": {}
