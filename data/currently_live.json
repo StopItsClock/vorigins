@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-28T22:00:11Z",
+  "updated_at": "2026-10-28T22:20:10Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
       "title": "꒰ 🎨🌸 ꒱ MY BRAIN IS GOO 🌸 MY BRAIN IS GOO 🌸 MY BRAIN IS GOO 🌸 MY BRAIN IS GOO 🌸 | !vgen !DOEscord",
       "url": "https://www.twitch.tv/doeremi_"
-    },
-    "68909866": {
-      "display_name": "PuckThePixieVT",
-      "game_name": "Dungeons & Dragons",
-      "login": "puckthepixievt",
-      "started_at": "2026-10-28T19:11:09Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
-      "title": "[18+] Let's go hunt a mammoth! And nothing will go wrong | D&D",
-      "url": "https://www.twitch.tv/puckthepixievt"
     },
     "1166441997": {
       "display_name": "VexaraTV",
