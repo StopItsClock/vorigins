@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-29T00:10:11Z",
+  "updated_at": "2026-10-29T00:40:11Z",
   "poll_seconds": 300,
   "live": {
     "119893530": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
       "title": "[Sprout 🌱] How Fast Can YOU Type??? 🧊 !pine !socials !cover 🍧 @frostedplague7",
       "url": "https://www.twitch.tv/frostedplague7"
-    },
-    "1166441997": {
-      "display_name": "VexaraTV",
-      "game_name": "Massacre at the Mirage",
-      "login": "vexaratv",
-      "started_at": "2026-10-28T21:55:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vexaratv-{width}x{height}.jpg",
-      "title": "THIS MOVIE THEATRE IS KILLER! | The Chemyst 💀┊ !discord 💜",
-      "url": "https://www.twitch.tv/vexaratv"
     }
   },
   "login_updates": {}
