@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-29T00:55:10Z",
+  "updated_at": "2026-10-29T03:40:10Z",
   "poll_seconds": 300,
-  "live": {},
+  "live": {
+    "160748634": {
+      "display_name": "celiere",
+      "game_name": "Art",
+      "login": "celiere",
+      "started_at": "2026-10-29T03:35:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
+      "title": "【ART】♡ MC VORIGINS character art!!! Arwen and Rourke heehee... ♡ !artq !socials !tip",
+      "url": "https://www.twitch.tv/celiere"
+    }
+  },
   "login_updates": {}
 }
