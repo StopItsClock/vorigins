@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-29T21:30:10Z",
+  "updated_at": "2026-10-29T22:00:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "EQ Solo Flawless, let's try to get this before taking a little break content wise starting tmw | Arc Titan | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "68909866": {
+      "display_name": "PuckThePixieVT",
+      "game_name": "Music",
+      "login": "puckthepixievt",
+      "started_at": "2026-10-29T21:56:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
+      "title": "[18+] Sing the bad vibes away! | Let's jam!",
+      "url": "https://www.twitch.tv/puckthepixievt"
     }
   },
   "login_updates": {}
