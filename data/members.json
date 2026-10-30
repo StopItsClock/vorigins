@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-26T22:39:48Z",
+  "updated_at": "2026-10-30T03:52:14Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -454,7 +454,7 @@
       "head": true,
       "name": "The Songbird",
       "role": "",
-      "age": "27",
+      "age": "28",
       "height": "5'8",
       "race": "Fire Genasi",
       "kingdom": "Asteria",
