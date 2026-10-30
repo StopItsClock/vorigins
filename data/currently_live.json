@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-30T20:55:10Z",
+  "updated_at": "2026-10-30T21:00:10Z",
   "poll_seconds": 300,
   "live": {
     "209565401": {
       "display_name": "AidenChiiVT",
-      "game_name": "Minecraft",
+      "game_name": "Special Events",
       "login": "aidenchiivt",
       "started_at": "2026-10-30T20:53:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchiivt-{width}x{height}.jpg",
