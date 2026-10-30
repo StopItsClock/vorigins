@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-30T02:05:11Z",
+  "updated_at": "2026-10-30T02:10:10Z",
   "poll_seconds": 300,
-  "live": {
-    "819211356": {
-      "display_name": "AlectoEumenid",
-      "game_name": "You and Me and Her: A Love Story",
-      "login": "alectoeumenid",
-      "started_at": "2026-10-30T00:01:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
-      "title": "【Yandere Yoctober】She is Starting to Scare Me {18+} // !discord !socials //",
-      "url": "https://www.twitch.tv/alectoeumenid"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
