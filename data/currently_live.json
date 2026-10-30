@@ -1,8 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-30T21:35:11Z",
+  "updated_at": "2026-10-30T21:55:11Z",
   "poll_seconds": 300,
   "live": {
+    "58276005": {
+      "display_name": "Banana_Ramajama",
+      "game_name": "No More Room in Hell 2",
+      "login": "banana_ramajama",
+      "started_at": "2026-10-30T21:53:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
+      "title": "Early Halloween while we kill time before VOrigins opening ceremony! | Giuseppe Crabapple | !discord !horror !lurk !clip",
+      "url": "https://www.twitch.tv/banana_ramajama"
+    },
     "209565401": {
       "display_name": "AidenChiiVT",
       "game_name": "Special Events",
