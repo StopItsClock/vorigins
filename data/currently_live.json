@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-30T00:35:10Z",
+  "updated_at": "2026-10-30T00:55:11Z",
   "poll_seconds": 300,
   "live": {
-    "58276005": {
-      "display_name": "Banana_Ramajama",
-      "game_name": "Destiny 2",
-      "login": "banana_ramajama",
-      "started_at": "2026-10-29T20:51:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
-      "title": "EQ Solo Flawless, let's try to get this before taking a little break content wise starting tmw | Arc Titan | !discord !horror !lurk !clip",
-      "url": "https://www.twitch.tv/banana_ramajama"
-    },
     "819211356": {
       "display_name": "AlectoEumenid",
       "game_name": "You and Me and Her: A Love Story",
