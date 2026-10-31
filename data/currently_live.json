@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T06:20:10Z",
+  "updated_at": "2026-10-31T06:30:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
       "title": "꒰ 👑 VOrigins: Crownfall꒱ Mother Elf has arrived | A New Story Begins 🍃 Day 1: Elizabeth Erdo POV 🎨🌸 | Multi-stream | !vorigins !rp",
       "url": "https://www.twitch.tv/doeremi_"
-    },
-    "68909866": {
-      "display_name": "PuckThePixieVT",
-      "game_name": "Minecraft",
-      "login": "puckthepixievt",
-      "started_at": "2026-10-31T01:00:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
-      "title": "[18+] [VOrigins Season 4] Puckulus Aquasius, Leader of the Genasi people!",
-      "url": "https://www.twitch.tv/puckthepixievt"
     },
     "73150212": {
       "display_name": "XionFox",
