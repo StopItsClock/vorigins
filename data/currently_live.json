@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T04:05:10Z",
+  "updated_at": "2026-10-31T04:15:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -227,15 +227,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elio_zinn-{width}x{height}.jpg",
       "title": "The story of Philip Rhamu begins!!! | V✧ORIGINS SEASON 4: CROWNFALL",
       "url": "https://www.twitch.tv/elio_zinn"
-    },
-    "1350182752": {
-      "display_name": "Caramoreli",
-      "game_name": "Minecraft",
-      "login": "caramoreli",
-      "started_at": "2026-10-31T00:50:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_caramoreli-{width}x{height}.jpg",
-      "title": "A New Adventure Unfolds | [Vorigins Crownfall] Day 1",
-      "url": "https://www.twitch.tv/caramoreli"
     },
     "1380109945": {
       "display_name": "NovaAustralis",
