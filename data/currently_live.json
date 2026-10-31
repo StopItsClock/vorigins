@@ -1,8 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T18:15:10Z",
+  "updated_at": "2026-10-31T18:35:10Z",
   "poll_seconds": 300,
   "live": {
+    "63513141": {
+      "display_name": "Helpinghand97",
+      "game_name": "Just Chatting",
+      "login": "helpinghand97",
+      "started_at": "2026-10-31T18:30:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_helpinghand97-{width}x{height}.jpg",
+      "title": "We got to shove mr Teach into the ground.... then we Flo like Water tonight!",
+      "url": "https://www.twitch.tv/helpinghand97"
+    },
     "835371235": {
       "display_name": "MizuRelictus",
       "game_name": "R.E.P.O.",
@@ -11,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
       "title": "[REPO] Bonus stream to save streaks~ Maybe MC RP after!",
       "url": "https://www.twitch.tv/mizurelictus"
-    },
-    "1166441997": {
-      "display_name": "VexaraTV",
-      "game_name": "Minecraft",
-      "login": "vexaratv",
-      "started_at": "2026-10-31T15:01:51Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vexaratv-{width}x{height}.jpg",
-      "title": "🍄 VOrigins Crownfall S4 - Lyra Lionheart | Minecraft SMP RP 🏰┊ !discord !rp !lore 💛",
-      "url": "https://www.twitch.tv/vexaratv"
     }
   },
   "login_updates": {}
