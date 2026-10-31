@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T20:40:11Z",
+  "updated_at": "2026-10-31T21:00:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_helpinghand97-{width}x{height}.jpg",
       "title": "We got to shove mr Teach into the ground.... then we Flo like Water tonight!",
       "url": "https://www.twitch.tv/helpinghand97"
-    },
-    "835371235": {
-      "display_name": "MizuRelictus",
-      "game_name": "R.E.P.O.",
-      "login": "mizurelictus",
-      "started_at": "2026-10-31T17:00:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
-      "title": "[REPO] Bonus stream to save streaks~ Maybe MC RP after!",
-      "url": "https://www.twitch.tv/mizurelictus"
     }
   },
   "login_updates": {}
