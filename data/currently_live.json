@@ -1,8 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T16:50:10Z",
+  "updated_at": "2026-10-31T17:05:10Z",
   "poll_seconds": 300,
   "live": {
+    "835371235": {
+      "display_name": "MizuRelictus",
+      "game_name": "R.E.P.O.",
+      "login": "mizurelictus",
+      "started_at": "2026-10-31T17:00:03Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
+      "title": "[REPO] Bonus stream to save streaks~ Maybe MC RP after!",
+      "url": "https://www.twitch.tv/mizurelictus"
+    },
     "1166441997": {
       "display_name": "VexaraTV",
       "game_name": "Minecraft",
