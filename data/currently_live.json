@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T22:45:12Z",
+  "updated_at": "2026-10-31T22:55:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -41,7 +41,7 @@
     },
     "983832675": {
       "display_name": "Meoweomell_Marsyus_Seliem",
-      "game_name": "",
+      "game_name": "Minecraft",
       "login": "meoweomell_marsyus_seliem",
       "started_at": "2026-10-31T22:42:17Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meoweomell_marsyus_seliem-{width}x{height}.jpg",
