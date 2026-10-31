@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-30T23:35:10Z",
+  "updated_at": "2026-10-31T00:05:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -12,6 +12,15 @@
       "title": "Early Halloween while we kill time before VOrigins opening ceremony! | Giuseppe Crabapple | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
     },
+    "59922801": {
+      "display_name": "doeremi_",
+      "game_name": "Minecraft",
+      "login": "doeremi_",
+      "started_at": "2026-10-31T00:02:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
+      "title": "꒰ 👑 VOrigins: Crownfall꒱ Mother Elf has arrived | A New Story Begins 🍃 Day 1: Elizabeth Erdo POV 🎨🌸 | Multi-stream | !vorigins !rp",
+      "url": "https://www.twitch.tv/doeremi_"
+    },
     "209565401": {
       "display_name": "AidenChiiVT",
       "game_name": "Special Events",
@@ -20,6 +29,24 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchiivt-{width}x{height}.jpg",
       "title": "🦝| Birthday stream! and then Vorigins s4 launch! | @aidenchiivt | !Discord | !Socials |🦝👟👑",
       "url": "https://www.twitch.tv/aidenchiivt"
+    },
+    "495919620": {
+      "display_name": "66GrimDemise66",
+      "game_name": "Just Chatting",
+      "login": "66grimdemise66",
+      "started_at": "2026-10-31T00:02:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
+      "title": "{VOrigins Crownfall SMP} Fatherless behavior (Halloween model debut)",
+      "url": "https://www.twitch.tv/66grimdemise66"
+    },
+    "819211356": {
+      "display_name": "AlectoEumenid",
+      "game_name": "Just Chatting",
+      "login": "alectoeumenid",
+      "started_at": "2026-10-31T00:01:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
+      "title": "【VOrigins S4: Crownfall】The Kingdoms Have Opened Their Doors {18+} // !discord !socials //",
+      "url": "https://www.twitch.tv/alectoeumenid"
     }
   },
   "login_updates": {}
