@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T00:05:10Z",
+  "updated_at": "2026-10-31T00:30:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -29,6 +29,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchiivt-{width}x{height}.jpg",
       "title": "🦝| Birthday stream! and then Vorigins s4 launch! | @aidenchiivt | !Discord | !Socials |🦝👟👑",
       "url": "https://www.twitch.tv/aidenchiivt"
+    },
+    "487437198": {
+      "display_name": "ShizukaCh",
+      "game_name": "Minecraft",
+      "login": "shizukach",
+      "started_at": "2026-10-31T00:29:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
+      "title": "🤍🎑【 V-ORIGINS DAY 1 】NO TAXATION WITHOUT REPRESENTATION ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte ✦ !vorigins",
+      "url": "https://www.twitch.tv/shizukach"
     },
     "495919620": {
       "display_name": "66GrimDemise66",
