@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T08:35:10Z",
+  "updated_at": "2026-10-31T08:45:10Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
@@ -29,15 +29,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeonovt-{width}x{height}.jpg",
       "title": "໒V-Origins Day-1১ The Dwarf Yearns For The Mines! ⋆˚࿔ !vorigins",
       "url": "https://www.twitch.tv/yeonovt"
-    },
-    "487437198": {
-      "display_name": "ShizukaCh",
-      "game_name": "Minecraft",
-      "login": "shizukach",
-      "started_at": "2026-10-31T00:29:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
-      "title": "🤍🎑【 V-ORIGINS DAY 1 】NO TAXATION WITHOUT REPRESENTATION ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte ✦ !vorigins",
-      "url": "https://www.twitch.tv/shizukach"
     },
     "819211356": {
       "display_name": "AlectoEumenid",
