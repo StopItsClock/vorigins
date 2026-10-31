@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T09:05:10Z",
+  "updated_at": "2026-10-31T09:20:10Z",
   "poll_seconds": 300,
   "live": {
     "443242156": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeonovt-{width}x{height}.jpg",
       "title": "໒V-Origins Day-1১ The Dwarf Yearns For The Mines! ⋆˚࿔ !vorigins",
       "url": "https://www.twitch.tv/yeonovt"
-    },
-    "819211356": {
-      "display_name": "AlectoEumenid",
-      "game_name": "Minecraft",
-      "login": "alectoeumenid",
-      "started_at": "2026-10-31T00:01:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
-      "title": "【VOrigins S4: Crownfall】The Kingdoms Have Opened Their Doors {18+} // !discord !socials //",
-      "url": "https://www.twitch.tv/alectoeumenid"
     }
   },
   "login_updates": {}
