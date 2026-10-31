@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T05:05:10Z",
+  "updated_at": "2026-10-31T05:10:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -209,15 +209,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meoweomell_marsyus_seliem-{width}x{height}.jpg",
       "title": "CROWNFALL | VORIGINS S4 [day I]",
       "url": "https://www.twitch.tv/meoweomell_marsyus_seliem"
-    },
-    "1003296268": {
-      "display_name": "Elio_Zinn",
-      "game_name": "Minecraft",
-      "login": "elio_zinn",
-      "started_at": "2026-10-31T01:17:53Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elio_zinn-{width}x{height}.jpg",
-      "title": "The story of Philip Rhamu begins!!! | V✧ORIGINS SEASON 4: CROWNFALL",
-      "url": "https://www.twitch.tv/elio_zinn"
     },
     "1380109945": {
       "display_name": "NovaAustralis",
