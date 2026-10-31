@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T06:15:10Z",
+  "updated_at": "2026-10-31T06:20:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -75,15 +75,6 @@
       "title": "[MCRP] VOrigins S4: Crownfall Opening night! | !badge !crownfall",
       "url": "https://www.twitch.tv/raiinelive"
     },
-    "228334289": {
-      "display_name": "Rams404Vt",
-      "game_name": "Minecraft",
-      "login": "rams404vt",
-      "started_at": "2026-10-31T01:47:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
-      "title": "✨[18+ Eng/Esp] ✨[VOrigins SMP] This body comes with many inconveniences...✨!crownfall !socials !lurk  @rams404vt ✨",
-      "url": "https://www.twitch.tv/rams404vt"
-    },
     "243161944": {
       "display_name": "DracolicheRen",
       "game_name": "Minecraft",
@@ -119,15 +110,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vapveran-{width}x{height}.jpg",
       "title": "[ V*Origins: Crownfall ] Mr. Mail delivers his love! !vorigins !character",
       "url": "https://www.twitch.tv/vapveran"
-    },
-    "612172705": {
-      "display_name": "A__NUBIS",
-      "game_name": "Minecraft",
-      "login": "a__nubis",
-      "started_at": "2026-10-31T01:54:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_a__nubis-{width}x{height}.jpg",
-      "title": "VORIGENS EPISODE 1-Rourke Dolmayan",
-      "url": "https://www.twitch.tv/a__nubis"
     },
     "819211356": {
       "display_name": "AlectoEumenid",
