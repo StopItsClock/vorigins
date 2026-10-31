@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T04:25:10Z",
+  "updated_at": "2026-10-31T04:30:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -92,15 +92,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
       "title": "✨[18+ Eng/Esp] ✨[VOrigins SMP] This body comes with many inconveniences...✨!crownfall !socials !lurk  @rams404vt ✨",
       "url": "https://www.twitch.tv/rams404vt"
-    },
-    "239191238": {
-      "display_name": "RedBladeCrimson",
-      "game_name": "Minecraft",
-      "login": "redbladecrimson",
-      "started_at": "2026-10-31T01:03:49Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
-      "title": "[Road to 400!] Minecraft v-origins! First time roleplaying! Being a good(?) mercenary!",
-      "url": "https://www.twitch.tv/redbladecrimson"
     },
     "243161944": {
       "display_name": "DracolicheRen",
