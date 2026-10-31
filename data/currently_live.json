@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T00:30:10Z",
+  "updated_at": "2026-10-31T00:35:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -21,13 +21,31 @@
       "title": "꒰ 👑 VOrigins: Crownfall꒱ Mother Elf has arrived | A New Story Begins 🍃 Day 1: Elizabeth Erdo POV 🎨🌸 | Multi-stream | !vorigins !rp",
       "url": "https://www.twitch.tv/doeremi_"
     },
+    "63513141": {
+      "display_name": "Helpinghand97",
+      "game_name": "Just Chatting",
+      "login": "helpinghand97",
+      "started_at": "2026-10-31T00:33:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_helpinghand97-{width}x{height}.jpg",
+      "title": "[VOrigins] Flo Ya-Wa follows the current",
+      "url": "https://www.twitch.tv/helpinghand97"
+    },
+    "73150212": {
+      "display_name": "XionFox",
+      "game_name": "Minecraft",
+      "login": "xionfox",
+      "started_at": "2026-10-31T00:33:42Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
+      "title": "[NEOSORA SMP] New School New Beginnings #NeoSoraSMP",
+      "url": "https://www.twitch.tv/xionfox"
+    },
     "209565401": {
       "display_name": "AidenChiiVT",
-      "game_name": "Special Events",
+      "game_name": "Minecraft",
       "login": "aidenchiivt",
       "started_at": "2026-10-30T20:53:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchiivt-{width}x{height}.jpg",
-      "title": "🦝| Birthday stream! and then Vorigins s4 launch! | @aidenchiivt | !Discord | !Socials |🦝👟👑",
+      "title": "🦝| Birthday stream! ITS VORIGINS S4 TIME!!! | @aidenchiivt | !Discord | !Socials |🦝👟👑",
       "url": "https://www.twitch.tv/aidenchiivt"
     },
     "487437198": {
