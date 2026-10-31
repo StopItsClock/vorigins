@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T03:10:10Z",
+  "updated_at": "2026-10-31T03:35:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -200,6 +200,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wiltedirony-{width}x{height}.jpg",
       "title": "Vorigins season 4 CROWNFALL | !discord !roll !clip [ENG/ARA]",
       "url": "https://www.twitch.tv/wiltedirony"
+    },
+    "938069605": {
+      "display_name": "CedarVT",
+      "game_name": "Minecraft",
+      "login": "cedarvt",
+      "started_at": "2026-10-31T03:34:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
+      "title": "[Crownfall] Let the Sound of Triumph Light the Way ~🍂 !discord !merch",
+      "url": "https://www.twitch.tv/cedarvt"
     },
     "983832675": {
       "display_name": "Meoweomell_Marsyus_Seliem",
