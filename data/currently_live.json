@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T06:30:10Z",
+  "updated_at": "2026-10-31T06:40:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -65,15 +65,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiinelive-{width}x{height}.jpg",
       "title": "[MCRP] VOrigins S4: Crownfall Opening night! | !badge !crownfall",
       "url": "https://www.twitch.tv/raiinelive"
-    },
-    "243161944": {
-      "display_name": "DracolicheRen",
-      "game_name": "Minecraft",
-      "login": "dracolicheren",
-      "started_at": "2026-10-31T01:07:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
-      "title": "(S4 VOrigins Opening Day) The start of rooks adventure! | !Discord !lurk | 🐉🧟",
-      "url": "https://www.twitch.tv/dracolicheren"
     },
     "443242156": {
       "display_name": "YeonoVt",
