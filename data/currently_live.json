@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T21:45:10Z",
+  "updated_at": "2026-10-31T21:50:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_helpinghand97-{width}x{height}.jpg",
       "title": "We got to shove mr Teach into the ground.... then we Flo like Water tonight!",
       "url": "https://www.twitch.tv/helpinghand97"
+    },
+    "77176298": {
+      "display_name": "ShivaRoseBloom",
+      "game_name": "Dark Souls: Remastered",
+      "login": "shivarosebloom",
+      "started_at": "2026-10-31T21:47:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
+      "title": "🌹[Dark Souls] Manus....Please go easy on us -> #VOriginsS4",
+      "url": "https://www.twitch.tv/shivarosebloom"
     },
     "495919620": {
       "display_name": "66GrimDemise66",
