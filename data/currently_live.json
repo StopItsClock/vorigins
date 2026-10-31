@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T04:30:11Z",
+  "updated_at": "2026-10-31T05:05:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -74,6 +74,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
       "title": "[Sprout 🌱] Goofing Off With Friends!🧊 !pine !naa !socials 🍧 @frostedplague7",
       "url": "https://www.twitch.tv/frostedplague7"
+    },
+    "139155084": {
+      "display_name": "RaiineLive",
+      "game_name": "Minecraft",
+      "login": "raiinelive",
+      "started_at": "2026-10-31T05:01:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiinelive-{width}x{height}.jpg",
+      "title": "[MCRP] VOrigins S4: Crownfall Opening night! | !badge !crownfall",
+      "url": "https://www.twitch.tv/raiinelive"
     },
     "209565401": {
       "display_name": "AidenChiiVT",
