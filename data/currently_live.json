@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T01:25:11Z",
+  "updated_at": "2026-10-31T01:35:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -101,6 +101,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeonovt-{width}x{height}.jpg",
       "title": "໒V-Origins Day-1১ The Dwarf Yearn For The Mines! ⋆˚࿔ !vorigins",
       "url": "https://www.twitch.tv/yeonovt"
+    },
+    "452819536": {
+      "display_name": "AlfNAlf",
+      "game_name": "Minecraft",
+      "login": "alfnalf",
+      "started_at": "2026-10-31T01:31:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfnalf-{width}x{height}.jpg",
+      "title": "(EN) V-ORIGINS DAY 1!| !lurk",
+      "url": "https://www.twitch.tv/alfnalf"
     },
     "487437198": {
       "display_name": "ShizukaCh",
