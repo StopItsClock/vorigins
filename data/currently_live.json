@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T08:30:11Z",
+  "updated_at": "2026-10-31T08:35:10Z",
   "poll_seconds": 300,
   "live": {
-    "59922801": {
-      "display_name": "doeremi_",
-      "game_name": "Minecraft",
-      "login": "doeremi_",
-      "started_at": "2026-10-31T00:02:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
-      "title": "꒰ 👑 VOrigins: Crownfall꒱ Mother Elf has arrived | A New Story Begins 🍃 Day 1: Elizabeth Erdo POV 🎨🌸 | Multi-stream | !vorigins !rp",
-      "url": "https://www.twitch.tv/doeremi_"
-    },
     "77176298": {
       "display_name": "ShivaRoseBloom",
       "game_name": "Minecraft",
