@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T00:40:10Z",
+  "updated_at": "2026-10-31T00:45:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -39,15 +39,6 @@
       "title": "[CROWNFALL] Let the flames of Asteria guide you through the night #VoriginsS4",
       "url": "https://www.twitch.tv/xionfox"
     },
-    "209565401": {
-      "display_name": "AidenChiiVT",
-      "game_name": "Minecraft",
-      "login": "aidenchiivt",
-      "started_at": "2026-10-30T20:53:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchiivt-{width}x{height}.jpg",
-      "title": "🦝| Birthday stream! ITS VORIGINS S4 TIME!!! | @aidenchiivt | !Discord | !Socials |🦝👟👑",
-      "url": "https://www.twitch.tv/aidenchiivt"
-    },
     "487437198": {
       "display_name": "ShizukaCh",
       "game_name": "Minecraft",
@@ -65,6 +56,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
       "title": "{VOrigins Crownfall SMP} Fatherless behavior (Halloween model debut)",
       "url": "https://www.twitch.tv/66grimdemise66"
+    },
+    "714177656": {
+      "display_name": "FreyjaRabbit",
+      "game_name": "Minecraft",
+      "login": "freyjarabbit",
+      "started_at": "2026-10-31T00:41:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_freyjarabbit-{width}x{height}.jpg",
+      "title": "V✧ORIGINS SEASON 4 EPISODE 1! welcome to kiyomori!!  | !kofi !prismaria !vgen",
+      "url": "https://www.twitch.tv/freyjarabbit"
     },
     "819211356": {
       "display_name": "AlectoEumenid",
