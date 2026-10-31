@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T05:15:10Z",
+  "updated_at": "2026-10-31T05:25:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -155,15 +155,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_a__nubis-{width}x{height}.jpg",
       "title": "VORIGENS EPISODE 1-Rourke Dolmayan",
       "url": "https://www.twitch.tv/a__nubis"
-    },
-    "714177656": {
-      "display_name": "FreyjaRabbit",
-      "game_name": "Minecraft",
-      "login": "freyjarabbit",
-      "started_at": "2026-10-31T00:41:39Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_freyjarabbit-{width}x{height}.jpg",
-      "title": "V✧ORIGINS SEASON 4 EPISODE 1! welcome to kiyomori!!  | !kofi !prismaria !vgen",
-      "url": "https://www.twitch.tv/freyjarabbit"
     },
     "819211356": {
       "display_name": "AlectoEumenid",
