@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T02:30:10Z",
+  "updated_at": "2026-10-31T02:40:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -47,6 +47,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
       "title": "[CROWNFALL] Let the flames of Asteria guide you through the night #VoriginsS4",
       "url": "https://www.twitch.tv/xionfox"
+    },
+    "77176298": {
+      "display_name": "ShivaRoseBloom",
+      "game_name": "Minecraft",
+      "login": "shivarosebloom",
+      "started_at": "2026-10-31T02:37:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
+      "title": "🌹[Minecraft] #VOriginsS4 Oh how beautiful does the moon look || OPENING DAY!",
+      "url": "https://www.twitch.tv/shivarosebloom"
     },
     "110867034": {
       "display_name": "VVDragon_",
