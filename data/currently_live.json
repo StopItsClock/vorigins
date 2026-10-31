@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T01:50:10Z",
+  "updated_at": "2026-10-31T01:55:13Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -146,6 +146,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vapveran-{width}x{height}.jpg",
       "title": "[ V*Origins: Crownfall ] Mr. Mail delivers his love! !vorigins !character",
       "url": "https://www.twitch.tv/vapveran"
+    },
+    "612172705": {
+      "display_name": "A__NUBIS",
+      "game_name": "Minecraft",
+      "login": "a__nubis",
+      "started_at": "2026-10-31T01:54:42Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_a__nubis-{width}x{height}.jpg",
+      "title": "VORIGENS EPISODE 1-Rourke Dolmayan",
+      "url": "https://www.twitch.tv/a__nubis"
     },
     "714177656": {
       "display_name": "FreyjaRabbit",
