@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T06:40:10Z",
+  "updated_at": "2026-10-31T06:55:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -39,15 +39,6 @@
       "title": "🌹[Minecraft] #VOriginsS4 Oh how beautiful does the moon look || OPENING DAY!",
       "url": "https://www.twitch.tv/shivarosebloom"
     },
-    "110867034": {
-      "display_name": "VVDragon_",
-      "game_name": "Minecraft",
-      "login": "vvdragon_",
-      "started_at": "2026-10-31T00:46:11Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
-      "title": "[VORIGINS S4] | SERVER OPENING + Day 1 Activities!",
-      "url": "https://www.twitch.tv/vvdragon_"
-    },
     "119893530": {
       "display_name": "FrostedPlague7",
       "game_name": "FINAL FANTASY XIV ONLINE",
@@ -72,7 +63,7 @@
       "login": "yeonovt",
       "started_at": "2026-10-31T01:10:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeonovt-{width}x{height}.jpg",
-      "title": "໒V-Origins Day-1১ The Dwarf Yearn For The Mines! ⋆˚࿔ !vorigins",
+      "title": "໒V-Origins Day-1১ The Dwarf Yearns For The Mines! ⋆˚࿔ !vorigins",
       "url": "https://www.twitch.tv/yeonovt"
     },
     "487437198": {
