@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T08:25:11Z",
+  "updated_at": "2026-10-31T08:30:11Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -65,15 +65,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
       "title": "[VOrgins S4] Opening of the server and lot of OOC stuff today! I !vorgins",
       "url": "https://www.twitch.tv/mizurelictus"
-    },
-    "938069605": {
-      "display_name": "CedarVT",
-      "game_name": "Minecraft",
-      "login": "cedarvt",
-      "started_at": "2026-10-31T03:34:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
-      "title": "[Crownfall] Let the Sound of Triumph Light the Way ~🍂 !discord !merch",
-      "url": "https://www.twitch.tv/cedarvt"
     },
     "983832675": {
       "display_name": "Meoweomell_Marsyus_Seliem",
