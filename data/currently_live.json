@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T00:55:11Z",
+  "updated_at": "2026-10-31T01:00:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -57,6 +57,15 @@
       "title": "꒰ 🐾 VOrigins: Crownfall꒱ BARK, GROWL, SNARL!!! | Minecraft RP🧊 !rp !map !socials 🍧 @frostedplague7",
       "url": "https://www.twitch.tv/frostedplague7"
     },
+    "209565401": {
+      "display_name": "AidenChiiVT",
+      "game_name": "Minecraft",
+      "login": "aidenchiivt",
+      "started_at": "2026-10-31T00:56:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchiivt-{width}x{height}.jpg",
+      "title": "🦝| Birthday stream! ITS VORIGINS S4 TIME!!! | @aidenchiivt | !Discord | !Socials |🦝👟👑",
+      "url": "https://www.twitch.tv/aidenchiivt"
+    },
     "487437198": {
       "display_name": "ShizukaCh",
       "game_name": "Minecraft",
@@ -86,12 +95,30 @@
     },
     "819211356": {
       "display_name": "AlectoEumenid",
-      "game_name": "Just Chatting",
+      "game_name": "Minecraft",
       "login": "alectoeumenid",
       "started_at": "2026-10-31T00:01:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
       "title": "【VOrigins S4: Crownfall】The Kingdoms Have Opened Their Doors {18+} // !discord !socials //",
       "url": "https://www.twitch.tv/alectoeumenid"
+    },
+    "835371235": {
+      "display_name": "MizuRelictus",
+      "game_name": "Minecraft",
+      "login": "mizurelictus",
+      "started_at": "2026-10-31T00:59:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
+      "title": "[VOrgins S4] Opening of the server and lot of OOC stuff today! I !vorgins",
+      "url": "https://www.twitch.tv/mizurelictus"
+    },
+    "983832675": {
+      "display_name": "Meoweomell_Marsyus_Seliem",
+      "game_name": "",
+      "login": "meoweomell_marsyus_seliem",
+      "started_at": "2026-10-31T00:57:49Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meoweomell_marsyus_seliem-{width}x{height}.jpg",
+      "title": "CROWNFALL | VORIGINS S4 [day I]",
+      "url": "https://www.twitch.tv/meoweomell_marsyus_seliem"
     },
     "1350182752": {
       "display_name": "Caramoreli",
