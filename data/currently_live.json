@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T00:50:10Z",
+  "updated_at": "2026-10-31T00:55:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -48,6 +48,15 @@
       "title": "[VORIGINS S4] | SERVER OPENING + Day 1 Activities!",
       "url": "https://www.twitch.tv/vvdragon_"
     },
+    "119893530": {
+      "display_name": "FrostedPlague7",
+      "game_name": "Minecraft",
+      "login": "frostedplague7",
+      "started_at": "2026-10-31T00:50:09Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
+      "title": "꒰ 🐾 VOrigins: Crownfall꒱ BARK, GROWL, SNARL!!! | Minecraft RP🧊 !rp !map !socials 🍧 @frostedplague7",
+      "url": "https://www.twitch.tv/frostedplague7"
+    },
     "487437198": {
       "display_name": "ShizukaCh",
       "game_name": "Minecraft",
@@ -83,6 +92,24 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
       "title": "【VOrigins S4: Crownfall】The Kingdoms Have Opened Their Doors {18+} // !discord !socials //",
       "url": "https://www.twitch.tv/alectoeumenid"
+    },
+    "1350182752": {
+      "display_name": "Caramoreli",
+      "game_name": "Minecraft",
+      "login": "caramoreli",
+      "started_at": "2026-10-31T00:50:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_caramoreli-{width}x{height}.jpg",
+      "title": "A New Adventure Unfolds | [Vorigins Crownfall] Day 1",
+      "url": "https://www.twitch.tv/caramoreli"
+    },
+    "1380109945": {
+      "display_name": "NovaAustralis",
+      "game_name": "Minecraft",
+      "login": "novaaustralis",
+      "started_at": "2026-10-31T00:51:34Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_novaaustralis-{width}x{height}.jpg",
+      "title": "The Songbird Rises! [ VOrigins: Crownfall ] !discord !socials !pet",
+      "url": "https://www.twitch.tv/novaaustralis"
     }
   },
   "login_updates": {}
