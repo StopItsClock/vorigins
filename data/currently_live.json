@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T22:25:10Z",
+  "updated_at": "2026-10-31T22:40:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -38,6 +38,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
       "title": "{VOrigins Crownfall SMP} Day 2 // Preparation",
       "url": "https://www.twitch.tv/66grimdemise66"
+    },
+    "983832675": {
+      "display_name": "Meoweomell_Marsyus_Seliem",
+      "game_name": "",
+      "login": "meoweomell_marsyus_seliem",
+      "started_at": "2026-10-31T22:39:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meoweomell_marsyus_seliem-{width}x{height}.jpg",
+      "title": "CROWNFALL | VORIGINS S4 [day II]",
+      "url": "https://www.twitch.tv/meoweomell_marsyus_seliem"
     }
   },
   "login_updates": {}
