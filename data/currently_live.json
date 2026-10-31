@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T23:15:10Z",
+  "updated_at": "2026-10-31T23:20:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -14,7 +14,7 @@
     },
     "63513141": {
       "display_name": "Helpinghand97",
-      "game_name": "Persona 5 Royal",
+      "game_name": "Minecraft",
       "login": "helpinghand97",
       "started_at": "2026-10-31T18:30:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_helpinghand97-{width}x{height}.jpg",
@@ -38,6 +38,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
       "title": "🌹[Dark Souls] Manus....Please go easy on us -> #VOriginsS4",
       "url": "https://www.twitch.tv/shivarosebloom"
+    },
+    "228334289": {
+      "display_name": "Rams404Vt",
+      "game_name": "Minecraft",
+      "login": "rams404vt",
+      "started_at": "2026-10-31T23:16:08Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
+      "title": "✨[18+ Eng/Esp] ✨[VOrigins SMP] The nights just keep getting longer✨!crownfall !socials !lurk  @rams404vt ✨",
+      "url": "https://www.twitch.tv/rams404vt"
     },
     "495919620": {
       "display_name": "66GrimDemise66",
