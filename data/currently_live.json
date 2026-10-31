@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T21:00:10Z",
+  "updated_at": "2026-10-31T21:10:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_helpinghand97-{width}x{height}.jpg",
       "title": "We got to shove mr Teach into the ground.... then we Flo like Water tonight!",
       "url": "https://www.twitch.tv/helpinghand97"
+    },
+    "495919620": {
+      "display_name": "66GrimDemise66",
+      "game_name": "Minecraft",
+      "login": "66grimdemise66",
+      "started_at": "2026-10-31T21:09:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
+      "title": "{VOrigins Crownfall SMP} Day 2 // Preparation",
+      "url": "https://www.twitch.tv/66grimdemise66"
     }
   },
   "login_updates": {}
