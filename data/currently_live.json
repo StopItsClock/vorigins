@@ -1,8 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T20:00:11Z",
+  "updated_at": "2026-10-31T20:10:10Z",
   "poll_seconds": 300,
   "live": {
+    "58276005": {
+      "display_name": "Banana_Ramajama",
+      "game_name": "Minecraft",
+      "login": "banana_ramajama",
+      "started_at": "2026-10-31T20:06:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
+      "title": "VOriginsS4 first full day~ | Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
+      "url": "https://www.twitch.tv/banana_ramajama"
+    },
     "63513141": {
       "display_name": "Helpinghand97",
       "game_name": "Persona 5 Royal",
