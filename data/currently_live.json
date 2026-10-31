@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T00:45:11Z",
+  "updated_at": "2026-10-31T00:50:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
       "display_name": "Banana_Ramajama",
-      "game_name": "No More Room in Hell 2",
+      "game_name": "Minecraft",
       "login": "banana_ramajama",
       "started_at": "2026-10-30T21:53:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
-      "title": "Early Halloween while we kill time before VOrigins opening ceremony! | Giuseppe Crabapple | !discord !horror !lurk !clip",
+      "title": "VOrigins Opening Ceremony! | Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
     },
     "59922801": {
@@ -38,6 +38,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
       "title": "[CROWNFALL] Let the flames of Asteria guide you through the night #VoriginsS4",
       "url": "https://www.twitch.tv/xionfox"
+    },
+    "110867034": {
+      "display_name": "VVDragon_",
+      "game_name": "Minecraft",
+      "login": "vvdragon_",
+      "started_at": "2026-10-31T00:46:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
+      "title": "[VORIGINS S4] | SERVER OPENING + Day 1 Activities!",
+      "url": "https://www.twitch.tv/vvdragon_"
     },
     "487437198": {
       "display_name": "ShizukaCh",
