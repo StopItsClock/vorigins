@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T05:25:10Z",
+  "updated_at": "2026-10-31T05:45:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -128,15 +128,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
       "title": "🤍🎑【 V-ORIGINS DAY 1 】NO TAXATION WITHOUT REPRESENTATION ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte ✦ !vorigins",
       "url": "https://www.twitch.tv/shizukach"
-    },
-    "495919620": {
-      "display_name": "66GrimDemise66",
-      "game_name": "Minecraft",
-      "login": "66grimdemise66",
-      "started_at": "2026-10-31T00:02:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
-      "title": "{VOrigins Crownfall SMP} Fatherless behavior (Halloween model debut)",
-      "url": "https://www.twitch.tv/66grimdemise66"
     },
     "555456488": {
       "display_name": "vapVeran",
