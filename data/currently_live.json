@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T01:35:10Z",
+  "updated_at": "2026-10-31T01:50:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -74,6 +74,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchiivt-{width}x{height}.jpg",
       "title": "🦝| Birthday stream! ITS VORIGINS S4 TIME!!! | @aidenchiivt | !Discord | !Socials |🦝👟👑",
       "url": "https://www.twitch.tv/aidenchiivt"
+    },
+    "228334289": {
+      "display_name": "Rams404Vt",
+      "game_name": "Minecraft",
+      "login": "rams404vt",
+      "started_at": "2026-10-31T01:47:08Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
+      "title": "✨[18+ Eng/Esp] ✨[VOrigins SMP] This body comes with many inconveniences...✨!crownfall !socials !lurk  @rams404vt ✨",
+      "url": "https://www.twitch.tv/rams404vt"
     },
     "239191238": {
       "display_name": "RedBladeCrimson",
