@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T08:10:10Z",
+  "updated_at": "2026-10-31T08:25:11Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -47,15 +47,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
       "title": "🤍🎑【 V-ORIGINS DAY 1 】NO TAXATION WITHOUT REPRESENTATION ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte ✦ !vorigins",
       "url": "https://www.twitch.tv/shizukach"
-    },
-    "555456488": {
-      "display_name": "vapVeran",
-      "game_name": "Minecraft",
-      "login": "vapveran",
-      "started_at": "2026-10-31T01:12:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vapveran-{width}x{height}.jpg",
-      "title": "[ V*Origins: Crownfall ] Mr. Mail delivers his love! !vorigins !character",
-      "url": "https://www.twitch.tv/vapveran"
     },
     "819211356": {
       "display_name": "AlectoEumenid",
