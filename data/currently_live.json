@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-01T21:40:10Z",
+  "updated_at": "2026-11-01T22:05:11Z",
   "poll_seconds": 300,
   "live": {
     "63513141": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_helpinghand97-{width}x{height}.jpg",
       "title": "Getting Whimzi on Whimzicraft!",
       "url": "https://www.twitch.tv/helpinghand97"
-    },
-    "1166441997": {
-      "display_name": "VexaraTV",
-      "game_name": "Warframe",
-      "login": "vexaratv",
-      "started_at": "2026-11-01T18:21:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vexaratv-{width}x{height}.jpg",
-      "title": "[ PLAT GIVEAWAY] HALLOWEENS OVER... BUT NOT IN MY HEART┊ !discord !join !ign",
-      "url": "https://www.twitch.tv/vexaratv"
     }
   },
   "login_updates": {}
