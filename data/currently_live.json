@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-01T10:25:11Z",
+  "updated_at": "2026-11-01T10:50:11Z",
   "poll_seconds": 300,
-  "live": {
-    "612172705": {
-      "display_name": "A__NUBIS",
-      "game_name": "Deadlock",
-      "login": "a__nubis",
-      "started_at": "2026-11-01T06:25:49Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_a__nubis-{width}x{height}.jpg",
-      "title": "VORIGENS EPISODE 2-Rourke Dolmayan",
-      "url": "https://www.twitch.tv/a__nubis"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
