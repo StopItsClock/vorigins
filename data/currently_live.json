@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-01T05:50:11Z",
+  "updated_at": "2026-11-01T06:00:10Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
       "title": "꒰ 👑 VOrigins: Crownfall꒱ Day 2: We must prepare for visitors... 🍃Elizabeth Erdo POV 🎨🌸 | Multi-stream | !vorigins !rp",
       "url": "https://www.twitch.tv/doeremi_"
-    },
-    "68909866": {
-      "display_name": "PuckThePixieVT",
-      "game_name": "Minecraft",
-      "login": "puckthepixievt",
-      "started_at": "2026-10-31T23:10:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
-      "title": "[18+] [VOrigins Season 4] Your Archon gathers materials and keeps it real af",
-      "url": "https://www.twitch.tv/puckthepixievt"
     },
     "77176298": {
       "display_name": "ShivaRoseBloom",
@@ -41,7 +32,7 @@
     },
     "160748634": {
       "display_name": "celiere",
-      "game_name": "Art",
+      "game_name": "Minecraft",
       "login": "celiere",
       "started_at": "2026-11-01T03:56:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
@@ -56,15 +47,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
       "title": "( S4 VOrigins ) Time to start the experiments!🐦‍⬛ | !Discord !lurk | 🐉🧟",
       "url": "https://www.twitch.tv/dracolicheren"
-    },
-    "452819536": {
-      "display_name": "AlfNAlf",
-      "game_name": "Minecraft",
-      "login": "alfnalf",
-      "started_at": "2026-11-01T02:37:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfnalf-{width}x{height}.jpg",
-      "title": "(EN) V-ORIGINS DAY 2!| !lurk",
-      "url": "https://www.twitch.tv/alfnalf"
     },
     "938069605": {
       "display_name": "CedarVT",
