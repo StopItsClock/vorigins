@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-01T00:30:11Z",
+  "updated_at": "2026-11-01T00:40:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -56,6 +56,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
       "title": "✨[18+ Eng/Esp] ✨[VOrigins SMP] The nights just keep getting longer✨!crownfall !socials !lurk  @rams404vt ✨",
       "url": "https://www.twitch.tv/rams404vt"
+    },
+    "239191238": {
+      "display_name": "RedBladeCrimson",
+      "game_name": "Art",
+      "login": "redbladecrimson",
+      "started_at": "2026-11-01T00:36:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
+      "title": "[Road to 400!] Working on charity goals + more minecraft v-origins tonight!",
+      "url": "https://www.twitch.tv/redbladecrimson"
     },
     "495919620": {
       "display_name": "66GrimDemise66",
