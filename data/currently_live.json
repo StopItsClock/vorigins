@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-01T02:20:10Z",
+  "updated_at": "2026-11-01T02:40:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -74,6 +74,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
       "title": "( S4 VOrigins ) Time to start the experiments!🐦‍⬛ | !Discord !lurk | 🐉🧟",
       "url": "https://www.twitch.tv/dracolicheren"
+    },
+    "452819536": {
+      "display_name": "AlfNAlf",
+      "game_name": "Minecraft",
+      "login": "alfnalf",
+      "started_at": "2026-11-01T02:37:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfnalf-{width}x{height}.jpg",
+      "title": "(EN) V-ORIGINS DAY 2!| !lurk",
+      "url": "https://www.twitch.tv/alfnalf"
     },
     "487437198": {
       "display_name": "ShizukaCh",
