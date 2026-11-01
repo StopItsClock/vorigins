@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-01T02:40:10Z",
+  "updated_at": "2026-11-01T02:45:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -92,15 +92,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
       "title": "🤍🎑【 V-ORIGINS DAY 2 】GIVE ME LIBERTY OR GIVE ME DEATH ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte ✦ !vorigins",
       "url": "https://www.twitch.tv/shizukach"
-    },
-    "495919620": {
-      "display_name": "66GrimDemise66",
-      "game_name": "Minecraft",
-      "login": "66grimdemise66",
-      "started_at": "2026-10-31T21:09:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
-      "title": "{VOrigins Crownfall SMP} Day 2 // Preparation",
-      "url": "https://www.twitch.tv/66grimdemise66"
     },
     "761873718": {
       "display_name": "cylinks_owo",
