@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-01T09:50:11Z",
+  "updated_at": "2026-11-01T09:55:11Z",
   "poll_seconds": 300,
   "live": {
     "612172705": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_a__nubis-{width}x{height}.jpg",
       "title": "VORIGENS EPISODE 2-Rourke Dolmayan",
       "url": "https://www.twitch.tv/a__nubis"
-    },
-    "938069605": {
-      "display_name": "CedarVT",
-      "game_name": "Minecraft",
-      "login": "cedarvt",
-      "started_at": "2026-11-01T02:19:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
-      "title": "[Crownfall] Let the Sound of Triumph Light the Way ~🍂 !discord !merch",
-      "url": "https://www.twitch.tv/cedarvt"
     }
   },
   "login_updates": {}
