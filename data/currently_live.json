@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-01T06:00:10Z",
+  "updated_at": "2026-11-01T06:30:10Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -47,6 +47,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
       "title": "( S4 VOrigins ) Time to start the experiments!🐦‍⬛ | !Discord !lurk | 🐉🧟",
       "url": "https://www.twitch.tv/dracolicheren"
+    },
+    "612172705": {
+      "display_name": "A__NUBIS",
+      "game_name": "Minecraft",
+      "login": "a__nubis",
+      "started_at": "2026-11-01T06:25:49Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_a__nubis-{width}x{height}.jpg",
+      "title": "VORIGENS EPISODE 2-Rourke Dolmayan",
+      "url": "https://www.twitch.tv/a__nubis"
     },
     "938069605": {
       "display_name": "CedarVT",
