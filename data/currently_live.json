@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T23:55:10Z",
+  "updated_at": "2026-11-01T00:00:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "VOriginsS4 first full day~ | Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "59922801": {
+      "display_name": "doeremi_",
+      "game_name": "Minecraft",
+      "login": "doeremi_",
+      "started_at": "2026-10-31T23:58:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
+      "title": "꒰ 👑 VOrigins: Crownfall꒱ Day 2: We must prepare for visitors... 🍃Elizabeth Erdo POV 🎨🌸 | Multi-stream | !vorigins !rp",
+      "url": "https://www.twitch.tv/doeremi_"
     },
     "63513141": {
       "display_name": "Helpinghand97",
