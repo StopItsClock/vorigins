@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-01T01:05:10Z",
+  "updated_at": "2026-11-01T01:35:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -47,6 +47,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
       "title": "🌹[Dark Souls] Manus....Please go easy on us -> #VOriginsS4",
       "url": "https://www.twitch.tv/shivarosebloom"
+    },
+    "119893530": {
+      "display_name": "FrostedPlague7",
+      "game_name": "Minecraft",
+      "login": "frostedplague7",
+      "started_at": "2026-11-01T01:33:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
+      "title": "꒰ 🐾 VOrigins: Crownfall꒱ On A Mission! | Minecraft RP🧊 !rp !map !socials 🍧 @frostedplague7",
+      "url": "https://www.twitch.tv/frostedplague7"
     },
     "228334289": {
       "display_name": "Rams404Vt",
