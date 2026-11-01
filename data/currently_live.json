@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-01T01:00:10Z",
+  "updated_at": "2026-11-01T01:05:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -66,6 +66,15 @@
       "title": "[Road to 400!] Working on charity goals + more minecraft v-origins tonight!",
       "url": "https://www.twitch.tv/redbladecrimson"
     },
+    "487437198": {
+      "display_name": "ShizukaCh",
+      "game_name": "Minecraft",
+      "login": "shizukach",
+      "started_at": "2026-11-01T01:00:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
+      "title": "🤍🎑【 V-ORIGINS DAY 2 】GIVE ME LIBERTY OR GIVE ME DEATH ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte ✦ !vorigins",
+      "url": "https://www.twitch.tv/shizukach"
+    },
     "495919620": {
       "display_name": "66GrimDemise66",
       "game_name": "Minecraft",
@@ -92,6 +101,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meoweomell_marsyus_seliem-{width}x{height}.jpg",
       "title": "CROWNFALL | VORIGINS S4 [day II]",
       "url": "https://www.twitch.tv/meoweomell_marsyus_seliem"
+    },
+    "1003296268": {
+      "display_name": "Elio_Zinn",
+      "game_name": "Minecraft",
+      "login": "elio_zinn",
+      "started_at": "2026-11-01T01:02:06Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elio_zinn-{width}x{height}.jpg",
+      "title": "I am so dam lost bro where is the map | V✧ORIGINS SEASON 4: CROWNFALL",
+      "url": "https://www.twitch.tv/elio_zinn"
     }
   },
   "login_updates": {}
