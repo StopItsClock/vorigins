@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-01T04:00:10Z",
+  "updated_at": "2026-11-01T04:30:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -101,15 +101,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
       "title": "[Crownfall] Let the Sound of Triumph Light the Way ~🍂 !discord !merch",
       "url": "https://www.twitch.tv/cedarvt"
-    },
-    "1003296268": {
-      "display_name": "Elio_Zinn",
-      "game_name": "Minecraft",
-      "login": "elio_zinn",
-      "started_at": "2026-11-01T01:02:06Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elio_zinn-{width}x{height}.jpg",
-      "title": "I am so dam lost bro where is the map | V✧ORIGINS SEASON 4: CROWNFALL",
-      "url": "https://www.twitch.tv/elio_zinn"
     },
     "1380109945": {
       "display_name": "NovaAustralis",
