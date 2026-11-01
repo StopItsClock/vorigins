@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-01T03:50:10Z",
+  "updated_at": "2026-11-01T04:00:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -48,6 +48,15 @@
       "title": "꒰ 🐾 VOrigins: Crownfall꒱ On A Mission! | Minecraft RP🧊 !rp !map !socials 🍧 @frostedplague7",
       "url": "https://www.twitch.tv/frostedplague7"
     },
+    "160748634": {
+      "display_name": "celiere",
+      "game_name": "Art",
+      "login": "celiere",
+      "started_at": "2026-11-01T03:56:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
+      "title": "【ART】♡ Arwen portrait & VORIGINS {miencraft} RP TIME!!! ♡ !artq !socials !tip",
+      "url": "https://www.twitch.tv/celiere"
+    },
     "243161944": {
       "display_name": "DracolicheRen",
       "game_name": "Minecraft",
@@ -92,15 +101,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
       "title": "[Crownfall] Let the Sound of Triumph Light the Way ~🍂 !discord !merch",
       "url": "https://www.twitch.tv/cedarvt"
-    },
-    "983832675": {
-      "display_name": "Meoweomell_Marsyus_Seliem",
-      "game_name": "Minecraft",
-      "login": "meoweomell_marsyus_seliem",
-      "started_at": "2026-11-01T02:12:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meoweomell_marsyus_seliem-{width}x{height}.jpg",
-      "title": "CROWNFALL | VORIGINS S4 [day II] part II",
-      "url": "https://www.twitch.tv/meoweomell_marsyus_seliem"
     },
     "1003296268": {
       "display_name": "Elio_Zinn",
