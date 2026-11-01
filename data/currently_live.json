@@ -1,26 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-01T08:20:10Z",
+  "updated_at": "2026-11-01T08:35:11Z",
   "poll_seconds": 300,
   "live": {
-    "59922801": {
-      "display_name": "doeremi_",
-      "game_name": "Minecraft",
-      "login": "doeremi_",
-      "started_at": "2026-10-31T23:58:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
-      "title": "꒰ 👑 VOrigins: Crownfall꒱ Day 2: We must prepare for visitors... 🍃Elizabeth Erdo POV 🎨🌸 | Multi-stream | !vorigins !rp",
-      "url": "https://www.twitch.tv/doeremi_"
-    },
-    "160748634": {
-      "display_name": "celiere",
-      "game_name": "Minecraft",
-      "login": "celiere",
-      "started_at": "2026-11-01T03:56:32Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
-      "title": "【ART】♡ Arwen portrait & VORIGINS {miencraft} RP TIME!!! ♡ !artq !socials !tip",
-      "url": "https://www.twitch.tv/celiere"
-    },
     "612172705": {
       "display_name": "A__NUBIS",
       "game_name": "Minecraft",
