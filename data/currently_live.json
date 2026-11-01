@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-01T01:40:11Z",
+  "updated_at": "2026-11-01T01:50:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -68,11 +68,11 @@
     },
     "239191238": {
       "display_name": "RedBladeCrimson",
-      "game_name": "Art",
+      "game_name": "Minecraft",
       "login": "redbladecrimson",
       "started_at": "2026-11-01T00:36:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
-      "title": "[Road to 400!] Working on charity goals + more minecraft v-origins tonight!",
+      "title": "[Road to 400!]  more minecraft v-origins tonight! Day 2!",
       "url": "https://www.twitch.tv/redbladecrimson"
     },
     "243161944": {
