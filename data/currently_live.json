@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-01T03:20:10Z",
+  "updated_at": "2026-11-01T03:35:13Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -56,15 +56,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
       "title": "꒰ 🐾 VOrigins: Crownfall꒱ On A Mission! | Minecraft RP🧊 !rp !map !socials 🍧 @frostedplague7",
       "url": "https://www.twitch.tv/frostedplague7"
-    },
-    "239191238": {
-      "display_name": "RedBladeCrimson",
-      "game_name": "Minecraft",
-      "login": "redbladecrimson",
-      "started_at": "2026-11-01T00:36:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
-      "title": "[Road to 400!]  more minecraft v-origins tonight! Day 2!",
-      "url": "https://www.twitch.tv/redbladecrimson"
     },
     "243161944": {
       "display_name": "DracolicheRen",
