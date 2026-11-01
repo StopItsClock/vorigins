@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-01T05:45:10Z",
+  "updated_at": "2026-11-01T05:50:11Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -66,15 +66,6 @@
       "title": "(EN) V-ORIGINS DAY 2!| !lurk",
       "url": "https://www.twitch.tv/alfnalf"
     },
-    "761873718": {
-      "display_name": "cylinks_owo",
-      "game_name": "Minecraft",
-      "login": "cylinks_owo",
-      "started_at": "2026-11-01T00:57:32Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cylinks_owo-{width}x{height}.jpg",
-      "title": "WHEN DID IMP BECOME FURRY ??~ Vorigins S4 EP1",
-      "url": "https://www.twitch.tv/cylinks_owo"
-    },
     "938069605": {
       "display_name": "CedarVT",
       "game_name": "Minecraft",
@@ -83,15 +74,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
       "title": "[Crownfall] Let the Sound of Triumph Light the Way ~🍂 !discord !merch",
       "url": "https://www.twitch.tv/cedarvt"
-    },
-    "1380109945": {
-      "display_name": "NovaAustralis",
-      "game_name": "Minecraft",
-      "login": "novaaustralis",
-      "started_at": "2026-11-01T02:11:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_novaaustralis-{width}x{height}.jpg",
-      "title": "A Spark of Inspiration [ VOrigins: Crownfall ] !discord !socials !pet",
-      "url": "https://www.twitch.tv/novaaustralis"
     }
   },
   "login_updates": {}
