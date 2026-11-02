@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T00:50:10Z",
+  "updated_at": "2026-11-02T01:05:10Z",
   "poll_seconds": 300,
   "live": {
     "73150212": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
       "title": "[CROWNFALL] Let the flames of Asteria Guide your way #VoriginsS4",
       "url": "https://www.twitch.tv/xionfox"
+    },
+    "819211356": {
+      "display_name": "AlectoEumenid",
+      "game_name": "Minecraft",
+      "login": "alectoeumenid",
+      "started_at": "2026-11-02T01:00:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
+      "title": "【VOrigins S4: Crownfall】Home Is Where The Heart...Is {18+} // !discord !socials //",
+      "url": "https://www.twitch.tv/alectoeumenid"
     }
   },
   "login_updates": {}
