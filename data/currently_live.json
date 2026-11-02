@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T08:15:10Z",
+  "updated_at": "2026-11-02T08:20:10Z",
   "poll_seconds": 300,
   "live": {
     "73150212": {
@@ -39,15 +39,6 @@
       "title": "🤍🎑【 V-ORIGINS DAY 3 】DON'T TREAD ON ME ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte ✦ !vorigins",
       "url": "https://www.twitch.tv/shizukach"
     },
-    "555456488": {
-      "display_name": "vapVeran",
-      "game_name": "Minecraft",
-      "login": "vapveran",
-      "started_at": "2026-11-02T02:59:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vapveran-{width}x{height}.jpg",
-      "title": "[ V*Origins: Crownfall ] Time for our first major delivery! !vorigins !character",
-      "url": "https://www.twitch.tv/vapveran"
-    },
     "819211356": {
       "display_name": "AlectoEumenid",
       "game_name": "Minecraft",
@@ -56,15 +47,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
       "title": "【VOrigins S4: Crownfall】Home Is Where The Heart...Is {18+} // !discord !socials //",
       "url": "https://www.twitch.tv/alectoeumenid"
-    },
-    "1003296268": {
-      "display_name": "Elio_Zinn",
-      "game_name": "Minecraft",
-      "login": "elio_zinn",
-      "started_at": "2026-11-02T02:16:00Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elio_zinn-{width}x{height}.jpg",
-      "title": "Local ray of sunshine sent to harvest the fields | V✧ORIGINS SEASON 4: CROWNFALL",
-      "url": "https://www.twitch.tv/elio_zinn"
     }
   },
   "login_updates": {}
