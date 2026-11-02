@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T03:35:10Z",
+  "updated_at": "2026-11-02T03:40:10Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -38,15 +38,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
       "title": "[VORIGINS S4] | Nefarious Doings",
       "url": "https://www.twitch.tv/vvdragon_"
-    },
-    "139155084": {
-      "display_name": "RaiineLive",
-      "game_name": "Overwatch",
-      "login": "raiinelive",
-      "started_at": "2026-11-02T03:34:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiinelive-{width}x{height}.jpg",
-      "title": "mmm moira.... with @viuryse | !badge !crownfall",
-      "url": "https://www.twitch.tv/raiinelive"
     },
     "209565401": {
       "display_name": "AidenChiiVT",
