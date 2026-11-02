@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T22:55:11Z",
+  "updated_at": "2026-11-02T23:00:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
       "title": "{VOrigins Crownfall SMP} Day 3 // I cant stay idle by any longer",
       "url": "https://www.twitch.tv/66grimdemise66"
+    },
+    "1166441997": {
+      "display_name": "VexaraTV",
+      "game_name": "Warframe",
+      "login": "vexaratv",
+      "started_at": "2026-11-02T22:55:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vexaratv-{width}x{height}.jpg",
+      "title": "[ PLAT GIVEAWAY] Teeno gets bullied into learning the game┊ !discord !join !ign",
+      "url": "https://www.twitch.tv/vexaratv"
     }
   },
   "login_updates": {}
