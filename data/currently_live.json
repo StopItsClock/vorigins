@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T23:00:11Z",
+  "updated_at": "2026-11-02T23:05:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -27,7 +27,7 @@
       "login": "vexaratv",
       "started_at": "2026-11-02T22:55:46Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vexaratv-{width}x{height}.jpg",
-      "title": "[ PLAT GIVEAWAY] Teeno gets bullied into learning the game┊ !discord !join !ign",
+      "title": "[ PLAT GIVEAWAY ] Teeno gets bullied into learning the game┊ !discord !join !ign",
       "url": "https://www.twitch.tv/vexaratv"
     }
   },
