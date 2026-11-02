@@ -1,8 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T01:35:10Z",
+  "updated_at": "2026-11-02T01:40:10Z",
   "poll_seconds": 300,
   "live": {
+    "68909866": {
+      "display_name": "PuckThePixieVT",
+      "game_name": "Minecraft",
+      "login": "puckthepixievt",
+      "started_at": "2026-11-02T01:37:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
+      "title": "[18+] [VOrigins Season 4] We are going to Place, Japan",
+      "url": "https://www.twitch.tv/puckthepixievt"
+    },
     "73150212": {
       "display_name": "XionFox",
       "game_name": "Minecraft",
@@ -12,6 +21,15 @@
       "title": "[CROWNFALL] Let the flames of Asteria Guide your way #VoriginsS4",
       "url": "https://www.twitch.tv/xionfox"
     },
+    "209565401": {
+      "display_name": "AidenChiiVT",
+      "game_name": "Minecraft",
+      "login": "aidenchiivt",
+      "started_at": "2026-11-02T01:39:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchiivt-{width}x{height}.jpg",
+      "title": "🦝| Vorigins Crownfall: Day 3 | The fires are brewing | !Discord | !Socials |🦝👟👑",
+      "url": "https://www.twitch.tv/aidenchiivt"
+    },
     "819211356": {
       "display_name": "AlectoEumenid",
       "game_name": "Minecraft",
@@ -20,6 +38,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
       "title": "【VOrigins S4: Crownfall】Home Is Where The Heart...Is {18+} // !discord !socials //",
       "url": "https://www.twitch.tv/alectoeumenid"
+    },
+    "1003296268": {
+      "display_name": "Elio_Zinn",
+      "game_name": "Minecraft",
+      "login": "elio_zinn",
+      "started_at": "2026-11-02T01:38:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elio_zinn-{width}x{height}.jpg",
+      "title": "Local ray of sunshine sent to harvest the fields | V✧ORIGINS SEASON 4: CROWNFALL",
+      "url": "https://www.twitch.tv/elio_zinn"
     }
   },
   "login_updates": {}
