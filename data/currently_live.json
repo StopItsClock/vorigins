@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T01:45:10Z",
+  "updated_at": "2026-11-02T01:55:10Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -47,15 +47,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
       "title": "【VOrigins S4: Crownfall】Home Is Where The Heart...Is {18+} // !discord !socials //",
       "url": "https://www.twitch.tv/alectoeumenid"
-    },
-    "1003296268": {
-      "display_name": "Elio_Zinn",
-      "game_name": "Minecraft",
-      "login": "elio_zinn",
-      "started_at": "2026-11-02T01:38:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elio_zinn-{width}x{height}.jpg",
-      "title": "Local ray of sunshine sent to harvest the fields | V✧ORIGINS SEASON 4: CROWNFALL",
-      "url": "https://www.twitch.tv/elio_zinn"
     }
   },
   "login_updates": {}
