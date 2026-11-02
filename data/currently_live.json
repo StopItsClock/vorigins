@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T03:25:10Z",
+  "updated_at": "2026-11-02T03:30:10Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -56,15 +56,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchiivt-{width}x{height}.jpg",
       "title": "🦝| Vorigins Crownfall: Day 3 | The fires are brewing | !Discord | !Socials |🦝👟👑",
       "url": "https://www.twitch.tv/aidenchiivt"
-    },
-    "231199835": {
-      "display_name": "LostOni_",
-      "game_name": "Minecraft",
-      "login": "lostoni_",
-      "started_at": "2026-11-02T01:56:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostoni_-{width}x{height}.jpg",
-      "title": "V-Origins Crownfall | !discord | Minecraft",
-      "url": "https://www.twitch.tv/lostoni_"
     },
     "452819536": {
       "display_name": "AlfNAlf",
