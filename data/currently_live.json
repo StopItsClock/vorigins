@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T02:10:11Z",
+  "updated_at": "2026-11-02T02:15:11Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -21,11 +21,20 @@
       "title": "[CROWNFALL] Let the flames of Asteria Guide your way #VoriginsS4",
       "url": "https://www.twitch.tv/xionfox"
     },
+    "77176298": {
+      "display_name": "ShivaRoseBloom",
+      "game_name": "Minecraft",
+      "login": "shivarosebloom",
+      "started_at": "2026-11-02T02:11:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
+      "title": "🌹[Minecraft] #VOriginsS4 May the Mother Moon guide you",
+      "url": "https://www.twitch.tv/shivarosebloom"
+    },
     "139155084": {
       "display_name": "RaiineLive",
       "game_name": "Minecraft",
       "login": "raiinelive",
-      "started_at": "2026-11-02T02:05:42Z",
+      "started_at": "2026-11-02T02:14:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiinelive-{width}x{height}.jpg",
       "title": "[VOrigins MCRP] May the goddess light our path! | !badge !crownfall",
       "url": "https://www.twitch.tv/raiinelive"
@@ -90,7 +99,7 @@
       "login": "novaaustralis",
       "started_at": "2026-11-02T02:07:31Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_novaaustralis-{width}x{height}.jpg",
-      "title": "Kindness is a rare trait [ VOrigins: Crownfall ] !discord !socials !pet",
+      "title": "[Novaember Day 1] Kindness is a rare trait [ VOrigins: Crownfall ] !discord !socials !pet",
       "url": "https://www.twitch.tv/novaaustralis"
     }
   },
