@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T06:50:10Z",
+  "updated_at": "2026-11-02T06:55:10Z",
   "poll_seconds": 300,
   "live": {
     "73150212": {
@@ -83,15 +83,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
       "title": "[Crownfall] Let the Sound of Triumph Light the Way ~🍂 !discord !merch",
       "url": "https://www.twitch.tv/cedarvt"
-    },
-    "983832675": {
-      "display_name": "Meoweomell_Marsyus_Seliem",
-      "game_name": "Minecraft",
-      "login": "meoweomell_marsyus_seliem",
-      "started_at": "2026-11-02T03:11:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meoweomell_marsyus_seliem-{width}x{height}.jpg",
-      "title": "CROWNFALL | VORIGINS S4 [day III]",
-      "url": "https://www.twitch.tv/meoweomell_marsyus_seliem"
     },
     "1003296268": {
       "display_name": "Elio_Zinn",
