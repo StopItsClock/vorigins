@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T06:20:10Z",
+  "updated_at": "2026-11-02T06:50:10Z",
   "poll_seconds": 300,
   "live": {
-    "68909866": {
-      "display_name": "PuckThePixieVT",
-      "game_name": "Minecraft",
-      "login": "puckthepixievt",
-      "started_at": "2026-11-02T01:37:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
-      "title": "[18+] [VOrigins Season 4] We are going to Place, Japan",
-      "url": "https://www.twitch.tv/puckthepixievt"
-    },
     "73150212": {
       "display_name": "XionFox",
       "game_name": "Minecraft",
@@ -47,15 +38,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
       "title": "【Minecraft】♡ VORIGINS! rp or building? which shall we do? ♡ !socials !tip",
       "url": "https://www.twitch.tv/celiere"
-    },
-    "452819536": {
-      "display_name": "AlfNAlf",
-      "game_name": "Minecraft",
-      "login": "alfnalf",
-      "started_at": "2026-11-02T02:03:31Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfnalf-{width}x{height}.jpg",
-      "title": "(EN) V-ORIGINS DAY 3!| !lurk",
-      "url": "https://www.twitch.tv/alfnalf"
     },
     "487437198": {
       "display_name": "ShizukaCh",
