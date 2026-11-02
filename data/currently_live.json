@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T03:00:10Z",
+  "updated_at": "2026-11-02T03:05:10Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -45,7 +45,7 @@
       "login": "raiinelive",
       "started_at": "2026-11-02T02:14:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiinelive-{width}x{height}.jpg",
-      "title": "mmm moira.... | !badge !crownfall",
+      "title": "mmm moira.... with @viuryse | !badge !crownfall",
       "url": "https://www.twitch.tv/raiinelive"
     },
     "209565401": {
