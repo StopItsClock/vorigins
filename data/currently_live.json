@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T03:05:10Z",
+  "updated_at": "2026-11-02T03:10:10Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -110,6 +110,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
       "title": "【VOrigins S4: Crownfall】Home Is Where The Heart...Is {18+} // !discord !socials //",
       "url": "https://www.twitch.tv/alectoeumenid"
+    },
+    "938069605": {
+      "display_name": "CedarVT",
+      "game_name": "Minecraft",
+      "login": "cedarvt",
+      "started_at": "2026-11-02T03:05:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
+      "title": "[Crownfall] Let the Sound of Triumph Light the Way ~🍂 !discord !merch",
+      "url": "https://www.twitch.tv/cedarvt"
     },
     "1003296268": {
       "display_name": "Elio_Zinn",
