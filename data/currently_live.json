@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T07:45:10Z",
+  "updated_at": "2026-11-02T08:15:10Z",
   "poll_seconds": 300,
   "live": {
     "73150212": {
@@ -65,15 +65,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elio_zinn-{width}x{height}.jpg",
       "title": "Local ray of sunshine sent to harvest the fields | V✧ORIGINS SEASON 4: CROWNFALL",
       "url": "https://www.twitch.tv/elio_zinn"
-    },
-    "1380109945": {
-      "display_name": "NovaAustralis",
-      "game_name": "Minecraft",
-      "login": "novaaustralis",
-      "started_at": "2026-11-02T02:07:31Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_novaaustralis-{width}x{height}.jpg",
-      "title": "[Novaember Day 1] Kindness is a rare trait [ VOrigins: Crownfall ] !discord !socials !pet",
-      "url": "https://www.twitch.tv/novaaustralis"
     }
   },
   "login_updates": {}
