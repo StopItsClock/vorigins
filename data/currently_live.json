@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T02:05:10Z",
+  "updated_at": "2026-11-02T02:10:11Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -25,7 +25,7 @@
       "display_name": "RaiineLive",
       "game_name": "Minecraft",
       "login": "raiinelive",
-      "started_at": "2026-11-02T02:03:13Z",
+      "started_at": "2026-11-02T02:05:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiinelive-{width}x{height}.jpg",
       "title": "[VOrigins MCRP] May the goddess light our path! | !badge !crownfall",
       "url": "https://www.twitch.tv/raiinelive"
@@ -83,6 +83,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
       "title": "【VOrigins S4: Crownfall】Home Is Where The Heart...Is {18+} // !discord !socials //",
       "url": "https://www.twitch.tv/alectoeumenid"
+    },
+    "1380109945": {
+      "display_name": "NovaAustralis",
+      "game_name": "Minecraft",
+      "login": "novaaustralis",
+      "started_at": "2026-11-02T02:07:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_novaaustralis-{width}x{height}.jpg",
+      "title": "Kindness is a rare trait [ VOrigins: Crownfall ] !discord !socials !pet",
+      "url": "https://www.twitch.tv/novaaustralis"
     }
   },
   "login_updates": {}
