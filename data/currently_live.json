@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T05:40:10Z",
+  "updated_at": "2026-11-02T05:45:10Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -38,6 +38,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
       "title": "[VORIGINS S4] | Nefarious Doings",
       "url": "https://www.twitch.tv/vvdragon_"
+    },
+    "160748634": {
+      "display_name": "celiere",
+      "game_name": "Minecraft",
+      "login": "celiere",
+      "started_at": "2026-11-02T05:43:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
+      "title": "【Minecraft】♡ VORIGINS! rp or building? which shall we do? ♡ !socials !tip",
+      "url": "https://www.twitch.tv/celiere"
     },
     "452819536": {
       "display_name": "AlfNAlf",
