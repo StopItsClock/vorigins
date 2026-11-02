@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T07:40:10Z",
+  "updated_at": "2026-11-02T07:45:10Z",
   "poll_seconds": 300,
   "live": {
     "73150212": {
@@ -47,15 +47,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vapveran-{width}x{height}.jpg",
       "title": "[ V*Origins: Crownfall ] Time for our first major delivery! !vorigins !character",
       "url": "https://www.twitch.tv/vapveran"
-    },
-    "612172705": {
-      "display_name": "A__NUBIS",
-      "game_name": "Minecraft",
-      "login": "a__nubis",
-      "started_at": "2026-11-02T03:24:39Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_a__nubis-{width}x{height}.jpg",
-      "title": "VORIGENS EPISODE 3-Rourke Dolmayan",
-      "url": "https://www.twitch.tv/a__nubis"
     },
     "819211356": {
       "display_name": "AlectoEumenid",
