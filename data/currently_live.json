@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T02:00:10Z",
+  "updated_at": "2026-11-02T02:05:10Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -21,6 +21,15 @@
       "title": "[CROWNFALL] Let the flames of Asteria Guide your way #VoriginsS4",
       "url": "https://www.twitch.tv/xionfox"
     },
+    "139155084": {
+      "display_name": "RaiineLive",
+      "game_name": "Minecraft",
+      "login": "raiinelive",
+      "started_at": "2026-11-02T02:03:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiinelive-{width}x{height}.jpg",
+      "title": "[VOrigins MCRP] May the goddess light our path! | !badge !crownfall",
+      "url": "https://www.twitch.tv/raiinelive"
+    },
     "209565401": {
       "display_name": "AidenChiiVT",
       "game_name": "Minecraft",
@@ -38,6 +47,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostoni_-{width}x{height}.jpg",
       "title": "V-Origins Crownfall | !discord | Minecraft",
       "url": "https://www.twitch.tv/lostoni_"
+    },
+    "452819536": {
+      "display_name": "AlfNAlf",
+      "game_name": "Minecraft",
+      "login": "alfnalf",
+      "started_at": "2026-11-02T02:03:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfnalf-{width}x{height}.jpg",
+      "title": "(EN) V-ORIGINS DAY 3!| !lurk",
+      "url": "https://www.twitch.tv/alfnalf"
     },
     "487437198": {
       "display_name": "ShizukaCh",
