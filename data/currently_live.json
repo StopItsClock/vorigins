@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T02:40:10Z",
+  "updated_at": "2026-11-02T02:45:10Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -45,7 +45,7 @@
       "login": "raiinelive",
       "started_at": "2026-11-02T02:14:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiinelive-{width}x{height}.jpg",
-      "title": "mc connection issues so we yap| !badge !crownfall",
+      "title": "mc connection issues so we yap | !badge !crownfall",
       "url": "https://www.twitch.tv/raiinelive"
     },
     "209565401": {
