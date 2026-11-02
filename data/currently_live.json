@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T05:45:10Z",
+  "updated_at": "2026-11-02T06:20:10Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -83,15 +83,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_a__nubis-{width}x{height}.jpg",
       "title": "VORIGENS EPISODE 3-Rourke Dolmayan",
       "url": "https://www.twitch.tv/a__nubis"
-    },
-    "761873718": {
-      "display_name": "cylinks_owo",
-      "game_name": "Minecraft",
-      "login": "cylinks_owo",
-      "started_at": "2026-11-02T01:42:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cylinks_owo-{width}x{height}.jpg",
-      "title": "I got that DAWG IN ME :3 ~ Vorigins S4 EP2",
-      "url": "https://www.twitch.tv/cylinks_owo"
     },
     "819211356": {
       "display_name": "AlectoEumenid",
