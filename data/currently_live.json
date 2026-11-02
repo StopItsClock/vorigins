@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T23:05:10Z",
+  "updated_at": "2026-11-02T23:10:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
       "title": "{VOrigins Crownfall SMP} Day 3 // I cant stay idle by any longer",
       "url": "https://www.twitch.tv/66grimdemise66"
+    },
+    "714177656": {
+      "display_name": "FreyjaRabbit",
+      "game_name": "Minecraft",
+      "login": "freyjarabbit",
+      "started_at": "2026-11-02T23:05:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_freyjarabbit-{width}x{height}.jpg",
+      "title": "V✧ORIGINS SEASON 4 EPISODE 2! we're leaving!! !vorigins | !kofi !prismaria !vgen",
+      "url": "https://www.twitch.tv/freyjarabbit"
     },
     "1166441997": {
       "display_name": "VexaraTV",
