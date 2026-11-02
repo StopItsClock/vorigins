@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T04:10:10Z",
+  "updated_at": "2026-11-02T04:30:10Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -128,6 +128,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elio_zinn-{width}x{height}.jpg",
       "title": "Local ray of sunshine sent to harvest the fields | V✧ORIGINS SEASON 4: CROWNFALL",
       "url": "https://www.twitch.tv/elio_zinn"
+    },
+    "1350182752": {
+      "display_name": "Caramoreli",
+      "game_name": "Minecraft",
+      "login": "caramoreli",
+      "started_at": "2026-11-02T04:28:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_caramoreli-{width}x{height}.jpg",
+      "title": "I think someone took my house T^T | [Vorigins Crownfall] Day 2",
+      "url": "https://www.twitch.tv/caramoreli"
     },
     "1380109945": {
       "display_name": "NovaAustralis",
