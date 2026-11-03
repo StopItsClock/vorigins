@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-03T03:00:10Z",
+  "updated_at": "2026-11-03T03:20:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
       "title": "꒰ 👑 VOrigins: Crownfall꒱ We're touching tips?! 🍃 Day 3: Elizabeth Erdo POV  🎨🌸 | Multi-stream | !vorigins !rp",
       "url": "https://www.twitch.tv/doeremi_"
+    },
+    "77176298": {
+      "display_name": "ShivaRoseBloom",
+      "game_name": "Minecraft",
+      "login": "shivarosebloom",
+      "started_at": "2026-11-03T03:18:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
+      "title": "🌹[Minecraft] #VOriginsS4 I beg of you to protect them Mother Moon",
+      "url": "https://www.twitch.tv/shivarosebloom"
     },
     "231199835": {
       "display_name": "LostOni_",
