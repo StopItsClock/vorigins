@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-03T00:15:10Z",
+  "updated_at": "2026-11-03T00:25:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
       "title": "꒰ 👑 VOrigins: Crownfall꒱ We're touching tips?! 🍃 Day 3: Elizabeth Erdo POV  🎨🌸 | Multi-stream | !vorigins !rp",
       "url": "https://www.twitch.tv/doeremi_"
+    },
+    "228334289": {
+      "display_name": "Rams404Vt",
+      "game_name": "Minecraft",
+      "login": "rams404vt",
+      "started_at": "2026-11-03T00:23:17Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
+      "title": "✨[18+ Eng/Esp] ✨I am the bone of my sword✨ !socials !lurk  @rams404vt ✨",
+      "url": "https://www.twitch.tv/rams404vt"
     },
     "495919620": {
       "display_name": "66GrimDemise66",
