@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-03T15:35:13Z",
+  "updated_at": "2026-11-03T16:05:10Z",
   "poll_seconds": 300,
   "live": {
     "443242156": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeonovt-{width}x{height}.jpg",
       "title": "໒V-Origins Day-3১ The Dwarf Needs to Decorate...⋆˚࿔ !vorigins",
       "url": "https://www.twitch.tv/yeonovt"
+    },
+    "835371235": {
+      "display_name": "MizuRelictus",
+      "game_name": "Risk of Rain 2",
+      "login": "mizurelictus",
+      "started_at": "2026-11-03T16:01:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
+      "title": "[RoR2] Today we'll finally beat the flying pest with da oldges!!",
+      "url": "https://www.twitch.tv/mizurelictus"
     }
   },
   "login_updates": {}
