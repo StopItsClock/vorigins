@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-03T22:35:10Z",
+  "updated_at": "2026-11-03T22:40:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "VOriginsS4 Day 5! Making care packages for other Kingdoms | Sir Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "495919620": {
+      "display_name": "66GrimDemise66",
+      "game_name": "Minecraft",
+      "login": "66grimdemise66",
+      "started_at": "2026-11-03T22:38:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
+      "title": "{VOrigins Crownfall SMP} Day 5// The great escape",
+      "url": "https://www.twitch.tv/66grimdemise66"
     }
   },
   "login_updates": {}
