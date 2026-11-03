@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-03T10:05:10Z",
+  "updated_at": "2026-11-03T10:10:11Z",
   "poll_seconds": 300,
   "live": {
     "443242156": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeonovt-{width}x{height}.jpg",
       "title": "໒V-Origins Day-3১ The Dwarf Doesn't Know How To Make Dwarven Weapons! ⋆˚࿔ !vorigins",
       "url": "https://www.twitch.tv/yeonovt"
-    },
-    "1380109945": {
-      "display_name": "NovaAustralis",
-      "game_name": "Minecraft",
-      "login": "novaaustralis",
-      "started_at": "2026-11-03T02:22:34Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_novaaustralis-{width}x{height}.jpg",
-      "title": "[Novaember Day 2] Tortured Artists create the best art [ VOrigins: Crownfall ] !discord !socials !pet",
-      "url": "https://www.twitch.tv/novaaustralis"
     }
   },
   "login_updates": {}
