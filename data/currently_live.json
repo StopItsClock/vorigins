@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-03T13:40:10Z",
+  "updated_at": "2026-11-03T14:00:11Z",
   "poll_seconds": 300,
   "live": {
-    "209565401": {
-      "display_name": "AidenChiiVT",
-      "game_name": "Minecraft",
-      "login": "aidenchiivt",
-      "started_at": "2026-11-03T10:55:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchiivt-{width}x{height}.jpg",
-      "title": "🦝| Vorigins Crownfall | Late night OOC grinding | !Discord | !Socials |🦝👟👑",
-      "url": "https://www.twitch.tv/aidenchiivt"
-    },
     "443242156": {
       "display_name": "YeonoVt",
       "game_name": "Minecraft",
