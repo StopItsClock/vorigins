@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-03T03:20:11Z",
+  "updated_at": "2026-11-03T03:35:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -56,15 +56,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfnalf-{width}x{height}.jpg",
       "title": "(EN) V-ORIGINS DAY 4!| !lurk",
       "url": "https://www.twitch.tv/alfnalf"
-    },
-    "495919620": {
-      "display_name": "66GrimDemise66",
-      "game_name": "Minecraft",
-      "login": "66grimdemise66",
-      "started_at": "2026-11-02T21:18:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
-      "title": "{VOrigins Crownfall SMP} Day 3 // I cant stay idle by any longer",
-      "url": "https://www.twitch.tv/66grimdemise66"
     },
     "555456488": {
       "display_name": "vapVeran",
