@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-03T04:10:11Z",
+  "updated_at": "2026-11-03T04:35:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -29,6 +29,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
       "title": "🌹[Minecraft] #VOriginsS4 I beg of you to protect them Mother Moon",
       "url": "https://www.twitch.tv/shivarosebloom"
+    },
+    "139155084": {
+      "display_name": "RaiineLive",
+      "game_name": "Minecraft",
+      "login": "raiinelive",
+      "started_at": "2026-11-03T04:30:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiinelive-{width}x{height}.jpg",
+      "title": "[VOrigins MCRP] Pray to the goddess that my internet works! | !badge !crownfall",
+      "url": "https://www.twitch.tv/raiinelive"
     },
     "231199835": {
       "display_name": "LostOni_",
