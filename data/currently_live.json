@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T23:45:10Z",
+  "updated_at": "2026-11-03T00:10:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "VOriginsS4 Day 4! | Sir Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "59922801": {
+      "display_name": "doeremi_",
+      "game_name": "Minecraft",
+      "login": "doeremi_",
+      "started_at": "2026-11-03T00:06:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
+      "title": "꒰ 👑 VOrigins: Crownfall꒱ We're touching tips?! 🍃 Day 3: Elizabeth Erdo POV  🎨🌸 | Multi-stream | !vorigins !rp",
+      "url": "https://www.twitch.tv/doeremi_"
     },
     "495919620": {
       "display_name": "66GrimDemise66",
