@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-03T07:45:10Z",
+  "updated_at": "2026-11-03T08:15:10Z",
   "poll_seconds": 300,
   "live": {
-    "59922801": {
-      "display_name": "doeremi_",
-      "game_name": "Minecraft",
-      "login": "doeremi_",
-      "started_at": "2026-11-03T00:06:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
-      "title": "꒰ 👑 VOrigins: Crownfall꒱ We're touching tips?! 🍃 Day 3: Elizabeth Erdo POV  🎨🌸 | Multi-stream | !vorigins !rp",
-      "url": "https://www.twitch.tv/doeremi_"
-    },
     "77176298": {
       "display_name": "ShivaRoseBloom",
       "game_name": "Minecraft",
