@@ -1,8 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-03T20:40:10Z",
+  "updated_at": "2026-11-03T21:05:10Z",
   "poll_seconds": 300,
   "live": {
+    "58276005": {
+      "display_name": "Banana_Ramajama",
+      "game_name": "Minecraft",
+      "login": "banana_ramajama",
+      "started_at": "2026-11-03T21:04:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
+      "title": "VOriginsS4 Day 5! Making care packages for other Kingdoms | Sir Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
+      "url": "https://www.twitch.tv/banana_ramajama"
+    },
     "835371235": {
       "display_name": "MizuRelictus",
       "game_name": "Risk of Rain 2",
