@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-03T02:20:10Z",
+  "updated_at": "2026-11-03T02:25:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -74,6 +74,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meoweomell_marsyus_seliem-{width}x{height}.jpg",
       "title": "CROWNFALL | VORIGINS S4 [day IV]",
       "url": "https://www.twitch.tv/meoweomell_marsyus_seliem"
+    },
+    "1380109945": {
+      "display_name": "NovaAustralis",
+      "game_name": "Minecraft",
+      "login": "novaaustralis",
+      "started_at": "2026-11-03T02:22:34Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_novaaustralis-{width}x{height}.jpg",
+      "title": "[Novaember Day 2] Tortured Artists create the best art [ VOrigins: Crownfall ] !discord !socials !pet",
+      "url": "https://www.twitch.tv/novaaustralis"
     }
   },
   "login_updates": {}
