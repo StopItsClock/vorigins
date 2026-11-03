@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-03T02:55:10Z",
+  "updated_at": "2026-11-03T03:00:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -29,6 +29,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostoni_-{width}x{height}.jpg",
       "title": "V-Origins Crownfall #2 | !discord | Minecraft",
       "url": "https://www.twitch.tv/lostoni_"
+    },
+    "243161944": {
+      "display_name": "DracolicheRen",
+      "game_name": "Minecraft",
+      "login": "dracolicheren",
+      "started_at": "2026-11-03T02:57:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
+      "title": "( S4 VOrigins ) IM AWAKE AND NO LONGER BED ROTTING! HELLOO | !Discord !lurk | 🐉🧟",
+      "url": "https://www.twitch.tv/dracolicheren"
     },
     "452819536": {
       "display_name": "AlfNAlf",
