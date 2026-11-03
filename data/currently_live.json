@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-03T21:35:11Z",
+  "updated_at": "2026-11-03T22:05:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "VOriginsS4 Day 5! Making care packages for other Kingdoms | Sir Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
-    },
-    "835371235": {
-      "display_name": "MizuRelictus",
-      "game_name": "Risk of Rain 2",
-      "login": "mizurelictus",
-      "started_at": "2026-11-03T16:01:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
-      "title": "[RoR2] Today we'll finally beat the flying pest with da oldges!!",
-      "url": "https://www.twitch.tv/mizurelictus"
     }
   },
   "login_updates": {}
