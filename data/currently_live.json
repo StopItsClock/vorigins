@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-04T06:35:11Z",
+  "updated_at": "2026-11-04T06:40:10Z",
   "poll_seconds": 300,
   "live": {
     "73150212": {
@@ -29,15 +29,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiinelive-{width}x{height}.jpg",
       "title": "[VOrigins MCRP] In whose hand does Asteria lie? | !badge !crownfall",
       "url": "https://www.twitch.tv/raiinelive"
-    },
-    "452819536": {
-      "display_name": "AlfNAlf",
-      "game_name": "Minecraft",
-      "login": "alfnalf",
-      "started_at": "2026-11-04T02:46:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfnalf-{width}x{height}.jpg",
-      "title": "(EN) V-ORIGINS DAY 5!| !lurk",
-      "url": "https://www.twitch.tv/alfnalf"
     },
     "487437198": {
       "display_name": "ShizukaCh",
