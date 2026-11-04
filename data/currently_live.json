@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-04T06:55:10Z",
+  "updated_at": "2026-11-04T07:10:10Z",
   "poll_seconds": 300,
   "live": {
     "73150212": {
@@ -38,15 +38,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
       "title": "🤍🎑【 V-ORIGINS DAY 5 】WE HOLD THESE TRUTHS TO BE SELF EVIDENT ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte ✦ !vorigins",
       "url": "https://www.twitch.tv/shizukach"
-    },
-    "938069605": {
-      "display_name": "CedarVT",
-      "game_name": "Minecraft",
-      "login": "cedarvt",
-      "started_at": "2026-11-04T03:28:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
-      "title": "[Crownfall] May the Arrows of Triumph fly true ~🍂 !discord !merch",
-      "url": "https://www.twitch.tv/cedarvt"
     },
     "1003296268": {
       "display_name": "Elio_Zinn",
