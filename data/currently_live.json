@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-04T03:20:10Z",
+  "updated_at": "2026-11-04T03:30:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -65,6 +65,24 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rootedmoon1506-{width}x{height}.jpg",
       "title": "[Vorigins Season 4] Presenting Von Grail The Grandiose, Actor Extraordinaire",
       "url": "https://www.twitch.tv/rootedmoon1506"
+    },
+    "938069605": {
+      "display_name": "CedarVT",
+      "game_name": "Minecraft",
+      "login": "cedarvt",
+      "started_at": "2026-11-04T03:28:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
+      "title": "[Crownfall] May the Arrows of Triumph fly true ~🍂 !discord !merch",
+      "url": "https://www.twitch.tv/cedarvt"
+    },
+    "1003296268": {
+      "display_name": "Elio_Zinn",
+      "game_name": "Minecraft",
+      "login": "elio_zinn",
+      "started_at": "2026-11-04T03:28:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elio_zinn-{width}x{height}.jpg",
+      "title": "Short RP stream this time I SWEAR | V✧ORIGINS SEASON 4: CROWNFALL",
+      "url": "https://www.twitch.tv/elio_zinn"
     },
     "1380109945": {
       "display_name": "NovaAustralis",
