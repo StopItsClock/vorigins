@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-04T02:05:10Z",
+  "updated_at": "2026-11-04T02:15:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "VOriginsS4 Day 5! Making care packages for other Kingdoms | Sir Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "73150212": {
+      "display_name": "XionFox",
+      "game_name": "Minecraft",
+      "login": "xionfox",
+      "started_at": "2026-11-04T02:14:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
+      "title": "[CROWNFALL] Into the forests of Elderglen with the hope our flames will guide the way #VoriginsS4",
+      "url": "https://www.twitch.tv/xionfox"
     },
     "231199835": {
       "display_name": "LostOni_",
