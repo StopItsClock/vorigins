@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-04T01:05:10Z",
+  "updated_at": "2026-11-04T01:10:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "VOriginsS4 Day 5! Making care packages for other Kingdoms | Sir Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "231199835": {
+      "display_name": "LostOni_",
+      "game_name": "Minecraft",
+      "login": "lostoni_",
+      "started_at": "2026-11-04T01:08:06Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostoni_-{width}x{height}.jpg",
+      "title": "V-Origins Crownfall #3 | !discord | Minecraft",
+      "url": "https://www.twitch.tv/lostoni_"
     },
     "1166441997": {
       "display_name": "VexaraTV",
