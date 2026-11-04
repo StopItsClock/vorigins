@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-04T23:30:11Z",
+  "updated_at": "2026-11-04T23:35:11Z",
   "poll_seconds": 300,
   "live": {
     "63513141": {
@@ -11,6 +11,24 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_helpinghand97-{width}x{height}.jpg",
       "title": "Persona before Vacation! Maybe some lore work for the night!",
       "url": "https://www.twitch.tv/helpinghand97"
+    },
+    "68909866": {
+      "display_name": "PuckThePixieVT",
+      "game_name": "Species: Unknown",
+      "login": "puckthepixievt",
+      "started_at": "2026-11-04T23:31:06Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
+      "title": "[18+] Hunting Hot Aliens Babes in the new map!",
+      "url": "https://www.twitch.tv/puckthepixievt"
+    },
+    "243161944": {
+      "display_name": "DracolicheRen",
+      "game_name": "Species: Unknown",
+      "login": "dracolicheren",
+      "started_at": "2026-11-04T23:31:59Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
+      "title": "NEW MAP! IM SO HYPED | !Discord !lurk | 🐉🧟",
+      "url": "https://www.twitch.tv/dracolicheren"
     },
     "1166441997": {
       "display_name": "VexaraTV",
