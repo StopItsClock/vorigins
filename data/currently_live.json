@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-04T02:50:10Z",
+  "updated_at": "2026-11-04T03:15:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -65,6 +65,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
       "title": "🤍🎑【 V-ORIGINS DAY 5 】WE HOLD THESE TRUTHS TO BE SELF EVIDENT ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte ✦ !vorigins",
       "url": "https://www.twitch.tv/shizukach"
+    },
+    "855636522": {
+      "display_name": "RootedMoon1506",
+      "game_name": "Minecraft",
+      "login": "rootedmoon1506",
+      "started_at": "2026-11-04T03:13:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rootedmoon1506-{width}x{height}.jpg",
+      "title": "[Vorigins Season 4] Presenting Von Grail The Grandiose, Actor Extraordinaire",
+      "url": "https://www.twitch.tv/rootedmoon1506"
     },
     "1380109945": {
       "display_name": "NovaAustralis",
