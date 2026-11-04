@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-04T07:40:11Z",
+  "updated_at": "2026-11-04T08:15:10Z",
   "poll_seconds": 300,
   "live": {
-    "73150212": {
-      "display_name": "XionFox",
-      "game_name": "Minecraft",
-      "login": "xionfox",
-      "started_at": "2026-11-04T02:14:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
-      "title": "[CROWNFALL] Into the forests of Elderglen with the hope our flames will guide the way #VoriginsS4",
-      "url": "https://www.twitch.tv/xionfox"
-    },
     "77176298": {
       "display_name": "ShivaRoseBloom",
       "game_name": "Minecraft",
