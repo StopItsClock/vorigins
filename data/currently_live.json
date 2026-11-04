@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-04T01:40:10Z",
+  "updated_at": "2026-11-04T01:50:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostoni_-{width}x{height}.jpg",
       "title": "V-Origins Crownfall #3 | !discord | Minecraft",
       "url": "https://www.twitch.tv/lostoni_"
-    },
-    "1166441997": {
-      "display_name": "VexaraTV",
-      "game_name": "Minecraft",
-      "login": "vexaratv",
-      "started_at": "2026-11-03T22:53:48Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vexaratv-{width}x{height}.jpg",
-      "title": "[Day 5] ⚔️ VOrigins Crownfall 🦁 Lyra Lionheart ┊ !discord !lore !rp",
-      "url": "https://www.twitch.tv/vexaratv"
     },
     "1380109945": {
       "display_name": "NovaAustralis",
