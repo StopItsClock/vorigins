@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-04T10:50:10Z",
+  "updated_at": "2026-11-04T11:10:10Z",
   "poll_seconds": 300,
   "live": {
     "139155084": {
@@ -9,7 +9,7 @@
       "login": "raiinelive",
       "started_at": "2026-11-04T04:14:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiinelive-{width}x{height}.jpg",
-      "title": "[VOrigins MCRP] In whose hand does Asteria lie? | !badge !crownfall",
+      "title": "[VOrigins] ooc build time| !badge !crownfall",
       "url": "https://www.twitch.tv/raiinelive"
     }
   },
