@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-05T02:45:10Z",
+  "updated_at": "2026-11-05T03:00:10Z",
   "poll_seconds": 300,
   "live": {
     "686234820": {
       "display_name": "miyuwanchan",
-      "game_name": "Just Chatting",
+      "game_name": "Endacopia",
       "login": "miyuwanchan",
       "started_at": "2026-11-05T02:43:03Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
