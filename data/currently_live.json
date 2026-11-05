@@ -1,8 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-05T18:15:11Z",
+  "updated_at": "2026-11-05T18:40:11Z",
   "poll_seconds": 300,
   "live": {
+    "228334289": {
+      "display_name": "Rams404Vt",
+      "game_name": "Terrible Lizards",
+      "login": "rams404vt",
+      "started_at": "2026-11-05T18:36:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
+      "title": "✨[18+ Eng/Esp] ✨What's wrong with these lizards✨ !socials !lurk  @rams404vt ✨",
+      "url": "https://www.twitch.tv/rams404vt"
+    },
     "886081934": {
       "display_name": "wiltedIrony",
       "game_name": "Granny: Chapter Two",
