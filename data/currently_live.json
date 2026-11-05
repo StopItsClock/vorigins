@@ -1,8 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-05T20:25:10Z",
+  "updated_at": "2026-11-05T20:45:11Z",
   "poll_seconds": 300,
   "live": {
+    "58276005": {
+      "display_name": "Banana_Ramajama",
+      "game_name": "Minecraft",
+      "login": "banana_ramajama",
+      "started_at": "2026-11-05T20:44:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
+      "title": "VOriginsS4 Day 6! Watch Tower Construction is underway | Sir Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
+      "url": "https://www.twitch.tv/banana_ramajama"
+    },
     "228334289": {
       "display_name": "Rams404Vt",
       "game_name": "Terrible Lizards",
