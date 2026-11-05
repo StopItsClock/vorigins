@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-05T06:25:10Z",
+  "updated_at": "2026-11-05T06:40:11Z",
   "poll_seconds": 300,
   "live": {
     "160748634": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
       "title": "【ART】♡ Animating Arwen's image to jump out and kill you ♡ !socials !tip",
       "url": "https://www.twitch.tv/celiere"
-    },
-    "938069605": {
-      "display_name": "CedarVT",
-      "game_name": "Pokémon Infinite Fusion",
-      "login": "cedarvt",
-      "started_at": "2026-11-05T02:37:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
-      "title": "Back on the Nuzlock grind! ~🍂 !discord !merch",
-      "url": "https://www.twitch.tv/cedarvt"
     }
   },
   "login_updates": {}
