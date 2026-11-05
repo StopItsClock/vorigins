@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-05T01:30:10Z",
+  "updated_at": "2026-11-05T01:35:10Z",
   "poll_seconds": 300,
   "live": {
     "119893530": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
       "title": "Do These Vtubers Know The Ocean? 🐟 Tundra Trivia ❄️ !socials 🍧 @frostedplague7",
       "url": "https://www.twitch.tv/frostedplague7"
-    },
-    "686234820": {
-      "display_name": "miyuwanchan",
-      "game_name": "Just Chatting",
-      "login": "miyuwanchan",
-      "started_at": "2026-11-05T01:15:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
-      "title": "TESTING TESTING 123 - STREAM WILL BEGIN LATER! <3 THIS IS A TEST! | !vorigins",
-      "url": "https://www.twitch.tv/miyuwanchan"
     }
   },
   "login_updates": {}
