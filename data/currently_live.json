@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-05T00:30:10Z",
+  "updated_at": "2026-11-05T01:05:10Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -29,15 +29,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
       "title": "NEW MAP! IM SO HYPED | !Discord !lurk | 🐉🧟",
       "url": "https://www.twitch.tv/dracolicheren"
-    },
-    "1166441997": {
-      "display_name": "VexaraTV",
-      "game_name": "Chained Beasts",
-      "login": "vexaratv",
-      "started_at": "2026-11-04T22:58:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vexaratv-{width}x{height}.jpg",
-      "title": "LETS SLAP SOME PEOPLE WITH CHAINS !! @poxeltheraccoon ┊ !discord",
-      "url": "https://www.twitch.tv/vexaratv"
     }
   },
   "login_updates": {}
