@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-05T08:30:10Z",
+  "updated_at": "2026-11-05T17:20:10Z",
   "poll_seconds": 300,
-  "live": {},
+  "live": {
+    "886081934": {
+      "display_name": "wiltedIrony",
+      "game_name": "Granny: Chapter Two",
+      "login": "wiltedirony",
+      "started_at": "2026-11-05T17:18:18Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wiltedirony-{width}x{height}.jpg",
+      "title": "GRANNY 2 with the father of my child backseat gaming | !discord !roll !clip [ENG/ARA]",
+      "url": "https://www.twitch.tv/wiltedirony"
+    }
+  },
   "login_updates": {}
 }
