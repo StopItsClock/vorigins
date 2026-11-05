@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-05T01:20:11Z",
+  "updated_at": "2026-11-05T01:25:10Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -20,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
       "title": "Do These Vtubers Know The Ocean? 🐟 Tundra Trivia ❄️ !socials 🍧 @frostedplague7",
       "url": "https://www.twitch.tv/frostedplague7"
-    },
-    "243161944": {
-      "display_name": "DracolicheRen",
-      "game_name": "Species: Unknown",
-      "login": "dracolicheren",
-      "started_at": "2026-11-04T23:31:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
-      "title": "NEW MAP! IM SO HYPED | !Discord !lurk | 🐉🧟",
-      "url": "https://www.twitch.tv/dracolicheren"
     },
     "686234820": {
       "display_name": "miyuwanchan",
