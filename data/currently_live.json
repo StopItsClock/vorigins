@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-05T00:15:11Z",
+  "updated_at": "2026-11-05T00:30:10Z",
   "poll_seconds": 300,
   "live": {
-    "63513141": {
-      "display_name": "Helpinghand97",
-      "game_name": "Persona 5 Royal",
-      "login": "helpinghand97",
-      "started_at": "2026-11-04T21:00:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_helpinghand97-{width}x{height}.jpg",
-      "title": "Persona before Vacation! Maybe some lore work for the night!",
-      "url": "https://www.twitch.tv/helpinghand97"
-    },
     "68909866": {
       "display_name": "PuckThePixieVT",
       "game_name": "Species: Unknown",
