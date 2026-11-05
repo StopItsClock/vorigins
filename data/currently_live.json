@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-05T19:15:10Z",
+  "updated_at": "2026-11-05T19:20:10Z",
   "poll_seconds": 300,
   "live": {
     "228334289": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
       "title": "✨[18+ Eng/Esp] ✨What's wrong with these lizards✨ !socials !lurk  @rams404vt ✨",
       "url": "https://www.twitch.tv/rams404vt"
-    },
-    "886081934": {
-      "display_name": "wiltedIrony",
-      "game_name": "Granny: Chapter Two",
-      "login": "wiltedirony",
-      "started_at": "2026-11-05T17:18:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wiltedirony-{width}x{height}.jpg",
-      "title": "Acting like a cute wink to seduce my future husband | !discord !roll !clip [ENG/ARA]",
-      "url": "https://www.twitch.tv/wiltedirony"
     }
   },
   "login_updates": {}
