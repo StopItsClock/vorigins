@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-05T00:10:10Z",
+  "updated_at": "2026-11-05T00:15:11Z",
   "poll_seconds": 300,
   "live": {
     "63513141": {
@@ -18,8 +18,17 @@
       "login": "puckthepixievt",
       "started_at": "2026-11-04T23:31:06Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
-      "title": "[18+] Hunting Hot Aliens Babes in the new map!",
+      "title": "[18+] Hunting Hot Aliens Babes in the new map! @dracolicheren @midasredding @weldedsoul",
       "url": "https://www.twitch.tv/puckthepixievt"
+    },
+    "119893530": {
+      "display_name": "FrostedPlague7",
+      "game_name": "Just Chatting",
+      "login": "frostedplague7",
+      "started_at": "2026-11-05T00:10:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
+      "title": "Do These Vtubers Know The Ocean? 🐟 Tundra Trivia ❄️ !socials 🍧 @frostedplague7",
+      "url": "https://www.twitch.tv/frostedplague7"
     },
     "243161944": {
       "display_name": "DracolicheRen",
@@ -32,11 +41,11 @@
     },
     "1166441997": {
       "display_name": "VexaraTV",
-      "game_name": "Haunted Paws",
+      "game_name": "Chained Beasts",
       "login": "vexaratv",
       "started_at": "2026-11-04T22:58:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vexaratv-{width}x{height}.jpg",
-      "title": "We're yapping it up during this furry mystery! @poxeltheraccoon ┊ !discord",
+      "title": "LETS SLAP SOME PEOPLE WITH CHAINS !! @poxeltheraccoon ┊ !discord",
       "url": "https://www.twitch.tv/vexaratv"
     }
   },
