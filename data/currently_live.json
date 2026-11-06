@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-05T23:55:11Z",
+  "updated_at": "2026-11-06T00:05:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "VOriginsS4 Day 6! Watch Tower Construction is underway | Sir Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "59922801": {
+      "display_name": "doeremi_",
+      "game_name": "Minecraft",
+      "login": "doeremi_",
+      "started_at": "2026-11-06T00:01:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
+      "title": "꒰ 👑 VOrigins: Crownfall꒱ When the Guards are gone the Queen plays... 🍃 Day 4: Elizabeth Erdo POV  🎨🌸 | Multi-stream | !vorigins !rp",
+      "url": "https://www.twitch.tv/doeremi_"
     },
     "228334289": {
       "display_name": "Rams404Vt",
