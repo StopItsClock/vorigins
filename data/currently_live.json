@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T02:10:10Z",
+  "updated_at": "2026-11-06T02:15:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
       "title": "꒰ 👑 VOrigins: Crownfall꒱ When the Guards are gone the Queen plays... 🍃 Day 4: Elizabeth Erdo POV  🎨🌸 | Multi-stream | !vorigins !rp",
       "url": "https://www.twitch.tv/doeremi_"
+    },
+    "209565401": {
+      "display_name": "AidenChiiVT",
+      "game_name": "Minecraft",
+      "login": "aidenchiivt",
+      "started_at": "2026-11-06T02:14:48Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchiivt-{width}x{height}.jpg",
+      "title": "🦝| Vorigins Crownfall | A New Leader Is Elected!| !Discord | !Socials |🦝👟👑",
+      "url": "https://www.twitch.tv/aidenchiivt"
     },
     "452819536": {
       "display_name": "AlfNAlf",
