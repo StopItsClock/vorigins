@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T06:10:11Z",
+  "updated_at": "2026-11-06T06:20:10Z",
   "poll_seconds": 300,
   "live": {
-    "58276005": {
-      "display_name": "Banana_Ramajama",
-      "game_name": "Minecraft",
-      "login": "banana_ramajama",
-      "started_at": "2026-11-05T20:44:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
-      "title": "VOriginsS4 Day 6! Watch Tower Construction is underway | Sir Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
-      "url": "https://www.twitch.tv/banana_ramajama"
-    },
     "59922801": {
       "display_name": "doeremi_",
       "game_name": "Minecraft",
@@ -29,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
       "title": "🌹[Minecraft] #VOriginsS4 In the late hour, the moon calls",
       "url": "https://www.twitch.tv/shivarosebloom"
-    },
-    "110867034": {
-      "display_name": "VVDragon_",
-      "game_name": "Minecraft",
-      "login": "vvdragon_",
-      "started_at": "2026-11-06T03:07:31Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
-      "title": "[VORIGINS S4] | Connecting the Cities!",
-      "url": "https://www.twitch.tv/vvdragon_"
     },
     "139155084": {
       "display_name": "RaiineLive",
@@ -65,15 +47,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
       "title": "[ VOrigins S4 ] I WILL CURE IT ALL!  | !Discord !lurk | 🐉🧟",
       "url": "https://www.twitch.tv/dracolicheren"
-    },
-    "452819536": {
-      "display_name": "AlfNAlf",
-      "game_name": "Minecraft",
-      "login": "alfnalf",
-      "started_at": "2026-11-06T02:05:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfnalf-{width}x{height}.jpg",
-      "title": "(EN) V-ORIGINS DAY 6!| !lurk",
-      "url": "https://www.twitch.tv/alfnalf"
     },
     "487437198": {
       "display_name": "ShizukaCh",
@@ -119,15 +92,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
       "title": "【VOrigins S4: Crownfall】Therapy is a Necessity {18+} // !discord !socials //",
       "url": "https://www.twitch.tv/alectoeumenid"
-    },
-    "983832675": {
-      "display_name": "Meoweomell_Marsyus_Seliem",
-      "game_name": "Minecraft",
-      "login": "meoweomell_marsyus_seliem",
-      "started_at": "2026-11-06T01:15:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meoweomell_marsyus_seliem-{width}x{height}.jpg",
-      "title": "CROWNFALL | VORIGINS S4 [day V]",
-      "url": "https://www.twitch.tv/meoweomell_marsyus_seliem"
     },
     "1380109945": {
       "display_name": "NovaAustralis",
