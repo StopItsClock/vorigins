@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T10:05:10Z",
+  "updated_at": "2026-11-06T10:30:10Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
@@ -38,15 +38,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vapveran-{width}x{height}.jpg",
       "title": "[ V*Origins: Crownfall ] New Post Office, New Me! !vorigins !character",
       "url": "https://www.twitch.tv/vapveran"
-    },
-    "819211356": {
-      "display_name": "AlectoEumenid",
-      "game_name": "Minecraft",
-      "login": "alectoeumenid",
-      "started_at": "2026-11-06T00:54:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
-      "title": "【VOrigins S4: Crownfall】Therapy is a Necessity {18+} // !discord !socials //",
-      "url": "https://www.twitch.tv/alectoeumenid"
     }
   },
   "login_updates": {}
