@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T05:40:10Z",
+  "updated_at": "2026-11-06T05:50:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -101,15 +101,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
       "title": "Born of flesh...sworn to water. 🍞VORIGINS S4 🍞 | !vorigins !socials",
       "url": "https://www.twitch.tv/miyuwanchan"
-    },
-    "761873718": {
-      "display_name": "cylinks_owo",
-      "game_name": "Minecraft",
-      "login": "cylinks_owo",
-      "started_at": "2026-11-06T01:20:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cylinks_owo-{width}x{height}.jpg",
-      "title": "THIS IS MY TREE >:3 ~ Vorigins S4 EP3",
-      "url": "https://www.twitch.tv/cylinks_owo"
     },
     "819211356": {
       "display_name": "AlectoEumenid",
