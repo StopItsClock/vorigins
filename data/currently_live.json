@@ -1,7 +1,26 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T20:20:10Z",
+  "updated_at": "2026-11-06T21:00:11Z",
   "poll_seconds": 300,
-  "live": {},
+  "live": {
+    "58276005": {
+      "display_name": "Banana_Ramajama",
+      "game_name": "Minecraft",
+      "login": "banana_ramajama",
+      "started_at": "2026-11-06T20:55:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
+      "title": "Wrapping up Week One of Vorigins! Leader Summit tonight! | Sir Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
+      "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "228334289": {
+      "display_name": "Rams404Vt",
+      "game_name": "Minecraft",
+      "login": "rams404vt",
+      "started_at": "2026-11-06T20:57:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
+      "title": "✨[18+ Eng/Esp] ✨When are we finding a dungeon✨ !socials !lurk  @rams404vt ✨",
+      "url": "https://www.twitch.tv/rams404vt"
+    }
+  },
   "login_updates": {}
 }
