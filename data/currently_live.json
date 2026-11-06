@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T03:45:10Z",
+  "updated_at": "2026-11-06T03:50:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -110,15 +110,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meoweomell_marsyus_seliem-{width}x{height}.jpg",
       "title": "CROWNFALL | VORIGINS S4 [day V]",
       "url": "https://www.twitch.tv/meoweomell_marsyus_seliem"
-    },
-    "1350182752": {
-      "display_name": "Caramoreli",
-      "game_name": "Minecraft",
-      "login": "caramoreli",
-      "started_at": "2026-11-06T00:58:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_caramoreli-{width}x{height}.jpg",
-      "title": "I am here to HELP | [Vorigins Crownfall] Day 4",
-      "url": "https://www.twitch.tv/caramoreli"
     },
     "1380109945": {
       "display_name": "NovaAustralis",
