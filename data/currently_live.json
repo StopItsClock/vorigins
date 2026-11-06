@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T07:55:11Z",
+  "updated_at": "2026-11-06T08:00:11Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
       "title": "🌹[Minecraft] #VOriginsS4 In the late hour, the moon calls",
       "url": "https://www.twitch.tv/shivarosebloom"
+    },
+    "139155084": {
+      "display_name": "RaiineLive",
+      "game_name": "Minecraft",
+      "login": "raiinelive",
+      "started_at": "2026-11-06T07:52:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiinelive-{width}x{height}.jpg",
+      "title": "[VOrigins MCRP] A new dawn for House Aqua... | !badge !crownfall",
+      "url": "https://www.twitch.tv/raiinelive"
     },
     "160748634": {
       "display_name": "celiere",
