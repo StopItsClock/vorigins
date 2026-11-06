@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T08:00:11Z",
+  "updated_at": "2026-11-06T08:05:11Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -66,15 +66,6 @@
       "title": "[ V*Origins: Crownfall ] New Post Office, New Me! !vorigins !character",
       "url": "https://www.twitch.tv/vapveran"
     },
-    "612172705": {
-      "display_name": "A__NUBIS",
-      "game_name": "Minecraft",
-      "login": "a__nubis",
-      "started_at": "2026-11-06T01:05:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_a__nubis-{width}x{height}.jpg",
-      "title": "VORIGENS EPISODE 4-Rourke Dolmayan",
-      "url": "https://www.twitch.tv/a__nubis"
-    },
     "686234820": {
       "display_name": "miyuwanchan",
       "game_name": "Minecraft",
@@ -92,15 +83,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
       "title": "【VOrigins S4: Crownfall】Therapy is a Necessity {18+} // !discord !socials //",
       "url": "https://www.twitch.tv/alectoeumenid"
-    },
-    "1380109945": {
-      "display_name": "NovaAustralis",
-      "game_name": "Minecraft",
-      "login": "novaaustralis",
-      "started_at": "2026-11-06T02:30:39Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_novaaustralis-{width}x{height}.jpg",
-      "title": "[Novaember Day 5] The melody is changing [ VOrigins: Crownfall ] !discord !socials !pet",
-      "url": "https://www.twitch.tv/novaaustralis"
     }
   },
   "login_updates": {}
