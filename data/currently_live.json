@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T08:35:11Z",
+  "updated_at": "2026-11-06T09:05:10Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
@@ -47,15 +47,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vapveran-{width}x{height}.jpg",
       "title": "[ V*Origins: Crownfall ] New Post Office, New Me! !vorigins !character",
       "url": "https://www.twitch.tv/vapveran"
-    },
-    "686234820": {
-      "display_name": "miyuwanchan",
-      "game_name": "Minecraft",
-      "login": "miyuwanchan",
-      "started_at": "2026-11-06T02:00:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
-      "title": "Born of flesh...sworn to water. 🍞VORIGINS S4 🍞 | !vorigins !socials",
-      "url": "https://www.twitch.tv/miyuwanchan"
     },
     "819211356": {
       "display_name": "AlectoEumenid",
