@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T06:20:10Z",
+  "updated_at": "2026-11-06T06:50:10Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -38,15 +38,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
       "title": "【VORIGINS】♡ Going to Asteria and building the POstoffice! ♡ !socials !tip #vorigins",
       "url": "https://www.twitch.tv/celiere"
-    },
-    "243161944": {
-      "display_name": "DracolicheRen",
-      "game_name": "Minecraft",
-      "login": "dracolicheren",
-      "started_at": "2026-11-06T04:20:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
-      "title": "[ VOrigins S4 ] I WILL CURE IT ALL!  | !Discord !lurk | 🐉🧟",
-      "url": "https://www.twitch.tv/dracolicheren"
     },
     "487437198": {
       "display_name": "ShizukaCh",
