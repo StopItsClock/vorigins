@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T01:00:10Z",
+  "updated_at": "2026-11-06T01:10:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -38,6 +38,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostoni_-{width}x{height}.jpg",
       "title": "V-Origins Crownfall #4 | !discord | Minecraft",
       "url": "https://www.twitch.tv/lostoni_"
+    },
+    "612172705": {
+      "display_name": "A__NUBIS",
+      "game_name": "Minecraft",
+      "login": "a__nubis",
+      "started_at": "2026-11-06T01:05:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_a__nubis-{width}x{height}.jpg",
+      "title": "VORIGENS EPISODE 4-Rourke Dolmayan",
+      "url": "https://www.twitch.tv/a__nubis"
     },
     "819211356": {
       "display_name": "AlectoEumenid",
