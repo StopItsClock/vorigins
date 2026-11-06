@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T03:05:10Z",
+  "updated_at": "2026-11-06T03:10:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
       "title": "꒰ 👑 VOrigins: Crownfall꒱ When the Guards are gone the Queen plays... 🍃 Day 4: Elizabeth Erdo POV  🎨🌸 | Multi-stream | !vorigins !rp",
       "url": "https://www.twitch.tv/doeremi_"
+    },
+    "110867034": {
+      "display_name": "VVDragon_",
+      "game_name": "Minecraft",
+      "login": "vvdragon_",
+      "started_at": "2026-11-06T03:07:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
+      "title": "[VORIGINS S4] | Connecting the Cities!",
+      "url": "https://www.twitch.tv/vvdragon_"
     },
     "139155084": {
       "display_name": "RaiineLive",
