@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T19:55:10Z",
+  "updated_at": "2026-11-06T20:20:10Z",
   "poll_seconds": 300,
-  "live": {
-    "835371235": {
-      "display_name": "MizuRelictus",
-      "game_name": "Minecraft",
-      "login": "mizurelictus",
-      "started_at": "2026-11-06T14:28:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
-      "title": "[VOrigins] Ursoc Earthfist hammers za world",
-      "url": "https://www.twitch.tv/mizurelictus"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
