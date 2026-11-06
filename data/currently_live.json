@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T11:55:10Z",
+  "updated_at": "2026-11-06T12:00:10Z",
   "poll_seconds": 300,
   "live": {
     "160748634": {
@@ -20,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeonovt-{width}x{height}.jpg",
       "title": "໒V-Origins Day-(6)7১ The Dwarf Builds an Underground Greenhouse! ⋆˚࿔ !vorigins !lurk !unlurk",
       "url": "https://www.twitch.tv/yeonovt"
-    },
-    "555456488": {
-      "display_name": "vapVeran",
-      "game_name": "Minecraft",
-      "login": "vapveran",
-      "started_at": "2026-11-06T02:34:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vapveran-{width}x{height}.jpg",
-      "title": "[ V*Origins: Crownfall ] New Post Office, New Me! !vorigins !character",
-      "url": "https://www.twitch.tv/vapveran"
     }
   },
   "login_updates": {}
