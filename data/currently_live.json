@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T01:45:11Z",
+  "updated_at": "2026-11-06T01:50:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -29,15 +29,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
       "title": "✨[18+ Eng/Esp] ✨What's wrong with these lizards✨ !socials !lurk  @rams404vt ✨",
       "url": "https://www.twitch.tv/rams404vt"
-    },
-    "231199835": {
-      "display_name": "LostOni_",
-      "game_name": "Minecraft",
-      "login": "lostoni_",
-      "started_at": "2026-11-06T01:44:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostoni_-{width}x{height}.jpg",
-      "title": "V-Origins Crownfall #4 | !discord | Minecraft",
-      "url": "https://www.twitch.tv/lostoni_"
     },
     "612172705": {
       "display_name": "A__NUBIS",
