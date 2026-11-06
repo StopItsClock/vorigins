@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T14:20:11Z",
+  "updated_at": "2026-11-06T14:30:10Z",
   "poll_seconds": 300,
   "live": {
     "443242156": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeonovt-{width}x{height}.jpg",
       "title": "໒V-Origins Day-(6)7১ The Dwarf Builds an Underground Greenhouse! ⋆˚࿔ !vorigins !lurk !unlurk",
       "url": "https://www.twitch.tv/yeonovt"
+    },
+    "835371235": {
+      "display_name": "MizuRelictus",
+      "game_name": "Minecraft",
+      "login": "mizurelictus",
+      "started_at": "2026-11-06T14:28:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
+      "title": "[VOrigins] Ursoc Earthfist hammers za world",
+      "url": "https://www.twitch.tv/mizurelictus"
     }
   },
   "login_updates": {}
