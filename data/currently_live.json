@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T07:25:11Z",
+  "updated_at": "2026-11-06T07:40:10Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -38,6 +38,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
       "title": "【VORIGINS】♡ Going to Asteria and building the POstoffice! ♡ !socials !tip #vorigins",
       "url": "https://www.twitch.tv/celiere"
+    },
+    "443242156": {
+      "display_name": "YeonoVt",
+      "game_name": "Minecraft",
+      "login": "yeonovt",
+      "started_at": "2026-11-06T07:35:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeonovt-{width}x{height}.jpg",
+      "title": "໒V-Origins Day-(6)7১ The Dwarf... Doesn't Know What To Do Today.. ⋆˚࿔ !vorigins !lurk !unlurk",
+      "url": "https://www.twitch.tv/yeonovt"
     },
     "487437198": {
       "display_name": "ShizukaCh",
