@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T04:50:10Z",
+  "updated_at": "2026-11-07T04:55:10Z",
   "poll_seconds": 300,
   "live": {
-    "58276005": {
-      "display_name": "Banana_Ramajama",
-      "game_name": "Minecraft",
-      "login": "banana_ramajama",
-      "started_at": "2026-11-06T20:55:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
-      "title": "Wrapping up Week One of Vorigins! Leader Summit tonight! | Sir Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
-      "url": "https://www.twitch.tv/banana_ramajama"
-    },
     "59922801": {
       "display_name": "doeremi_",
       "game_name": "Minecraft",
