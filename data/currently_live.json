@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T07:20:10Z",
+  "updated_at": "2026-11-07T07:50:10Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
@@ -20,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
       "title": "[VORIGINS S4] | We Missed Everything",
       "url": "https://www.twitch.tv/vvdragon_"
-    },
-    "119893530": {
-      "display_name": "FrostedPlague7",
-      "game_name": "Minecraft",
-      "login": "frostedplague7",
-      "started_at": "2026-11-07T00:07:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
-      "title": "꒰ 🐾 VOrigins: Crownfall꒱ The Leader's Summit | Minecraft RP🧊 !rp !map !socials 🍧 @frostedplague7",
-      "url": "https://www.twitch.tv/frostedplague7"
     },
     "443242156": {
       "display_name": "YeonoVt",
