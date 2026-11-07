@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T03:20:10Z",
+  "updated_at": "2026-11-07T03:35:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -47,15 +47,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_reitvt-{width}x{height}.jpg",
       "title": "A summit of three kingdoms... || V Origins Season 4 - Minecraft",
       "url": "https://www.twitch.tv/reitvt"
-    },
-    "231199835": {
-      "display_name": "LostOni_",
-      "game_name": "Minecraft",
-      "login": "lostoni_",
-      "started_at": "2026-11-07T00:44:11Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostoni_-{width}x{height}.jpg",
-      "title": "V-Origins Crownfall #5 | !discord | Minecraft",
-      "url": "https://www.twitch.tv/lostoni_"
     },
     "443242156": {
       "display_name": "YeonoVt",
