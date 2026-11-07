@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T00:20:10Z",
+  "updated_at": "2026-11-07T00:25:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -47,6 +47,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
       "title": "✨[18+ Eng/Esp] ✨When are we finding a dungeon✨ !socials !lurk  @rams404vt ✨",
       "url": "https://www.twitch.tv/rams404vt"
+    },
+    "495919620": {
+      "display_name": "66GrimDemise66",
+      "game_name": "Minecraft",
+      "login": "66grimdemise66",
+      "started_at": "2026-11-07T00:23:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
+      "title": "{VOrigins Crownfall SMP} Day 5// The great escape",
+      "url": "https://www.twitch.tv/66grimdemise66"
     },
     "983832675": {
       "display_name": "Meoweomell_Marsyus_Seliem",
