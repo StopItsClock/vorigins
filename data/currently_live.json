@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T18:50:10Z",
+  "updated_at": "2026-11-07T19:20:10Z",
   "poll_seconds": 300,
-  "live": {
-    "835371235": {
-      "display_name": "MizuRelictus",
-      "game_name": "Risk of Rain 2",
-      "login": "mizurelictus",
-      "started_at": "2026-11-07T12:01:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
-      "title": "[Risk of Rain 2] 6 person Archpelago race, who beats Mithrix first?! /w @deserada_ @thedivis @puluvt @gonmasvt & @vaaratheapocalypseadvisor",
-      "url": "https://www.twitch.tv/mizurelictus"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
