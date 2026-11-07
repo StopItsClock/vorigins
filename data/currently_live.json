@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T01:20:10Z",
+  "updated_at": "2026-11-07T01:35:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -56,6 +56,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostoni_-{width}x{height}.jpg",
       "title": "V-Origins Crownfall #5 | !discord | Minecraft",
       "url": "https://www.twitch.tv/lostoni_"
+    },
+    "452819536": {
+      "display_name": "AlfNAlf",
+      "game_name": "Minecraft",
+      "login": "alfnalf",
+      "started_at": "2026-11-07T01:33:38Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfnalf-{width}x{height}.jpg",
+      "title": "(EN) V-ORIGINS DAY 7 (The Summit)| !lurk",
+      "url": "https://www.twitch.tv/alfnalf"
     },
     "487437198": {
       "display_name": "ShizukaCh",
