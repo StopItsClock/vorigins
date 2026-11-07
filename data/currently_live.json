@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T05:00:10Z",
+  "updated_at": "2026-11-07T05:05:10Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -38,15 +38,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
       "title": "꒰ 🐾 VOrigins: Crownfall꒱ The Leader's Summit | Minecraft RP🧊 !rp !map !socials 🍧 @frostedplague7",
       "url": "https://www.twitch.tv/frostedplague7"
-    },
-    "120519348": {
-      "display_name": "reitvt",
-      "game_name": "Minecraft",
-      "login": "reitvt",
-      "started_at": "2026-11-07T01:19:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_reitvt-{width}x{height}.jpg",
-      "title": "A summit of three kingdoms... || V Origins Season 4 - Minecraft",
-      "url": "https://www.twitch.tv/reitvt"
     },
     "443242156": {
       "display_name": "YeonoVt",
