@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T05:20:11Z",
+  "updated_at": "2026-11-07T05:30:10Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -47,15 +47,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeonovt-{width}x{height}.jpg",
       "title": "໒V-Origins Day-7১ The Summit ⋆˚࿔ !vorigins !lurk !unlurk",
       "url": "https://www.twitch.tv/yeonovt"
-    },
-    "487437198": {
-      "display_name": "ShizukaCh",
-      "game_name": "Minecraft",
-      "login": "shizukach",
-      "started_at": "2026-11-07T04:02:11Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
-      "title": "🤍🎑【 V-ORIGINS DAY 7 】DON'T FIRE UNLESS FIRED UPON ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte ✦ !vorigins",
-      "url": "https://www.twitch.tv/shizukach"
     },
     "1380109945": {
       "display_name": "NovaAustralis",
