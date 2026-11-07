@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T00:45:10Z",
+  "updated_at": "2026-11-07T00:55:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -38,15 +38,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
       "title": "꒰ 🐾 VOrigins: Crownfall꒱ The Leader's Summit | Minecraft RP🧊 !rp !map !socials 🍧 @frostedplague7",
       "url": "https://www.twitch.tv/frostedplague7"
-    },
-    "228334289": {
-      "display_name": "Rams404Vt",
-      "game_name": "Minecraft",
-      "login": "rams404vt",
-      "started_at": "2026-11-06T20:57:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
-      "title": "✨[18+ Eng/Esp] ✨When are we finding a dungeon✨ !socials !lurk  @rams404vt ✨",
-      "url": "https://www.twitch.tv/rams404vt"
     },
     "231199835": {
       "display_name": "LostOni_",
