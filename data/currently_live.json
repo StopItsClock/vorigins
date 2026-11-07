@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T00:30:10Z",
+  "updated_at": "2026-11-07T00:40:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -47,6 +47,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
       "title": "✨[18+ Eng/Esp] ✨When are we finding a dungeon✨ !socials !lurk  @rams404vt ✨",
       "url": "https://www.twitch.tv/rams404vt"
+    },
+    "231199835": {
+      "display_name": "LostOni_",
+      "game_name": "Minecraft",
+      "login": "lostoni_",
+      "started_at": "2026-11-07T00:39:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostoni_-{width}x{height}.jpg",
+      "title": "V-Origins Crownfall #5 | !discord | Minecraft",
+      "url": "https://www.twitch.tv/lostoni_"
     },
     "495919620": {
       "display_name": "66GrimDemise66",
