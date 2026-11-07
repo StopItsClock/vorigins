@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T04:55:10Z",
+  "updated_at": "2026-11-07T05:00:10Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -74,15 +74,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
       "title": "🤍🎑【 V-ORIGINS DAY 7 】DON'T FIRE UNLESS FIRED UPON ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte ✦ !vorigins",
       "url": "https://www.twitch.tv/shizukach"
-    },
-    "983832675": {
-      "display_name": "Meoweomell_Marsyus_Seliem",
-      "game_name": "Minecraft",
-      "login": "meoweomell_marsyus_seliem",
-      "started_at": "2026-11-06T23:07:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meoweomell_marsyus_seliem-{width}x{height}.jpg",
-      "title": "CROWNFALL | VORIGINS S4 [day VI] | Alexander Da Maris",
-      "url": "https://www.twitch.tv/meoweomell_marsyus_seliem"
     },
     "1380109945": {
       "display_name": "NovaAustralis",
