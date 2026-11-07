@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T06:20:10Z",
+  "updated_at": "2026-11-07T06:45:10Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -47,15 +47,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeonovt-{width}x{height}.jpg",
       "title": "໒V-Origins Day-7১ The Dwarf is Working on Commissions! ⋆˚࿔ !vorigins !lurk !unlurk",
       "url": "https://www.twitch.tv/yeonovt"
-    },
-    "1380109945": {
-      "display_name": "NovaAustralis",
-      "game_name": "Minecraft",
-      "login": "novaaustralis",
-      "started_at": "2026-11-07T01:56:39Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_novaaustralis-{width}x{height}.jpg",
-      "title": "[Novaember Day 6] Soft notes leave a trail [ VOrigins: Crownfall ] !discord !socials !pet",
-      "url": "https://www.twitch.tv/novaaustralis"
     }
   },
   "login_updates": {}
