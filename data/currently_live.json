@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T01:00:10Z",
+  "updated_at": "2026-11-07T01:15:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -74,6 +74,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meoweomell_marsyus_seliem-{width}x{height}.jpg",
       "title": "CROWNFALL | VORIGINS S4 [day VI]",
       "url": "https://www.twitch.tv/meoweomell_marsyus_seliem"
+    },
+    "1350182752": {
+      "display_name": "Caramoreli",
+      "game_name": "Just Chatting",
+      "login": "caramoreli",
+      "started_at": "2026-11-07T01:13:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_caramoreli-{width}x{height}.jpg",
+      "title": "A house just for me?! | [Vorigins Crownfall] Day 5",
+      "url": "https://www.twitch.tv/caramoreli"
     }
   },
   "login_updates": {}
