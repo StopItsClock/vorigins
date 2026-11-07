@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T03:50:10Z",
+  "updated_at": "2026-11-07T04:05:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -29,6 +29,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
       "title": "🌹[Minecraft] #VOriginsS4 And at the summit, where will you be?",
       "url": "https://www.twitch.tv/shivarosebloom"
+    },
+    "110867034": {
+      "display_name": "VVDragon_",
+      "game_name": "Minecraft",
+      "login": "vvdragon_",
+      "started_at": "2026-11-07T04:02:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
+      "title": "[VORIGINS S4] | We Missed Everything",
+      "url": "https://www.twitch.tv/vvdragon_"
     },
     "119893530": {
       "display_name": "FrostedPlague7",
@@ -70,7 +79,7 @@
       "display_name": "ShizukaCh",
       "game_name": "Minecraft",
       "login": "shizukach",
-      "started_at": "2026-11-07T00:58:17Z",
+      "started_at": "2026-11-07T04:02:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
       "title": "🤍🎑【 V-ORIGINS DAY 7 】DON'T FIRE UNLESS FIRED UPON ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte ✦ !vorigins",
       "url": "https://www.twitch.tv/shizukach"
