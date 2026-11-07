@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T08:30:11Z",
+  "updated_at": "2026-11-07T08:35:10Z",
   "poll_seconds": 300,
   "live": {
-    "77176298": {
-      "display_name": "ShivaRoseBloom",
-      "game_name": "Minecraft",
-      "login": "shivarosebloom",
-      "started_at": "2026-11-07T02:18:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
-      "title": "🌹[Minecraft] #VOriginsS4 And at the summit, where will you be?",
-      "url": "https://www.twitch.tv/shivarosebloom"
-    },
     "443242156": {
       "display_name": "YeonoVt",
       "game_name": "Minecraft",
