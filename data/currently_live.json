@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T07:50:10Z",
+  "updated_at": "2026-11-07T07:55:10Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
       "title": "🌹[Minecraft] #VOriginsS4 And at the summit, where will you be?",
       "url": "https://www.twitch.tv/shivarosebloom"
-    },
-    "110867034": {
-      "display_name": "VVDragon_",
-      "game_name": "Minecraft",
-      "login": "vvdragon_",
-      "started_at": "2026-11-07T04:02:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
-      "title": "[VORIGINS S4] | We Missed Everything",
-      "url": "https://www.twitch.tv/vvdragon_"
     },
     "443242156": {
       "display_name": "YeonoVt",
