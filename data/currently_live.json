@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T01:50:11Z",
+  "updated_at": "2026-11-07T02:00:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -110,6 +110,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_caramoreli-{width}x{height}.jpg",
       "title": "A house just for me?! | [Vorigins Crownfall] Day 5",
       "url": "https://www.twitch.tv/caramoreli"
+    },
+    "1380109945": {
+      "display_name": "NovaAustralis",
+      "game_name": "Minecraft",
+      "login": "novaaustralis",
+      "started_at": "2026-11-07T01:56:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_novaaustralis-{width}x{height}.jpg",
+      "title": "[Novaember Day 6] Soft notes leave a trail [ VOrigins: Crownfall ] !discord !socials !pet",
+      "url": "https://www.twitch.tv/novaaustralis"
     }
   },
   "login_updates": {}
