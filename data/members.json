@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-30T03:52:14Z",
+  "updated_at": "2026-11-07T22:42:38Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -256,20 +256,20 @@
     },
     {
       "id": "puckulus-aquasius",
-      "faction": "alliance",
-      "order": 10,
+      "faction": "empire",
+      "order": 130,
       "minecraft": {
         "name": "PuckPixie",
         "uuid": "7f44554a-583b-4e3f-bb6c-17a08320c9aa"
       },
       "head": true,
-      "name": "Puckulus Aquasius",
-      "role": "Head of House Aqua",
-      "age": "60",
-      "height": "5'9",
-      "race": "Water Genasi",
-      "kingdom": "Asteria",
-      "bio": "Puckulus Aquasius is the leader of House Aqua, known for his generosity, patience, and charisma. Although he comes from a family of tacticians that only believed in the Moon Goddess for their personal gain; he is a genuine and fervent believer. His wings used to be water.",
+      "name": "Rourvestag",
+      "role": "",
+      "age": "",
+      "height": "",
+      "race": "Human",
+      "kingdom": "Kiyomori",
+      "bio": "Rourvestag is an ex-bandit muscle.\nThough he has no shame or calls himself a bandit.\nRourvestag doesn't see morality or ethics, only strength and loyalty.",
       "twitch": {
         "login": "puckthepixievt",
         "id": "68909866"
