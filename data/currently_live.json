@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T01:45:11Z",
+  "updated_at": "2026-11-07T01:50:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -57,6 +57,15 @@
       "title": "V-Origins Crownfall #5 | !discord | Minecraft",
       "url": "https://www.twitch.tv/lostoni_"
     },
+    "443242156": {
+      "display_name": "YeonoVt",
+      "game_name": "Minecraft",
+      "login": "yeonovt",
+      "started_at": "2026-11-07T01:49:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeonovt-{width}x{height}.jpg",
+      "title": "໒V-Origins Day-7১ The Summit ⋆˚࿔ !vorigins !lurk !unlurk",
+      "url": "https://www.twitch.tv/yeonovt"
+    },
     "452819536": {
       "display_name": "AlfNAlf",
       "game_name": "Minecraft",
@@ -95,7 +104,7 @@
     },
     "1350182752": {
       "display_name": "Caramoreli",
-      "game_name": "Just Chatting",
+      "game_name": "Minecraft",
       "login": "caramoreli",
       "started_at": "2026-11-07T01:13:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_caramoreli-{width}x{height}.jpg",
