@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T02:05:10Z",
+  "updated_at": "2026-11-07T02:20:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -29,6 +29,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
       "title": "[18+] [VOrigins Season 4] OH! The Name's Rourvestag!",
       "url": "https://www.twitch.tv/puckthepixievt"
+    },
+    "77176298": {
+      "display_name": "ShivaRoseBloom",
+      "game_name": "Minecraft",
+      "login": "shivarosebloom",
+      "started_at": "2026-11-07T02:18:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
+      "title": "🌹[Minecraft] #VOriginsS4 And at the summit, where will you be?",
+      "url": "https://www.twitch.tv/shivarosebloom"
     },
     "119893530": {
       "display_name": "FrostedPlague7",
