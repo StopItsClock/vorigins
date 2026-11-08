@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-08T05:05:11Z",
+  "updated_at": "2026-11-08T05:40:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -56,15 +56,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
       "title": "What guilt do you carry? 🍞VORIGINS S4 🍞 | !vorigins !socials",
       "url": "https://www.twitch.tv/miyuwanchan"
-    },
-    "761873718": {
-      "display_name": "cylinks_owo",
-      "game_name": "Minecraft",
-      "login": "cylinks_owo",
-      "started_at": "2026-11-08T01:55:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cylinks_owo-{width}x{height}.jpg",
-      "title": "WHY DO BANDITS ~ Vorigins S4 EP4",
-      "url": "https://www.twitch.tv/cylinks_owo"
     },
     "983832675": {
       "display_name": "Meoweomell_Marsyus_Seliem",
