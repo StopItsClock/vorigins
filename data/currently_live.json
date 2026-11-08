@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-08T21:05:10Z",
+  "updated_at": "2026-11-08T23:10:10Z",
   "poll_seconds": 300,
-  "live": {},
+  "live": {
+    "983832675": {
+      "display_name": "Meoweomell_Marsyus_Seliem",
+      "game_name": "Minecraft",
+      "login": "meoweomell_marsyus_seliem",
+      "started_at": "2026-11-08T23:06:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meoweomell_marsyus_seliem-{width}x{height}.jpg",
+      "title": "CROWNFALL | VORIGINS S4 [day VIII] | Alexander Da Maris",
+      "url": "https://www.twitch.tv/meoweomell_marsyus_seliem"
+    }
+  },
   "login_updates": {}
 }
