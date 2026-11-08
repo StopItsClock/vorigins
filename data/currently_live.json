@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-08T17:10:10Z",
+  "updated_at": "2026-11-08T17:20:10Z",
   "poll_seconds": 300,
   "live": {
     "835371235": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
       "title": "[R.E.P.O] Gaming for @marshthefrog 's donothon~ Maybe VOrgins after",
       "url": "https://www.twitch.tv/mizurelictus"
+    },
+    "886081934": {
+      "display_name": "wiltedIrony",
+      "game_name": "Escape the Backrooms",
+      "login": "wiltedirony",
+      "started_at": "2026-11-08T17:15:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wiltedirony-{width}x{height}.jpg",
+      "title": "ESCAPING MY HUSBAND | !discord !roll !clip [ENG/ARA]",
+      "url": "https://www.twitch.tv/wiltedirony"
     }
   },
   "login_updates": {}
