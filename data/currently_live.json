@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-08T02:30:10Z",
+  "updated_at": "2026-11-08T03:00:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -29,6 +29,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
       "title": "[18+] [VOrigins Season 4] Kiss me, whydonctha? Name's Rourvestag!",
       "url": "https://www.twitch.tv/puckthepixievt"
+    },
+    "160748634": {
+      "display_name": "celiere",
+      "game_name": "Minecraft",
+      "login": "celiere",
+      "started_at": "2026-11-08T02:56:48Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
+      "title": "【VORIGINS】♡ Building the Trading Dock/Bridge! ♡ !socials !tip #vorigins",
+      "url": "https://www.twitch.tv/celiere"
     },
     "231199835": {
       "display_name": "LostOni_",
