@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-08T00:45:11Z",
+  "updated_at": "2026-11-08T00:50:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "Today is officially the start of week 2 of VOrigins | Sir Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "59922801": {
+      "display_name": "doeremi_",
+      "game_name": "Minecraft",
+      "login": "doeremi_",
+      "started_at": "2026-11-08T00:46:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
+      "title": "꒰ 👑 VOrigins: Crownfall꒱ THE ELF MOTHER IS BREAKING OUT?! 🍃 Day 6: Elizabeth Erdo POV  🎨🌸 | Multi-stream | !vorigins !rp",
+      "url": "https://www.twitch.tv/doeremi_"
     },
     "68909866": {
       "display_name": "PuckThePixieVT",
