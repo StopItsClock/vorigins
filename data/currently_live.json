@@ -1,8 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-08T23:10:10Z",
+  "updated_at": "2026-11-08T23:15:10Z",
   "poll_seconds": 300,
   "live": {
+    "495919620": {
+      "display_name": "66GrimDemise66",
+      "game_name": "Minecraft",
+      "login": "66grimdemise66",
+      "started_at": "2026-11-08T23:12:56Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
+      "title": "{VOrigins Crownfall SMP} Day 7//Winnifred Sterling// On the hunt",
+      "url": "https://www.twitch.tv/66grimdemise66"
+    },
     "983832675": {
       "display_name": "Meoweomell_Marsyus_Seliem",
       "game_name": "Minecraft",
