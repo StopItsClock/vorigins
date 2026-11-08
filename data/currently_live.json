@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-08T04:05:10Z",
+  "updated_at": "2026-11-08T04:20:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -47,15 +47,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostoni_-{width}x{height}.jpg",
       "title": "V-Origins Crownfall #6 | !discord | Minecraft",
       "url": "https://www.twitch.tv/lostoni_"
-    },
-    "239191238": {
-      "display_name": "RedBladeCrimson",
-      "game_name": "Minecraft",
-      "login": "redbladecrimson",
-      "started_at": "2026-11-08T00:59:53Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
-      "title": "[V-origins] Minecraft lore time! First time roleplaying! Being a good(bad?) mercenary for the empire! !lore",
-      "url": "https://www.twitch.tv/redbladecrimson"
     },
     "686234820": {
       "display_name": "miyuwanchan",
