@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-08T00:50:10Z",
+  "updated_at": "2026-11-08T01:00:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -29,6 +29,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
       "title": "[18+] [VOrigins Season 4] Kiss me, whydonctha?",
       "url": "https://www.twitch.tv/puckthepixievt"
+    },
+    "239191238": {
+      "display_name": "RedBladeCrimson",
+      "game_name": "Minecraft",
+      "login": "redbladecrimson",
+      "started_at": "2026-11-08T00:59:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
+      "title": "[V-origins] Minecraft lore time! First time roleplaying! Being a good(bad?) mercenary for the empire! !lore",
+      "url": "https://www.twitch.tv/redbladecrimson"
     },
     "983832675": {
       "display_name": "Meoweomell_Marsyus_Seliem",
