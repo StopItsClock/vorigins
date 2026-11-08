@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-08T04:40:10Z",
+  "updated_at": "2026-11-08T05:05:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -38,15 +38,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
       "title": "【VORIGINS】♡ Building the Trading Dock/Bridge! ♡ !socials !tip #vorigins",
       "url": "https://www.twitch.tv/celiere"
-    },
-    "231199835": {
-      "display_name": "LostOni_",
-      "game_name": "Minecraft",
-      "login": "lostoni_",
-      "started_at": "2026-11-08T01:53:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostoni_-{width}x{height}.jpg",
-      "title": "V-Origins Crownfall #6 | !discord | Minecraft",
-      "url": "https://www.twitch.tv/lostoni_"
     },
     "452819536": {
       "display_name": "AlfNAlf",
