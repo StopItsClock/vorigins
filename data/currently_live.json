@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-08T09:50:11Z",
+  "updated_at": "2026-11-08T09:55:10Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
@@ -20,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
       "title": "【VORIGINS】♡ Building the Trading Dock/Bridge! ♡ !socials !tip #vorigins",
       "url": "https://www.twitch.tv/celiere"
-    },
-    "686234820": {
-      "display_name": "miyuwanchan",
-      "game_name": "Minecraft",
-      "login": "miyuwanchan",
-      "started_at": "2026-11-08T01:29:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
-      "title": "What guilt do you carry? 🍞VORIGINS S4 🍞 | !vorigins !socials",
-      "url": "https://www.twitch.tv/miyuwanchan"
     }
   },
   "login_updates": {}
