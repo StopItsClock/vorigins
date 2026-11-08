@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-08T01:00:11Z",
+  "updated_at": "2026-11-08T01:30:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -38,6 +38,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
       "title": "[V-origins] Minecraft lore time! First time roleplaying! Being a good(bad?) mercenary for the empire! !lore",
       "url": "https://www.twitch.tv/redbladecrimson"
+    },
+    "686234820": {
+      "display_name": "miyuwanchan",
+      "game_name": "Minecraft",
+      "login": "miyuwanchan",
+      "started_at": "2026-11-08T01:29:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
+      "title": "What guilt do you carry? 🍞VORIGINS S4 🍞 | !vorigins !socials",
+      "url": "https://www.twitch.tv/miyuwanchan"
     },
     "983832675": {
       "display_name": "Meoweomell_Marsyus_Seliem",
