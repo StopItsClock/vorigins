@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-08T18:30:10Z",
+  "updated_at": "2026-11-08T18:35:10Z",
   "poll_seconds": 300,
   "live": {
-    "443242156": {
-      "display_name": "YeonoVt",
-      "game_name": "Escape the Backrooms",
-      "login": "yeonovt",
-      "started_at": "2026-11-08T17:27:48Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeonovt-{width}x{height}.jpg",
-      "title": "໒Escape the Backrooms১ Im going to cry all over the place ⋆˚࿔ w/ @wiltedirony | !lurk !unlurk",
-      "url": "https://www.twitch.tv/yeonovt"
-    },
     "835371235": {
       "display_name": "MizuRelictus",
       "game_name": "R.E.P.O.",
