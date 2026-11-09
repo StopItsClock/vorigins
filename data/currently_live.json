@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-09T08:30:10Z",
+  "updated_at": "2026-11-09T17:35:10Z",
   "poll_seconds": 300,
-  "live": {},
+  "live": {
+    "886081934": {
+      "display_name": "wiltedIrony",
+      "game_name": "Dark Souls: Remastered",
+      "login": "wiltedirony",
+      "started_at": "2026-11-09T17:30:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wiltedirony-{width}x{height}.jpg",
+      "title": "PERFECTLY NORMAL SOULS | !discord !roll !clip [ENG/ARA]",
+      "url": "https://www.twitch.tv/wiltedirony"
+    }
+  },
   "login_updates": {}
 }
