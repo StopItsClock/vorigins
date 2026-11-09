@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-09T07:05:10Z",
+  "updated_at": "2026-11-09T07:10:10Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
@@ -29,15 +29,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
       "title": "Does our moon lie with her light? 🍞VORIGINS S4 🍞 | !vorigins !socials",
       "url": "https://www.twitch.tv/miyuwanchan"
-    },
-    "855636522": {
-      "display_name": "RootedMoon1506",
-      "game_name": "Minecraft",
-      "login": "rootedmoon1506",
-      "started_at": "2026-11-09T02:44:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rootedmoon1506-{width}x{height}.jpg",
-      "title": "[Vorigins Season 4] Will the cookieman strike again?",
-      "url": "https://www.twitch.tv/rootedmoon1506"
     }
   },
   "login_updates": {}
