@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-09T02:45:10Z",
+  "updated_at": "2026-11-09T02:55:11Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
@@ -92,6 +92,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elio_zinn-{width}x{height}.jpg",
       "title": "Chill day after a restful weekend TRUST ME | V✧ORIGINS SEASON 4: CROWNFALL",
       "url": "https://www.twitch.tv/elio_zinn"
+    },
+    "1380109945": {
+      "display_name": "NovaAustralis",
+      "game_name": "Minecraft",
+      "login": "novaaustralis",
+      "started_at": "2026-11-09T02:50:18Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_novaaustralis-{width}x{height}.jpg",
+      "title": "[Novaember Day 8] The Songbird has a migraine please be gentle with her [ VOrigins: Crownfall ] !discord !socials !pet",
+      "url": "https://www.twitch.tv/novaaustralis"
     }
   },
   "login_updates": {}
