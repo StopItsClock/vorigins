@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-09T01:30:10Z",
+  "updated_at": "2026-11-09T01:45:10Z",
   "poll_seconds": 300,
   "live": {
     "119893530": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
       "title": "[FF14 Heavensward] E-Kitten returns to the world of bunny women! Won't get distracted challenge impossible! !lore",
       "url": "https://www.twitch.tv/redbladecrimson"
+    },
+    "686234820": {
+      "display_name": "miyuwanchan",
+      "game_name": "Minecraft",
+      "login": "miyuwanchan",
+      "started_at": "2026-11-09T01:42:03Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
+      "title": "Does our moon lie with her light? 🍞VORIGINS S4 🍞 | !vorigins !socials",
+      "url": "https://www.twitch.tv/miyuwanchan"
     },
     "983832675": {
       "display_name": "Meoweomell_Marsyus_Seliem",
