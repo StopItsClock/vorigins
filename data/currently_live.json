@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-09T03:05:10Z",
+  "updated_at": "2026-11-09T03:10:10Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
@@ -50,11 +50,11 @@
     },
     "239191238": {
       "display_name": "RedBladeCrimson",
-      "game_name": "FINAL FANTASY XIV ONLINE",
+      "game_name": "Minecraft",
       "login": "redbladecrimson",
       "started_at": "2026-11-09T00:30:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
-      "title": "[FF14 Heavensward] E-Kitten returns to the world of bunny women! Won't get distracted challenge impossible! !lore",
+      "title": "[V-origins] Working hard for Kiyomori! Mercenary duties! !lore",
       "url": "https://www.twitch.tv/redbladecrimson"
     },
     "452819536": {
