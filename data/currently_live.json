@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-09T03:45:11Z",
+  "updated_at": "2026-11-09T04:05:10Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
@@ -47,15 +47,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchiivt-{width}x{height}.jpg",
       "title": "🦝| Vorigins Crownfall | Is the crown worth falling for? | !Discord | !Socials |🦝👟👑",
       "url": "https://www.twitch.tv/aidenchiivt"
-    },
-    "239191238": {
-      "display_name": "RedBladeCrimson",
-      "game_name": "Minecraft",
-      "login": "redbladecrimson",
-      "started_at": "2026-11-09T00:30:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
-      "title": "[V-origins] Working hard for Kiyomori! Mercenary duties! !lore",
-      "url": "https://www.twitch.tv/redbladecrimson"
     },
     "452819536": {
       "display_name": "AlfNAlf",
