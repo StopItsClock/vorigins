@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-09T02:55:11Z",
+  "updated_at": "2026-11-09T03:05:10Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
@@ -56,6 +56,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
       "title": "[FF14 Heavensward] E-Kitten returns to the world of bunny women! Won't get distracted challenge impossible! !lore",
       "url": "https://www.twitch.tv/redbladecrimson"
+    },
+    "452819536": {
+      "display_name": "AlfNAlf",
+      "game_name": "Minecraft",
+      "login": "alfnalf",
+      "started_at": "2026-11-09T03:01:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfnalf-{width}x{height}.jpg",
+      "title": "(EN) V-ORIGINS DAY 9 (Quick Nights)| !lurk",
+      "url": "https://www.twitch.tv/alfnalf"
     },
     "487437198": {
       "display_name": "ShizukaCh",
