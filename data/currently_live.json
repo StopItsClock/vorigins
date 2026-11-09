@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-09T06:55:11Z",
+  "updated_at": "2026-11-09T07:05:10Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
@@ -38,15 +38,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rootedmoon1506-{width}x{height}.jpg",
       "title": "[Vorigins Season 4] Will the cookieman strike again?",
       "url": "https://www.twitch.tv/rootedmoon1506"
-    },
-    "1003296268": {
-      "display_name": "Elio_Zinn",
-      "game_name": "Minecraft",
-      "login": "elio_zinn",
-      "started_at": "2026-11-09T02:33:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elio_zinn-{width}x{height}.jpg",
-      "title": "Chill day after a restful weekend TRUST ME | V✧ORIGINS SEASON 4: CROWNFALL",
-      "url": "https://www.twitch.tv/elio_zinn"
     }
   },
   "login_updates": {}
