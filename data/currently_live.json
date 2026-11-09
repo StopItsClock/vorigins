@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-09T07:25:10Z",
+  "updated_at": "2026-11-09T07:30:11Z",
   "poll_seconds": 300,
   "live": {
     "139155084": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiinelive-{width}x{height}.jpg",
       "title": "[VOrigins MCRP] Change in Asteria... | !badge !crownfall",
       "url": "https://www.twitch.tv/raiinelive"
-    },
-    "686234820": {
-      "display_name": "miyuwanchan",
-      "game_name": "Minecraft",
-      "login": "miyuwanchan",
-      "started_at": "2026-11-09T01:42:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
-      "title": "Does our moon lie with her light? 🍞VORIGINS S4 🍞 | !vorigins !socials",
-      "url": "https://www.twitch.tv/miyuwanchan"
     }
   },
   "login_updates": {}
