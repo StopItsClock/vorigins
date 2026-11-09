@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-09T02:05:11Z",
+  "updated_at": "2026-11-09T02:20:10Z",
   "poll_seconds": 300,
   "live": {
     "110867034": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
       "title": "꒰ 🐾 VOrigins: Crownfall꒱ Meeting Elderglen | Minecraft RP🧊 !rp !map !socials 🍧 @frostedplague7",
       "url": "https://www.twitch.tv/frostedplague7"
+    },
+    "209565401": {
+      "display_name": "AidenChiiVT",
+      "game_name": "Minecraft",
+      "login": "aidenchiivt",
+      "started_at": "2026-11-09T02:18:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchiivt-{width}x{height}.jpg",
+      "title": "🦝| Vorigins Crownfall | Is the crown worth falling for? | !Discord | !Socials |🦝👟👑",
+      "url": "https://www.twitch.tv/aidenchiivt"
     },
     "239191238": {
       "display_name": "RedBladeCrimson",
