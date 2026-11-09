@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-09T20:00:10Z",
+  "updated_at": "2026-11-09T20:05:10Z",
   "poll_seconds": 300,
-  "live": {
-    "886081934": {
-      "display_name": "wiltedIrony",
-      "game_name": "Co-working & Studying",
-      "login": "wiltedirony",
-      "started_at": "2026-11-09T18:22:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wiltedirony-{width}x{height}.jpg",
-      "title": "STUDY WITH ME OR ELSE | !discord !roll !clip [ENG/ARA]",
-      "url": "https://www.twitch.tv/wiltedirony"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
