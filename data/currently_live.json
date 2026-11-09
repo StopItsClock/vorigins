@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-09T06:50:11Z",
+  "updated_at": "2026-11-09T06:55:11Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
@@ -20,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiinelive-{width}x{height}.jpg",
       "title": "[VOrigins MCRP] Change in Asteria... | !badge !crownfall",
       "url": "https://www.twitch.tv/raiinelive"
-    },
-    "452819536": {
-      "display_name": "AlfNAlf",
-      "game_name": "Minecraft",
-      "login": "alfnalf",
-      "started_at": "2026-11-09T03:01:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfnalf-{width}x{height}.jpg",
-      "title": "(EN) V-ORIGINS DAY 9 (Quick Nights)| !lurk",
-      "url": "https://www.twitch.tv/alfnalf"
     },
     "686234820": {
       "display_name": "miyuwanchan",
