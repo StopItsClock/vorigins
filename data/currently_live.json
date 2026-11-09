@@ -1,8 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-09T02:35:10Z",
+  "updated_at": "2026-11-09T02:45:10Z",
   "poll_seconds": 300,
   "live": {
+    "77176298": {
+      "display_name": "ShivaRoseBloom",
+      "game_name": "Minecraft",
+      "login": "shivarosebloom",
+      "started_at": "2026-11-09T02:42:34Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
+      "title": "🌹[Minecraft] #VOriginsS4 Moonlight please protect them",
+      "url": "https://www.twitch.tv/shivarosebloom"
+    },
     "110867034": {
       "display_name": "VVDragon_",
       "game_name": "Minecraft",
@@ -65,6 +74,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
       "title": "Does our moon lie with her light? 🍞VORIGINS S4 🍞 | !vorigins !socials",
       "url": "https://www.twitch.tv/miyuwanchan"
+    },
+    "855636522": {
+      "display_name": "RootedMoon1506",
+      "game_name": "Minecraft",
+      "login": "rootedmoon1506",
+      "started_at": "2026-11-09T02:44:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rootedmoon1506-{width}x{height}.jpg",
+      "title": "[Vorigins Season 4] Will the cookieman strike again?",
+      "url": "https://www.twitch.tv/rootedmoon1506"
     },
     "1003296268": {
       "display_name": "Elio_Zinn",
