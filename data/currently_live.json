@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-09T02:20:10Z",
+  "updated_at": "2026-11-09T02:35:10Z",
   "poll_seconds": 300,
   "live": {
     "110867034": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
       "title": "꒰ 🐾 VOrigins: Crownfall꒱ Meeting Elderglen | Minecraft RP🧊 !rp !map !socials 🍧 @frostedplague7",
       "url": "https://www.twitch.tv/frostedplague7"
+    },
+    "139155084": {
+      "display_name": "RaiineLive",
+      "game_name": "Minecraft",
+      "login": "raiinelive",
+      "started_at": "2026-11-09T02:30:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiinelive-{width}x{height}.jpg",
+      "title": "[VOrigins MCRP] Change in Asteria... | !badge !crownfall",
+      "url": "https://www.twitch.tv/raiinelive"
     },
     "209565401": {
       "display_name": "AidenChiiVT",
@@ -56,6 +65,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
       "title": "Does our moon lie with her light? 🍞VORIGINS S4 🍞 | !vorigins !socials",
       "url": "https://www.twitch.tv/miyuwanchan"
+    },
+    "1003296268": {
+      "display_name": "Elio_Zinn",
+      "game_name": "Minecraft",
+      "login": "elio_zinn",
+      "started_at": "2026-11-09T02:33:56Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elio_zinn-{width}x{height}.jpg",
+      "title": "Chill day after a restful weekend TRUST ME | V✧ORIGINS SEASON 4: CROWNFALL",
+      "url": "https://www.twitch.tv/elio_zinn"
     }
   },
   "login_updates": {}
