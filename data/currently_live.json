@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-10T20:10:10Z",
+  "updated_at": "2026-11-10T22:45:10Z",
   "poll_seconds": 300,
-  "live": {},
+  "live": {
+    "58276005": {
+      "display_name": "Banana_Ramajama",
+      "game_name": "Minecraft",
+      "login": "banana_ramajama",
+      "started_at": "2026-11-10T22:41:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
+      "title": "It's a rough day to be a Crabapple. Most redeems currently broken. | Sir Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
+      "url": "https://www.twitch.tv/banana_ramajama"
+    }
+  },
   "login_updates": {}
 }
