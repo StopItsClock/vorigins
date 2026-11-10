@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-10T02:35:10Z",
+  "updated_at": "2026-11-10T02:40:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -38,6 +38,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
       "title": "[VORIGINS S4] | The Collective | there was a harvest festival? and WE'RE invited??",
       "url": "https://www.twitch.tv/vvdragon_"
+    },
+    "452819536": {
+      "display_name": "AlfNAlf",
+      "game_name": "Minecraft",
+      "login": "alfnalf",
+      "started_at": "2026-11-10T02:37:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfnalf-{width}x{height}.jpg",
+      "title": "(EN) V-ORIGINS DAY 10 (The Festival)| !lurk",
+      "url": "https://www.twitch.tv/alfnalf"
     },
     "555456488": {
       "display_name": "vapVeran",
