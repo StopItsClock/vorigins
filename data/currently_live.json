@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-10T06:15:11Z",
+  "updated_at": "2026-11-10T06:20:11Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
@@ -38,15 +38,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_a__nubis-{width}x{height}.jpg",
       "title": "VORIGENS EPISODE 5-Rourke Dolmayan",
       "url": "https://www.twitch.tv/a__nubis"
-    },
-    "983832675": {
-      "display_name": "Meoweomell_Marsyus_Seliem",
-      "game_name": "Minecraft",
-      "login": "meoweomell_marsyus_seliem",
-      "started_at": "2026-11-10T01:37:52Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meoweomell_marsyus_seliem-{width}x{height}.jpg",
-      "title": "CROWNFALL | VORIGINS S4 [day 9] | Alexander Da Maris",
-      "url": "https://www.twitch.tv/meoweomell_marsyus_seliem"
     },
     "1380109945": {
       "display_name": "NovaAustralis",
