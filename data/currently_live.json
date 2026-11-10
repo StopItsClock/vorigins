@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-10T10:25:11Z",
+  "updated_at": "2026-11-10T10:40:10Z",
   "poll_seconds": 300,
   "live": {
     "160748634": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
       "title": "【VORIGINS】♡ I'm really building the Dock/Bridge i pROMISE ♡ !socials !tip #vorigins",
       "url": "https://www.twitch.tv/celiere"
+    },
+    "209565401": {
+      "display_name": "AidenChiiVT",
+      "game_name": "Minecraft",
+      "login": "aidenchiivt",
+      "started_at": "2026-11-10T10:39:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchiivt-{width}x{height}.jpg",
+      "title": "🦝| Vorigins: Crownfall | OOC: Chill grinding! | !Discord | !Socials |🦝👟👑",
+      "url": "https://www.twitch.tv/aidenchiivt"
     }
   },
   "login_updates": {}
