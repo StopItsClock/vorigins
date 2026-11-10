@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-10T22:45:10Z",
+  "updated_at": "2026-11-10T23:00:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,6 +11,24 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "It's a rough day to be a Crabapple. Most redeems currently broken. | Sir Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "68909866": {
+      "display_name": "PuckThePixieVT",
+      "game_name": "Music",
+      "login": "puckthepixievt",
+      "started_at": "2026-11-10T22:58:49Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
+      "title": "[18+] Short karaoke stream!!",
+      "url": "https://www.twitch.tv/puckthepixievt"
+    },
+    "1166441997": {
+      "display_name": "VexaraTV",
+      "game_name": "Minecraft",
+      "login": "vexaratv",
+      "started_at": "2026-11-10T22:59:38Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vexaratv-{width}x{height}.jpg",
+      "title": "ELDERGLEN'S GOT TALEN - VOrigins Crownfall - Lyra Lionheart ✨ Warframe ❄️ ┊ !discord !join !ign !tawawa  🎁",
+      "url": "https://www.twitch.tv/vexaratv"
     }
   },
   "login_updates": {}
