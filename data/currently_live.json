@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-10T02:05:10Z",
+  "updated_at": "2026-11-10T02:15:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -21,6 +21,24 @@
       "title": "꒰ 👑 VOrigins: Crownfall꒱ giant elf mothers calls you a good girl 🍃 Day 7: Elizabeth Erdo POV  🎨🌸 | Multi-stream | !vorigins !rp",
       "url": "https://www.twitch.tv/doeremi_"
     },
+    "77176298": {
+      "display_name": "ShivaRoseBloom",
+      "game_name": "Minecraft",
+      "login": "shivarosebloom",
+      "started_at": "2026-11-10T02:14:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
+      "title": "🌹[Minecraft] #VOriginsS4 Let us be merry and joyful under the Moon!",
+      "url": "https://www.twitch.tv/shivarosebloom"
+    },
+    "110867034": {
+      "display_name": "VVDragon_",
+      "game_name": "Minecraft",
+      "login": "vvdragon_",
+      "started_at": "2026-11-10T02:11:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
+      "title": "[VORIGINS S4] | The Collective | there was a harvest festival? and WE'RE invited??",
+      "url": "https://www.twitch.tv/vvdragon_"
+    },
     "686234820": {
       "display_name": "miyuwanchan",
       "game_name": "Minecraft",
@@ -38,15 +56,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meoweomell_marsyus_seliem-{width}x{height}.jpg",
       "title": "CROWNFALL | VORIGINS S4 [day 9] | Alexander Da Maris",
       "url": "https://www.twitch.tv/meoweomell_marsyus_seliem"
-    },
-    "1166441997": {
-      "display_name": "VexaraTV",
-      "game_name": "Warframe",
-      "login": "vexaratv",
-      "started_at": "2026-11-09T22:58:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vexaratv-{width}x{height}.jpg",
-      "title": "[100 PLAT GIVEAWAY !TAWAWA] IT'S NEVER TOO EARLY TO HO HO HO AROUND! ✨ Warframe ❄️ ┊ !discord !join !ign !tawawa  🎁",
-      "url": "https://www.twitch.tv/vexaratv"
     }
   },
   "login_updates": {}
