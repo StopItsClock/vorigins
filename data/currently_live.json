@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-10T05:35:10Z",
+  "updated_at": "2026-11-10T05:50:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -56,15 +56,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_a__nubis-{width}x{height}.jpg",
       "title": "VORIGENS EPISODE 5-Rourke Dolmayan",
       "url": "https://www.twitch.tv/a__nubis"
-    },
-    "686234820": {
-      "display_name": "miyuwanchan",
-      "game_name": "Minecraft",
-      "login": "miyuwanchan",
-      "started_at": "2026-11-10T02:03:00Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
-      "title": "Sugar, Spice and a little bit of poison? 🍞VORIGINS S4 🍞 | !vorigins !socials",
-      "url": "https://www.twitch.tv/miyuwanchan"
     },
     "983832675": {
       "display_name": "Meoweomell_Marsyus_Seliem",
