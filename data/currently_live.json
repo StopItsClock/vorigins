@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-10T02:40:10Z",
+  "updated_at": "2026-11-10T03:10:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -38,6 +38,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
       "title": "[VORIGINS S4] | The Collective | there was a harvest festival? and WE'RE invited??",
       "url": "https://www.twitch.tv/vvdragon_"
+    },
+    "243161944": {
+      "display_name": "DracolicheRen",
+      "game_name": "Minecraft",
+      "login": "dracolicheren",
+      "started_at": "2026-11-10T03:05:56Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
+      "title": "[ VOrigins S4 ] The festival is today!  | !Discord !lurk | 🐉🧟",
+      "url": "https://www.twitch.tv/dracolicheren"
     },
     "452819536": {
       "display_name": "AlfNAlf",
