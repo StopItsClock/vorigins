@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-10T06:40:10Z",
+  "updated_at": "2026-11-10T06:55:10Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
@@ -20,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
       "title": "【VORIGINS】♡ I'm really building the Dock/Bridge i pROMISE ♡ !socials !tip #vorigins",
       "url": "https://www.twitch.tv/celiere"
-    },
-    "555456488": {
-      "display_name": "vapVeran",
-      "game_name": "Minecraft",
-      "login": "vapveran",
-      "started_at": "2026-11-10T02:31:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vapveran-{width}x{height}.jpg",
-      "title": "[ V*Origins: Crownfall ] The GRAND Harvest Festival is today! !vorigins !character",
-      "url": "https://www.twitch.tv/vapveran"
     },
     "612172705": {
       "display_name": "A__NUBIS",
