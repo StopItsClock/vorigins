@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-10T06:20:11Z",
+  "updated_at": "2026-11-10T06:30:11Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
       "title": "[VORIGINS S4] | The Collective | there was a harvest festival? and WE'RE invited??",
       "url": "https://www.twitch.tv/vvdragon_"
+    },
+    "160748634": {
+      "display_name": "celiere",
+      "game_name": "Minecraft",
+      "login": "celiere",
+      "started_at": "2026-11-10T06:26:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
+      "title": "【VORIGINS】♡ I'm really building the Dock/Bridge i pROMISE ♡ !socials !tip #vorigins",
+      "url": "https://www.twitch.tv/celiere"
     },
     "555456488": {
       "display_name": "vapVeran",
