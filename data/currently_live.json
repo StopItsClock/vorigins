@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-11T09:35:10Z",
+  "updated_at": "2026-11-11T09:50:10Z",
   "poll_seconds": 300,
   "live": {
     "73150212": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
       "title": "[CROWNFALL] Late Night Grind and Soup Session #VoriginsS4",
       "url": "https://www.twitch.tv/xionfox"
-    },
-    "139155084": {
-      "display_name": "RaiineLive",
-      "game_name": "Minecraft",
-      "login": "raiinelive",
-      "started_at": "2026-11-11T03:07:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiinelive-{width}x{height}.jpg",
-      "title": "[VOrigins MCRP] Catching up with Crownfall!  | !badge !crownfall",
-      "url": "https://www.twitch.tv/raiinelive"
     },
     "1380109945": {
       "display_name": "NovaAustralis",
