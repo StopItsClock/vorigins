@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-11T03:40:10Z",
+  "updated_at": "2026-11-11T03:55:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -74,15 +74,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
       "title": "{VOrigins Crownfall SMP} Day 8//Winnifred Sterling// On the road again",
       "url": "https://www.twitch.tv/66grimdemise66"
-    },
-    "714177656": {
-      "display_name": "FreyjaRabbit",
-      "game_name": "An Eggstremely Hard Game",
-      "login": "freyjarabbit",
-      "started_at": "2026-11-11T02:01:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_freyjarabbit-{width}x{height}.jpg",
-      "title": "testing my friendship with rosa! | !kofi !prismaria !vgen",
-      "url": "https://www.twitch.tv/freyjarabbit"
     },
     "1350182752": {
       "display_name": "Caramoreli",
