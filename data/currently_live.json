@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-11T01:35:10Z",
+  "updated_at": "2026-11-11T01:50:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -29,6 +29,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vexaratv-{width}x{height}.jpg",
       "title": "ELDERGLEN'S GOT TALENT - VOrigins Crownfall - Lyra Lionheart ✨ Warframe ❄️ ┊ !discord !join !ign !tawawa  🎁",
       "url": "https://www.twitch.tv/vexaratv"
+    },
+    "1350182752": {
+      "display_name": "Caramoreli",
+      "game_name": "Minecraft",
+      "login": "caramoreli",
+      "started_at": "2026-11-11T01:49:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_caramoreli-{width}x{height}.jpg",
+      "title": "A chill day maybe? | [Vorigins Crownfall] Day 8",
+      "url": "https://www.twitch.tv/caramoreli"
     }
   },
   "login_updates": {}
