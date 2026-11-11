@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-11T04:15:10Z",
+  "updated_at": "2026-11-11T04:35:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -83,15 +83,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
       "title": "{VOrigins Crownfall SMP} Day 8//Winnifred Sterling// On the road again",
       "url": "https://www.twitch.tv/66grimdemise66"
-    },
-    "1350182752": {
-      "display_name": "Caramoreli",
-      "game_name": "Minecraft",
-      "login": "caramoreli",
-      "started_at": "2026-11-11T01:49:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_caramoreli-{width}x{height}.jpg",
-      "title": "A chill day maybe? | [Vorigins Crownfall] Day 8",
-      "url": "https://www.twitch.tv/caramoreli"
     }
   },
   "login_updates": {}
