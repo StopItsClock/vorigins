@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-11T02:45:10Z",
+  "updated_at": "2026-11-11T02:50:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -29,6 +29,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
       "title": "[VORIGINS S4] | The Collective | i am no longer asking",
       "url": "https://www.twitch.tv/vvdragon_"
+    },
+    "487437198": {
+      "display_name": "ShizukaCh",
+      "game_name": "Minecraft",
+      "login": "shizukach",
+      "started_at": "2026-11-11T02:46:18Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
+      "title": "🤍🎑【 V-ORIGINS DAY 11 】your honor, it's peak. ashen peak. ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte ✦ !vorigins",
+      "url": "https://www.twitch.tv/shizukach"
     },
     "495919620": {
       "display_name": "66GrimDemise66",
