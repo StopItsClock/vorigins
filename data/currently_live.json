@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-11T02:05:10Z",
+  "updated_at": "2026-11-11T02:15:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_helpinghand97-{width}x{height}.jpg",
       "title": "Flo returns from the deep sea splunky",
       "url": "https://www.twitch.tv/helpinghand97"
+    },
+    "495919620": {
+      "display_name": "66GrimDemise66",
+      "game_name": "Minecraft",
+      "login": "66grimdemise66",
+      "started_at": "2026-11-11T02:11:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
+      "title": "{VOrigins Crownfall SMP} Day 8//Winnifred Sterling// On the road again",
+      "url": "https://www.twitch.tv/66grimdemise66"
     },
     "714177656": {
       "display_name": "FreyjaRabbit",
