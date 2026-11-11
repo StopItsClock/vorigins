@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-11T03:55:10Z",
+  "updated_at": "2026-11-11T04:15:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -29,6 +29,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
       "title": "[18+] [VOrigins Season 4] 2irish4me it's Rourvestag time!",
       "url": "https://www.twitch.tv/puckthepixievt"
+    },
+    "73150212": {
+      "display_name": "XionFox",
+      "game_name": "Minecraft",
+      "login": "xionfox",
+      "started_at": "2026-11-11T04:13:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
+      "title": "[CROWNFALL] Late Night Grind and Soup Session #VoriginsS4",
+      "url": "https://www.twitch.tv/xionfox"
     },
     "77176298": {
       "display_name": "ShivaRoseBloom",
