@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-10T19:11:35Z",
+  "updated_at": "2026-11-11T09:54:36Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -327,7 +327,7 @@
       },
       "head": true,
       "name": "Scylla Greystrom",
-      "role": "",
+      "role": "Advisor of Still Water (Alliance Advisor)",
       "age": "49",
       "height": "5'9",
       "race": "Water Genasi",
