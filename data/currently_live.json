@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-11T02:20:10Z",
+  "updated_at": "2026-11-11T02:25:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -38,15 +38,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_freyjarabbit-{width}x{height}.jpg",
       "title": "testing my friendship with rosa! | !kofi !prismaria !vgen",
       "url": "https://www.twitch.tv/freyjarabbit"
-    },
-    "1166441997": {
-      "display_name": "VexaraTV",
-      "game_name": "Minecraft",
-      "login": "vexaratv",
-      "started_at": "2026-11-10T22:59:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vexaratv-{width}x{height}.jpg",
-      "title": "ELDERGLEN'S GOT TALENT - VOrigins Crownfall - Lyra Lionheart ✨ Warframe ❄️ ┊ !discord !join !ign !tawawa  🎁",
-      "url": "https://www.twitch.tv/vexaratv"
     },
     "1350182752": {
       "display_name": "Caramoreli",
