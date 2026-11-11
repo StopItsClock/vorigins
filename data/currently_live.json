@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-11T01:50:11Z",
+  "updated_at": "2026-11-11T02:05:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_helpinghand97-{width}x{height}.jpg",
       "title": "Flo returns from the deep sea splunky",
       "url": "https://www.twitch.tv/helpinghand97"
+    },
+    "714177656": {
+      "display_name": "FreyjaRabbit",
+      "game_name": "An Eggstremely Hard Game",
+      "login": "freyjarabbit",
+      "started_at": "2026-11-11T02:01:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_freyjarabbit-{width}x{height}.jpg",
+      "title": "testing my friendship with rosa! | !kofi !prismaria !vgen",
+      "url": "https://www.twitch.tv/freyjarabbit"
     },
     "1166441997": {
       "display_name": "VexaraTV",
