@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-11T09:30:10Z",
+  "updated_at": "2026-11-11T09:35:10Z",
   "poll_seconds": 300,
   "live": {
     "73150212": {
@@ -20,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiinelive-{width}x{height}.jpg",
       "title": "[VOrigins MCRP] Catching up with Crownfall!  | !badge !crownfall",
       "url": "https://www.twitch.tv/raiinelive"
-    },
-    "612172705": {
-      "display_name": "A__NUBIS",
-      "game_name": "Minecraft",
-      "login": "a__nubis",
-      "started_at": "2026-11-11T08:28:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_a__nubis-{width}x{height}.jpg",
-      "title": "VORIGENS EPISODE 6-Rourke Dolmayan",
-      "url": "https://www.twitch.tv/a__nubis"
     },
     "1380109945": {
       "display_name": "NovaAustralis",
