@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-11T06:30:10Z",
+  "updated_at": "2026-11-11T06:50:10Z",
   "poll_seconds": 300,
   "live": {
     "73150212": {
@@ -20,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
       "title": "🌹[Minecraft] #VOriginsS4 More experience for the Mother Moon!",
       "url": "https://www.twitch.tv/shivarosebloom"
-    },
-    "110867034": {
-      "display_name": "VVDragon_",
-      "game_name": "Minecraft",
-      "login": "vvdragon_",
-      "started_at": "2026-11-11T02:41:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
-      "title": "[VORIGINS S4] | The Collective | i am no longer asking",
-      "url": "https://www.twitch.tv/vvdragon_"
     },
     "139155084": {
       "display_name": "RaiineLive",
