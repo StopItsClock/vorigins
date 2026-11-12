@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-12T12:10:10Z",
+  "updated_at": "2026-11-12T12:35:10Z",
   "poll_seconds": 300,
-  "live": {
-    "160748634": {
-      "display_name": "celiere",
-      "game_name": "Art",
-      "login": "celiere",
-      "started_at": "2026-11-12T03:39:06Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
-      "title": "【ART】♡ Sister Syzygy from VORIGINS! ♡ !socials !tip #vorigins",
-      "url": "https://www.twitch.tv/celiere"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
