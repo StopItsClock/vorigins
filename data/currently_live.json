@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-12T03:30:11Z",
+  "updated_at": "2026-11-12T03:40:10Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
       "title": "I'm back in The BUILDING AGAIN 🧊 !pine !socials !cover 🍧 @frostedplague7",
       "url": "https://www.twitch.tv/frostedplague7"
+    },
+    "160748634": {
+      "display_name": "celiere",
+      "game_name": "Art",
+      "login": "celiere",
+      "started_at": "2026-11-12T03:39:06Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
+      "title": "【ART】♡ sleeby day... ♡ !socials !tip #vorigins",
+      "url": "https://www.twitch.tv/celiere"
     },
     "938069605": {
       "display_name": "CedarVT",
