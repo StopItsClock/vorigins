@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-12T02:50:10Z",
+  "updated_at": "2026-11-12T03:00:10Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
       "title": "I'm back in The BUILDING AGAIN 🧊 !pine !socials !cover 🍧 @frostedplague7",
       "url": "https://www.twitch.tv/frostedplague7"
+    },
+    "938069605": {
+      "display_name": "CedarVT",
+      "game_name": "Pokémon Infinite Fusion",
+      "login": "cedarvt",
+      "started_at": "2026-11-12T02:57:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
+      "title": "Back on the Nuzlock grind! ~🍂 !discord !merch",
+      "url": "https://www.twitch.tv/cedarvt"
     },
     "1380109945": {
       "display_name": "NovaAustralis",
