@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-12T19:10:10Z",
+  "updated_at": "2026-11-12T19:30:10Z",
   "poll_seconds": 300,
-  "live": {
-    "835371235": {
-      "display_name": "MizuRelictus",
-      "game_name": "TROLLHEIM: GNOMES",
-      "login": "mizurelictus",
-      "started_at": "2026-11-12T17:25:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
-      "title": "[Trollheim Gnomes] Finally experiencing life from the short friend POV",
-      "url": "https://www.twitch.tv/mizurelictus"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
