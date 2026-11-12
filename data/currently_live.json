@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-12T05:00:10Z",
+  "updated_at": "2026-11-12T05:20:11Z",
   "poll_seconds": 300,
   "live": {
     "119893530": {
@@ -29,15 +29,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
       "title": "Back on the Nuzlock grind! ~🍂 !discord !merch",
       "url": "https://www.twitch.tv/cedarvt"
-    },
-    "1380109945": {
-      "display_name": "NovaAustralis",
-      "game_name": "Deadlock",
-      "login": "novaaustralis",
-      "started_at": "2026-11-12T01:03:03Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_novaaustralis-{width}x{height}.jpg",
-      "title": "[Novaember Day 11]  Birthday time! Yippie! [ idk bro we yap then maybe game? ] !discord !socials !pet",
-      "url": "https://www.twitch.tv/novaaustralis"
     }
   },
   "login_updates": {}
