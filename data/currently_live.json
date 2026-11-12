@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-12T05:25:10Z",
+  "updated_at": "2026-11-12T05:40:10Z",
   "poll_seconds": 300,
   "live": {
     "119893530": {
@@ -20,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
       "title": "【ART】♡ Sister Syzygy from VORIGINS! ♡ !socials !tip #vorigins",
       "url": "https://www.twitch.tv/celiere"
-    },
-    "938069605": {
-      "display_name": "CedarVT",
-      "game_name": "Pokémon Infinite Fusion",
-      "login": "cedarvt",
-      "started_at": "2026-11-12T02:57:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
-      "title": "Back on the Nuzlock grind! ~🍂 !discord !merch",
-      "url": "https://www.twitch.tv/cedarvt"
     }
   },
   "login_updates": {}
