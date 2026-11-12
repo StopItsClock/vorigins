@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-12T04:10:10Z",
+  "updated_at": "2026-11-12T04:30:11Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -41,7 +41,7 @@
     },
     "1380109945": {
       "display_name": "NovaAustralis",
-      "game_name": "Just Chatting",
+      "game_name": "Deadlock",
       "login": "novaaustralis",
       "started_at": "2026-11-12T01:03:03Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_novaaustralis-{width}x{height}.jpg",
