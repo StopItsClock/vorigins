@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-11T17:25:10Z",
+  "updated_at": "2026-11-12T00:35:10Z",
   "poll_seconds": 300,
-  "live": {},
+  "live": {
+    "119893530": {
+      "display_name": "FrostedPlague7",
+      "game_name": "League of Legends",
+      "login": "frostedplague7",
+      "started_at": "2026-11-12T00:34:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
+      "title": "I'm back in The BUILDING AGAIN 🧊 !pine !socials !cover 🍧 @frostedplague7",
+      "url": "https://www.twitch.tv/frostedplague7"
+    }
+  },
   "login_updates": {}
 }
