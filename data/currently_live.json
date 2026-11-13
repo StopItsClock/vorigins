@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-13T07:55:10Z",
+  "updated_at": "2026-11-13T08:05:10Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
@@ -20,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiinelive-{width}x{height}.jpg",
       "title": "[VOrigins MCRP] Perhaps a quiet night in Asteria? | !badge !crownfall",
       "url": "https://www.twitch.tv/raiinelive"
-    },
-    "612172705": {
-      "display_name": "A__NUBIS",
-      "game_name": "World of Warcraft",
-      "login": "a__nubis",
-      "started_at": "2026-11-13T05:29:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_a__nubis-{width}x{height}.jpg",
-      "title": "Robots First Time in WOW",
-      "url": "https://www.twitch.tv/a__nubis"
     },
     "819211356": {
       "display_name": "AlectoEumenid",
