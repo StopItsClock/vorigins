@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-13T22:25:10Z",
+  "updated_at": "2026-11-13T23:00:13Z",
   "poll_seconds": 300,
-  "live": {},
+  "live": {
+    "58276005": {
+      "display_name": "Banana_Ramajama",
+      "game_name": "Minecraft",
+      "login": "banana_ramajama",
+      "started_at": "2026-11-13T22:57:03Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
+      "title": "The Crabapple of my eye | Sir Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
+      "url": "https://www.twitch.tv/banana_ramajama"
+    }
+  },
   "login_updates": {}
 }
