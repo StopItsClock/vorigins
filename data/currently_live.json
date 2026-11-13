@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-13T00:25:10Z",
+  "updated_at": "2026-11-13T01:00:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -23,11 +23,11 @@
     },
     "68909866": {
       "display_name": "PuckThePixieVT",
-      "game_name": "Just Chatting",
+      "game_name": "Co-working & Studying",
       "login": "puckthepixievt",
       "started_at": "2026-11-12T23:13:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
-      "title": "[18+] Haha! Idk what I'm doing! Kao ni suwatte hoshi!",
+      "title": "[18+] [Chill co working] Game dev time! Kao ni suwatte hoshi!",
       "url": "https://www.twitch.tv/puckthepixievt"
     }
   },
