@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-13T03:25:10Z",
+  "updated_at": "2026-11-13T03:30:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
       "title": "꒰ 👑 VOrigins: Crownfall꒱ elf mothers calls you a good girl 🍃 Day 7: Elizabeth Erdo POV  🎨🌸 | Multi-stream | !vorigins !rp",
       "url": "https://www.twitch.tv/doeremi_"
+    },
+    "243161944": {
+      "display_name": "DracolicheRen",
+      "game_name": "Minecraft",
+      "login": "dracolicheren",
+      "started_at": "2026-11-13T03:27:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
+      "title": "[ VOrigins S4 ] Time to get to work!🐦‍⬛  | !Discord !lurk | 🐉🧟",
+      "url": "https://www.twitch.tv/dracolicheren"
     },
     "761873718": {
       "display_name": "cylinks_owo",
@@ -47,6 +56,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meoweomell_marsyus_seliem-{width}x{height}.jpg",
       "title": "CROWNFALL | VORIGINS S4 [day 10] | Alexander Da Maris",
       "url": "https://www.twitch.tv/meoweomell_marsyus_seliem"
+    },
+    "1380109945": {
+      "display_name": "NovaAustralis",
+      "game_name": "Minecraft",
+      "login": "novaaustralis",
+      "started_at": "2026-11-13T03:28:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_novaaustralis-{width}x{height}.jpg",
+      "title": "[Novaember Day 12]  An endless song even when the lights go down [Vorigins: Crownfall ] !discord !socials !pet",
+      "url": "https://www.twitch.tv/novaaustralis"
     }
   },
   "login_updates": {}
