@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-13T06:10:11Z",
+  "updated_at": "2026-11-13T06:35:10Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -12,6 +12,15 @@
       "title": "꒰ 👑 VOrigins: Crownfall꒱ elf mothers calls you a good girl 🍃 Day 7: Elizabeth Erdo POV  🎨🌸 | Multi-stream | !vorigins !rp",
       "url": "https://www.twitch.tv/doeremi_"
     },
+    "77176298": {
+      "display_name": "ShivaRoseBloom",
+      "game_name": "Minecraft",
+      "login": "shivarosebloom",
+      "started_at": "2026-11-13T06:31:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
+      "title": "🌹[Minecraft] #VOriginsS4 Prayers in the water",
+      "url": "https://www.twitch.tv/shivarosebloom"
+    },
     "139155084": {
       "display_name": "RaiineLive",
       "game_name": "Minecraft",
@@ -20,15 +29,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiinelive-{width}x{height}.jpg",
       "title": "[VOrigins MCRP] Perhaps a quiet night in Asteria? | !badge !crownfall",
       "url": "https://www.twitch.tv/raiinelive"
-    },
-    "243161944": {
-      "display_name": "DracolicheRen",
-      "game_name": "Minecraft",
-      "login": "dracolicheren",
-      "started_at": "2026-11-13T03:27:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dracolicheren-{width}x{height}.jpg",
-      "title": "[ VOrigins S4 ] Time to get to work!🐦‍⬛  | !Discord !lurk | 🐉🧟",
-      "url": "https://www.twitch.tv/dracolicheren"
     },
     "612172705": {
       "display_name": "A__NUBIS",
