@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-13T23:00:13Z",
+  "updated_at": "2026-11-13T23:10:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "The Crabapple of my eye | Sir Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "714177656": {
+      "display_name": "FreyjaRabbit",
+      "game_name": "Minecraft",
+      "login": "freyjarabbit",
+      "started_at": "2026-11-13T23:06:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_freyjarabbit-{width}x{height}.jpg",
+      "title": "V✧ORIGINS EPISODE 3! cooking, brewing, and trading! !vorigins | !kofi !prismaria !vgen",
+      "url": "https://www.twitch.tv/freyjarabbit"
     }
   },
   "login_updates": {}
