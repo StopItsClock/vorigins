@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-13T03:30:10Z",
+  "updated_at": "2026-11-13T03:40:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -47,6 +47,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
       "title": "【VOrigins S4: Crownfall】Mysteries Are Upon Us {18+} // !discord !socials //",
       "url": "https://www.twitch.tv/alectoeumenid"
+    },
+    "938069605": {
+      "display_name": "CedarVT",
+      "game_name": "Minecraft",
+      "login": "cedarvt",
+      "started_at": "2026-11-13T03:38:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
+      "title": "[CrownFall] My the Arrows I fire strike true ~🍂 !discord !merch",
+      "url": "https://www.twitch.tv/cedarvt"
     },
     "983832675": {
       "display_name": "Meoweomell_Marsyus_Seliem",
