@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-13T04:15:10Z",
+  "updated_at": "2026-11-13T04:30:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
       "title": "꒰ 👑 VOrigins: Crownfall꒱ elf mothers calls you a good girl 🍃 Day 7: Elizabeth Erdo POV  🎨🌸 | Multi-stream | !vorigins !rp",
       "url": "https://www.twitch.tv/doeremi_"
+    },
+    "139155084": {
+      "display_name": "RaiineLive",
+      "game_name": "Minecraft",
+      "login": "raiinelive",
+      "started_at": "2026-11-13T04:25:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiinelive-{width}x{height}.jpg",
+      "title": "[VOrigins MCRP] Perhaps a quiet night in Asteria? | !badge !crownfall",
+      "url": "https://www.twitch.tv/raiinelive"
     },
     "243161944": {
       "display_name": "DracolicheRen",
