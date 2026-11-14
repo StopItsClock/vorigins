@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-14T18:50:11Z",
+  "updated_at": "2026-11-14T19:15:10Z",
   "poll_seconds": 300,
-  "live": {
-    "886081934": {
-      "display_name": "wiltedIrony",
-      "game_name": "Tomodachi Life: Living the Dream",
-      "login": "wiltedirony",
-      "started_at": "2026-11-14T17:10:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wiltedirony-{width}x{height}.jpg",
-      "title": "1st time playing Tomodachi life! | !discord !roll !clip [ENG/ARA]",
-      "url": "https://www.twitch.tv/wiltedirony"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
