@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-14T05:30:10Z",
+  "updated_at": "2026-11-14T05:40:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -47,6 +47,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
       "title": "꒰ 🐾 VOrigins: Crownfall꒱ MORE LORE | Minecraft RP🧊 !rp !map !socials 🍧 @frostedplague7",
       "url": "https://www.twitch.tv/frostedplague7"
+    },
+    "160748634": {
+      "display_name": "celiere",
+      "game_name": "Minecraft",
+      "login": "celiere",
+      "started_at": "2026-11-14T05:39:18Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
+      "title": "【VORIGINS】♡ More on the Trading Docks! ough... ♡ !socials !tip #vorigins",
+      "url": "https://www.twitch.tv/celiere"
     },
     "938069605": {
       "display_name": "CedarVT",
