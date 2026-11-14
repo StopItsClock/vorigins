@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-14T05:00:10Z",
+  "updated_at": "2026-11-14T05:10:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -61,7 +61,7 @@
       "display_name": "CedarVT",
       "game_name": "Minecraft",
       "login": "cedarvt",
-      "started_at": "2026-11-14T04:56:12Z",
+      "started_at": "2026-11-14T05:09:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
       "title": "[CrownFall] My the Arrows I fire strike true ~🍂 !discord !merch",
       "url": "https://www.twitch.tv/cedarvt"
