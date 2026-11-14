@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-14T08:15:10Z",
+  "updated_at": "2026-11-14T08:45:10Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -20,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
       "title": "🌹[Minecraft] #VOriginsS4 The nun is a little under the weather! Be gentle!",
       "url": "https://www.twitch.tv/shivarosebloom"
-    },
-    "119893530": {
-      "display_name": "FrostedPlague7",
-      "game_name": "Minecraft",
-      "login": "frostedplague7",
-      "started_at": "2026-11-14T01:30:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
-      "title": "꒰ 🐾 VOrigins: Crownfall꒱ MORE LORE | Minecraft RP🧊 !rp !map !socials 🍧 @frostedplague7",
-      "url": "https://www.twitch.tv/frostedplague7"
     },
     "160748634": {
       "display_name": "celiere",
