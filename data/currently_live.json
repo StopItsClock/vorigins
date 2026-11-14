@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-14T04:50:10Z",
+  "updated_at": "2026-11-14T05:00:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -56,6 +56,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfnalf-{width}x{height}.jpg",
       "title": "(EN) V-ORIGINS DAY 13 cause we skipped day 12| !lurk",
       "url": "https://www.twitch.tv/alfnalf"
+    },
+    "938069605": {
+      "display_name": "CedarVT",
+      "game_name": "Minecraft",
+      "login": "cedarvt",
+      "started_at": "2026-11-14T04:56:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
+      "title": "[CrownFall] My the Arrows I fire strike true ~🍂 !discord !merch",
+      "url": "https://www.twitch.tv/cedarvt"
     },
     "983832675": {
       "display_name": "Meoweomell_Marsyus_Seliem",
