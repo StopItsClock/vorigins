@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-14T02:35:10Z",
+  "updated_at": "2026-11-14T03:10:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -21,6 +21,15 @@
       "title": "꒰ 👑 VOrigins: Crownfall꒱ Party Prep!! 🍃 !rp as Elizabeth Erdo 🎨🌸 | !vorigins",
       "url": "https://www.twitch.tv/doeremi_"
     },
+    "110867034": {
+      "display_name": "VVDragon_",
+      "game_name": "Minecraft",
+      "login": "vvdragon_",
+      "started_at": "2026-11-14T03:07:17Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
+      "title": "[VORIGINS S4] | The Collective | Pulling back the curtain",
+      "url": "https://www.twitch.tv/vvdragon_"
+    },
     "119893530": {
       "display_name": "FrostedPlague7",
       "game_name": "Minecraft",
@@ -38,6 +47,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meoweomell_marsyus_seliem-{width}x{height}.jpg",
       "title": "CROWNFALL | VORIGINS S4 [day 11] | Alexander Da Maris",
       "url": "https://www.twitch.tv/meoweomell_marsyus_seliem"
+    },
+    "1380109945": {
+      "display_name": "NovaAustralis",
+      "game_name": "Minecraft",
+      "login": "novaaustralis",
+      "started_at": "2026-11-14T03:05:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_novaaustralis-{width}x{height}.jpg",
+      "title": "[Novaember Day 13] THE SLEEPIEST GIRL EVER!!!!![Vorigins: Crownfall ] !discord !socials !pet",
+      "url": "https://www.twitch.tv/novaaustralis"
     }
   },
   "login_updates": {}
