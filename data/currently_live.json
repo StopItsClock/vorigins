@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-14T05:50:10Z",
+  "updated_at": "2026-11-14T06:15:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -65,15 +65,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_a__nubis-{width}x{height}.jpg",
       "title": "Rourke Dolmayan VORIGENS!!!!!",
       "url": "https://www.twitch.tv/a__nubis"
-    },
-    "938069605": {
-      "display_name": "CedarVT",
-      "game_name": "Minecraft",
-      "login": "cedarvt",
-      "started_at": "2026-11-14T05:09:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
-      "title": "[CrownFall] My the Arrows I fire strike true ~🍂 !discord !merch",
-      "url": "https://www.twitch.tv/cedarvt"
     },
     "983832675": {
       "display_name": "Meoweomell_Marsyus_Seliem",
