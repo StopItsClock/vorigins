@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-15T04:00:10Z",
+  "updated_at": "2026-11-15T04:20:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -74,15 +74,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
       "title": "【VORIGINS】♡ TALENT SHOW! ♡ !socials !tip #vorigins",
       "url": "https://www.twitch.tv/celiere"
-    },
-    "239191238": {
-      "display_name": "RedBladeCrimson",
-      "game_name": "Minecraft",
-      "login": "redbladecrimson",
-      "started_at": "2026-11-15T01:00:21Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
-      "title": "Henchmen productivity with some emotes and then v-origins roleplaying!",
-      "url": "https://www.twitch.tv/redbladecrimson"
     },
     "443242156": {
       "display_name": "YeonoVt",
