@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-15T01:00:10Z",
+  "updated_at": "2026-11-15T01:05:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -38,6 +38,24 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostoni_-{width}x{height}.jpg",
       "title": "V-Origins Crownfall #7 | !discord | Minecraft",
       "url": "https://www.twitch.tv/lostoni_"
+    },
+    "239191238": {
+      "display_name": "RedBladeCrimson",
+      "game_name": "Art",
+      "login": "redbladecrimson",
+      "started_at": "2026-11-15T01:00:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
+      "title": "Henchmen productivity with some emotes and then v-origins roleplaying!",
+      "url": "https://www.twitch.tv/redbladecrimson"
+    },
+    "612172705": {
+      "display_name": "A__NUBIS",
+      "game_name": "Minecraft",
+      "login": "a__nubis",
+      "started_at": "2026-11-15T01:03:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_a__nubis-{width}x{height}.jpg",
+      "title": "Rourke Dolmayan VORIGENS!!!!!",
+      "url": "https://www.twitch.tv/a__nubis"
     },
     "819211356": {
       "display_name": "AlectoEumenid",
