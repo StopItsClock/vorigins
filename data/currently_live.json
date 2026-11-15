@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-15T07:35:10Z",
+  "updated_at": "2026-11-15T08:05:10Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -29,15 +29,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
       "title": "[VORIGINS S4] | The Collective [SPOILERS!!] | The Talent Show",
       "url": "https://www.twitch.tv/vvdragon_"
-    },
-    "139155084": {
-      "display_name": "RaiineLive",
-      "game_name": "Minecraft",
-      "login": "raiinelive",
-      "started_at": "2026-11-15T01:50:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiinelive-{width}x{height}.jpg",
-      "title": "[VOrigins Event Night!] The Talent Show! | !badge !crownfall",
-      "url": "https://www.twitch.tv/raiinelive"
     },
     "160748634": {
       "display_name": "celiere",
