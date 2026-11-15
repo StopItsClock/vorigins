@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-15T18:40:10Z",
+  "updated_at": "2026-11-15T19:00:10Z",
   "poll_seconds": 300,
-  "live": {
-    "1166441997": {
-      "display_name": "VexaraTV",
-      "game_name": "Warframe",
-      "login": "vexaratv",
-      "started_at": "2026-11-15T15:56:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vexaratv-{width}x{height}.jpg",
-      "title": "[ ᴘʟᴀᴛ ɢɪᴠᴇᴀᴡᴀʏ ] MOONFLESH FOR GRANDMOTHER AND RELICS! ✨ Warframe ❄️ ┊ !discord !join !ign !tawawa  🎁",
-      "url": "https://www.twitch.tv/vexaratv"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
