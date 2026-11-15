@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-15T09:25:10Z",
+  "updated_at": "2026-11-15T09:45:10Z",
   "poll_seconds": 300,
   "live": {
-    "77176298": {
-      "display_name": "ShivaRoseBloom",
-      "game_name": "Minecraft",
-      "login": "shivarosebloom",
-      "started_at": "2026-11-15T01:22:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
-      "title": "🌹[Minecraft] #VOriginsS4 There's a talent show going on! Let's make people laugh!!",
-      "url": "https://www.twitch.tv/shivarosebloom"
-    },
     "160748634": {
       "display_name": "celiere",
       "game_name": "Minecraft",
