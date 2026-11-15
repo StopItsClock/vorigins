@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-15T07:25:10Z",
+  "updated_at": "2026-11-15T07:30:10Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -56,15 +56,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
       "title": "【VOrigins S4: Crownfall】Talent Shows Are Spectacular! {18+} // !discord !socials //",
       "url": "https://www.twitch.tv/alectoeumenid"
-    },
-    "938069605": {
-      "display_name": "CedarVT",
-      "game_name": "Minecraft",
-      "login": "cedarvt",
-      "started_at": "2026-11-15T03:32:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
-      "title": "[CrownFall] My the Arrows I fire strike true ~🍂 !discord !merch",
-      "url": "https://www.twitch.tv/cedarvt"
     },
     "1380109945": {
       "display_name": "NovaAustralis",
