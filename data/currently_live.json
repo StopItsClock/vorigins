@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-15T01:20:10Z",
+  "updated_at": "2026-11-15T01:25:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -30,6 +30,15 @@
       "title": "We back from Miami! Back to Normal Schedule! Persona 5 Royal and then VOrigins tonight!",
       "url": "https://www.twitch.tv/helpinghand97"
     },
+    "77176298": {
+      "display_name": "ShivaRoseBloom",
+      "game_name": "Minecraft",
+      "login": "shivarosebloom",
+      "started_at": "2026-11-15T01:22:59Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
+      "title": "🌹[Minecraft] #VOriginsS4 There's a talent show going on! Let's make people laugh!!",
+      "url": "https://www.twitch.tv/shivarosebloom"
+    },
     "119893530": {
       "display_name": "FrostedPlague7",
       "game_name": "PEAK",
@@ -38,15 +47,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
       "title": "It's Cold At The Top -> Minecraft RP🧊 !naa !pine !socials 🍧 @frostedplague7",
       "url": "https://www.twitch.tv/frostedplague7"
-    },
-    "231199835": {
-      "display_name": "LostOni_",
-      "game_name": "Minecraft",
-      "login": "lostoni_",
-      "started_at": "2026-11-15T01:18:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostoni_-{width}x{height}.jpg",
-      "title": "V-Origins Crownfall #7 | !discord | Minecraft",
-      "url": "https://www.twitch.tv/lostoni_"
     },
     "239191238": {
       "display_name": "RedBladeCrimson",
