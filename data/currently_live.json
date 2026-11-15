@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-15T02:25:10Z",
+  "updated_at": "2026-11-15T02:30:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -128,6 +128,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
       "title": "【VOrigins S4: Crownfall】Talent Shows Are Spectacular! {18+} // !discord !socials //",
       "url": "https://www.twitch.tv/alectoeumenid"
+    },
+    "855636522": {
+      "display_name": "RootedMoon1506",
+      "game_name": "Minecraft",
+      "login": "rootedmoon1506",
+      "started_at": "2026-11-15T02:28:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rootedmoon1506-{width}x{height}.jpg",
+      "title": "[Vorigins Season 4] The Eldergen Talent Show, my time to shine",
+      "url": "https://www.twitch.tv/rootedmoon1506"
     },
     "983832675": {
       "display_name": "Meoweomell_Marsyus_Seliem",
