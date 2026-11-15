@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-15T01:25:10Z",
+  "updated_at": "2026-11-15T01:45:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -57,6 +57,15 @@
       "title": "Henchmen productivity with some emotes and then v-origins roleplaying!",
       "url": "https://www.twitch.tv/redbladecrimson"
     },
+    "495919620": {
+      "display_name": "66GrimDemise66",
+      "game_name": "Minecraft",
+      "login": "66grimdemise66",
+      "started_at": "2026-11-15T01:41:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
+      "title": "{VOrigins Crownfall SMP} Day 9//Winnifred Sterling// The Talent show",
+      "url": "https://www.twitch.tv/66grimdemise66"
+    },
     "612172705": {
       "display_name": "A__NUBIS",
       "game_name": "Minecraft",
@@ -74,6 +83,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
       "title": "【VOrigins S4: Crownfall】Talent Shows Are Spectacular! {18+} // !discord !socials //",
       "url": "https://www.twitch.tv/alectoeumenid"
+    },
+    "983832675": {
+      "display_name": "Meoweomell_Marsyus_Seliem",
+      "game_name": "Minecraft",
+      "login": "meoweomell_marsyus_seliem",
+      "started_at": "2026-11-15T01:40:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meoweomell_marsyus_seliem-{width}x{height}.jpg",
+      "title": "CROWNFALL | VORIGINS S4 [day 12] | Alexander Da Maris",
+      "url": "https://www.twitch.tv/meoweomell_marsyus_seliem"
     }
   },
   "login_updates": {}
