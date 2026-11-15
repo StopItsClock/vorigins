@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-15T04:20:10Z",
+  "updated_at": "2026-11-15T04:50:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -75,14 +75,14 @@
       "title": "【VORIGINS】♡ TALENT SHOW! ♡ !socials !tip #vorigins",
       "url": "https://www.twitch.tv/celiere"
     },
-    "443242156": {
-      "display_name": "YeonoVt",
-      "game_name": "Left 4 Dead 2",
-      "login": "yeonovt",
-      "started_at": "2026-11-15T02:57:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeonovt-{width}x{height}.jpg",
-      "title": "໒Left 4 Dead 2১ Im cooked | Shared Chat!! !lurk !unlurk",
-      "url": "https://www.twitch.tv/yeonovt"
+    "452819536": {
+      "display_name": "AlfNAlf",
+      "game_name": "Minecraft",
+      "login": "alfnalf",
+      "started_at": "2026-11-15T04:47:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfnalf-{width}x{height}.jpg",
+      "title": "(EN) V-ORIGINS DAY 14| !lurk",
+      "url": "https://www.twitch.tv/alfnalf"
     },
     "495919620": {
       "display_name": "66GrimDemise66",
@@ -110,15 +110,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_a__nubis-{width}x{height}.jpg",
       "title": "Rourke Dolmayan VORIGENS!!!!!",
       "url": "https://www.twitch.tv/a__nubis"
-    },
-    "761873718": {
-      "display_name": "cylinks_owo",
-      "game_name": "Left 4 Dead 2",
-      "login": "cylinks_owo",
-      "started_at": "2026-11-15T01:59:32Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cylinks_owo-{width}x{height}.jpg",
-      "title": "I ruined Left 4 Dead 2 for my friends with mods",
-      "url": "https://www.twitch.tv/cylinks_owo"
     },
     "819211356": {
       "display_name": "AlectoEumenid",
