@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-15T00:50:11Z",
+  "updated_at": "2026-11-15T01:00:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -38,6 +38,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostoni_-{width}x{height}.jpg",
       "title": "V-Origins Crownfall #7 | !discord | Minecraft",
       "url": "https://www.twitch.tv/lostoni_"
+    },
+    "819211356": {
+      "display_name": "AlectoEumenid",
+      "game_name": "Minecraft",
+      "login": "alectoeumenid",
+      "started_at": "2026-11-15T00:59:38Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
+      "title": "【VOrigins S4: Crownfall】Talent Shows Are Spectacular! {18+} // !discord !socials //",
+      "url": "https://www.twitch.tv/alectoeumenid"
     }
   },
   "login_updates": {}
