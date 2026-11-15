@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-15T08:35:10Z",
+  "updated_at": "2026-11-15T08:50:10Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
       "title": "🌹[Minecraft] #VOriginsS4 There's a talent show going on! Let's make people laugh!!",
       "url": "https://www.twitch.tv/shivarosebloom"
-    },
-    "110867034": {
-      "display_name": "VVDragon_",
-      "game_name": "Minecraft",
-      "login": "vvdragon_",
-      "started_at": "2026-11-15T02:14:34Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
-      "title": "[VORIGINS S4] | The Collective [SPOILERS!!] | The Talent Show",
-      "url": "https://www.twitch.tv/vvdragon_"
     },
     "160748634": {
       "display_name": "celiere",
