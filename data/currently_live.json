@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-15T07:30:10Z",
+  "updated_at": "2026-11-15T07:35:10Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -47,15 +47,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
       "title": "【VORIGINS】♡ TALENT SHOW! ♡ !socials !tip #vorigins",
       "url": "https://www.twitch.tv/celiere"
-    },
-    "819211356": {
-      "display_name": "AlectoEumenid",
-      "game_name": "Minecraft",
-      "login": "alectoeumenid",
-      "started_at": "2026-11-15T00:59:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
-      "title": "【VOrigins S4: Crownfall】Talent Shows Are Spectacular! {18+} // !discord !socials //",
-      "url": "https://www.twitch.tv/alectoeumenid"
     },
     "1380109945": {
       "display_name": "NovaAustralis",
