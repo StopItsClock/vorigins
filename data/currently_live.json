@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-15T22:05:10Z",
+  "updated_at": "2026-11-15T22:10:10Z",
   "poll_seconds": 300,
   "live": {
     "63513141": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_helpinghand97-{width}x{height}.jpg",
       "title": "A little Whimzi in our Life!",
       "url": "https://www.twitch.tv/helpinghand97"
+    },
+    "77176298": {
+      "display_name": "ShivaRoseBloom",
+      "game_name": "DARK SOULS II: Scholar of the First Sin",
+      "login": "shivarosebloom",
+      "started_at": "2026-11-15T22:09:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
+      "title": "🌹[Dark Souls 2] We're finally here....",
+      "url": "https://www.twitch.tv/shivarosebloom"
     }
   },
   "login_updates": {}
