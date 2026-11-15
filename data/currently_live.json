@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-15T00:05:10Z",
+  "updated_at": "2026-11-15T00:20:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -29,6 +29,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
       "title": "It's Cold At The Top -> Minecraft RP🧊 !naa !pine !socials 🍧 @frostedplague7",
       "url": "https://www.twitch.tv/frostedplague7"
+    },
+    "231199835": {
+      "display_name": "LostOni_",
+      "game_name": "Minecraft",
+      "login": "lostoni_",
+      "started_at": "2026-11-15T00:17:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostoni_-{width}x{height}.jpg",
+      "title": "V-Origins Crownfall #7 | !discord | Minecraft",
+      "url": "https://www.twitch.tv/lostoni_"
     }
   },
   "login_updates": {}
