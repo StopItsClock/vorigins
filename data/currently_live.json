@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-15T03:15:10Z",
+  "updated_at": "2026-11-15T03:35:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -146,6 +146,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rootedmoon1506-{width}x{height}.jpg",
       "title": "[Vorigins Season 4] The Eldergen Talent Show, my time to shine",
       "url": "https://www.twitch.tv/rootedmoon1506"
+    },
+    "938069605": {
+      "display_name": "CedarVT",
+      "game_name": "Minecraft",
+      "login": "cedarvt",
+      "started_at": "2026-11-15T03:32:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
+      "title": "[CrownFall] My the Arrows I fire strike true ~🍂 !discord !merch",
+      "url": "https://www.twitch.tv/cedarvt"
     },
     "983832675": {
       "display_name": "Meoweomell_Marsyus_Seliem",
