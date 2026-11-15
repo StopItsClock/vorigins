@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-15T03:10:10Z",
+  "updated_at": "2026-11-15T03:15:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -119,15 +119,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_a__nubis-{width}x{height}.jpg",
       "title": "Rourke Dolmayan VORIGENS!!!!!",
       "url": "https://www.twitch.tv/a__nubis"
-    },
-    "686234820": {
-      "display_name": "miyuwanchan",
-      "game_name": "Minecraft",
-      "login": "miyuwanchan",
-      "started_at": "2026-11-15T03:04:58Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
-      "title": "GOT TALENT? YOUR TALENT? WE TALENT? 🍞VORIGINS S4 🍞 | !vorigins !socials",
-      "url": "https://www.twitch.tv/miyuwanchan"
     },
     "761873718": {
       "display_name": "cylinks_owo",
