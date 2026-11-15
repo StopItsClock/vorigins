@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-15T01:05:10Z",
+  "updated_at": "2026-11-15T01:15:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "A doctor a day keeps the crabapple away.... wait..  | Sir Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "59922801": {
+      "display_name": "doeremi_",
+      "game_name": "Minecraft",
+      "login": "doeremi_",
+      "started_at": "2026-11-15T01:10:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
+      "title": "꒰ 👑 VOrigins: Crownfall꒱ TALENT SHOW 🍃 !rp as Elizabeth Erdo 🎨🌸 | !vorigins",
+      "url": "https://www.twitch.tv/doeremi_"
     },
     "63513141": {
       "display_name": "Helpinghand97",
@@ -29,15 +38,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
       "title": "It's Cold At The Top -> Minecraft RP🧊 !naa !pine !socials 🍧 @frostedplague7",
       "url": "https://www.twitch.tv/frostedplague7"
-    },
-    "231199835": {
-      "display_name": "LostOni_",
-      "game_name": "Minecraft",
-      "login": "lostoni_",
-      "started_at": "2026-11-15T00:17:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostoni_-{width}x{height}.jpg",
-      "title": "V-Origins Crownfall #7 | !discord | Minecraft",
-      "url": "https://www.twitch.tv/lostoni_"
     },
     "239191238": {
       "display_name": "RedBladeCrimson",
