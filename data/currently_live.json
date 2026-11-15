@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-15T06:20:10Z",
+  "updated_at": "2026-11-15T06:25:10Z",
   "poll_seconds": 300,
   "live": {
-    "58276005": {
-      "display_name": "Banana_Ramajama",
-      "game_name": "Minecraft",
-      "login": "banana_ramajama",
-      "started_at": "2026-11-14T21:23:49Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
-      "title": "A doctor a day keeps the crabapple away.... wait..  | Sir Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
-      "url": "https://www.twitch.tv/banana_ramajama"
-    },
     "59922801": {
       "display_name": "doeremi_",
       "game_name": "Minecraft",
@@ -74,15 +65,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vapveran-{width}x{height}.jpg",
       "title": "[ V*Origins: Crownfall ] Exit Mr. Mail, Enter [ ] !vorigins !character",
       "url": "https://www.twitch.tv/vapveran"
-    },
-    "612172705": {
-      "display_name": "A__NUBIS",
-      "game_name": "Minecraft",
-      "login": "a__nubis",
-      "started_at": "2026-11-15T01:03:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_a__nubis-{width}x{height}.jpg",
-      "title": "Rourke Dolmayan VORIGENS!!!!!",
-      "url": "https://www.twitch.tv/a__nubis"
     },
     "819211356": {
       "display_name": "AlectoEumenid",
