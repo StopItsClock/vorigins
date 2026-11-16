@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-16T09:10:10Z",
+  "updated_at": "2026-11-16T09:15:10Z",
   "poll_seconds": 300,
-  "live": {
-    "77176298": {
-      "display_name": "ShivaRoseBloom",
-      "game_name": "Minecraft",
-      "login": "shivarosebloom",
-      "started_at": "2026-11-15T22:09:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
-      "title": "🌹[Minecraft] #VOriginsS4 Secrets in the cold...?",
-      "url": "https://www.twitch.tv/shivarosebloom"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
