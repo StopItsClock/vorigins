@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-16T04:35:10Z",
+  "updated_at": "2026-11-16T04:40:11Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
       "title": "🌹[Minecraft] #VOriginsS4 Secrets in the cold...?",
       "url": "https://www.twitch.tv/shivarosebloom"
+    },
+    "110867034": {
+      "display_name": "VVDragon_",
+      "game_name": "Minecraft",
+      "login": "vvdragon_",
+      "started_at": "2026-11-16T04:37:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
+      "title": "[VORIGINS S4] | The Collective [SPOILERS!!] | I'M LOWKEY EVIL",
+      "url": "https://www.twitch.tv/vvdragon_"
     },
     "686234820": {
       "display_name": "miyuwanchan",
