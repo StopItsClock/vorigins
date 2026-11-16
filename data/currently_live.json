@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-16T03:35:11Z",
+  "updated_at": "2026-11-16T04:00:10Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
@@ -21,15 +21,6 @@
       "title": "a hymn for a forgotten goddess... 🍞VORIGINS S4 🍞 | !vorigins !socials",
       "url": "https://www.twitch.tv/miyuwanchan"
     },
-    "761873718": {
-      "display_name": "cylinks_owo",
-      "game_name": "Minecraft",
-      "login": "cylinks_owo",
-      "started_at": "2026-11-16T01:31:06Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cylinks_owo-{width}x{height}.jpg",
-      "title": "How I Became The SMP's Cutest Imp In Minecraft",
-      "url": "https://www.twitch.tv/cylinks_owo"
-    },
     "938069605": {
       "display_name": "CedarVT",
       "game_name": "Minecraft",
@@ -38,6 +29,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
       "title": "[CrownFall] My the Arrows I fire strike true ~🍂 !discord !merch",
       "url": "https://www.twitch.tv/cedarvt"
+    },
+    "1380109945": {
+      "display_name": "NovaAustralis",
+      "game_name": "Minecraft",
+      "login": "novaaustralis",
+      "started_at": "2026-11-16T03:55:27Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_novaaustralis-{width}x{height}.jpg",
+      "title": "[Novaember Day 15] Silence can be music too [Vorigins: Crownfall ] !discord !socials !pet",
+      "url": "https://www.twitch.tv/novaaustralis"
     }
   },
   "login_updates": {}
