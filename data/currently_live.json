@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-16T06:35:10Z",
+  "updated_at": "2026-11-16T06:45:10Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
@@ -29,15 +29,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
       "title": "a hymn for a forgotten goddess... 🍞VORIGINS S4 🍞 | !vorigins !socials",
       "url": "https://www.twitch.tv/miyuwanchan"
-    },
-    "938069605": {
-      "display_name": "CedarVT",
-      "game_name": "Minecraft",
-      "login": "cedarvt",
-      "started_at": "2026-11-16T03:00:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
-      "title": "[CrownFall] My the Arrows I fire strike true ~🍂 !discord !merch",
-      "url": "https://www.twitch.tv/cedarvt"
     },
     "1380109945": {
       "display_name": "NovaAustralis",
