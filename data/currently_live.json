@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-16T09:15:10Z",
+  "updated_at": "2026-11-16T15:25:10Z",
   "poll_seconds": 300,
-  "live": {},
+  "live": {
+    "835371235": {
+      "display_name": "MizuRelictus",
+      "game_name": "Minecraft",
+      "login": "mizurelictus",
+      "started_at": "2026-11-16T15:21:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
+      "title": "[VOrgins s4] Ursoc Earthgrip will make his mark on this land",
+      "url": "https://www.twitch.tv/mizurelictus"
+    }
+  },
   "login_updates": {}
 }
