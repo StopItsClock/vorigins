@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-16T02:50:10Z",
+  "updated_at": "2026-11-16T03:05:10Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
@@ -12,6 +12,15 @@
       "title": "🌹[Minecraft] #VOriginsS4 Secrets in the cold...?",
       "url": "https://www.twitch.tv/shivarosebloom"
     },
+    "686234820": {
+      "display_name": "miyuwanchan",
+      "game_name": "Minecraft",
+      "login": "miyuwanchan",
+      "started_at": "2026-11-16T03:03:57Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
+      "title": "a hymn for a forgotten goddess... 🍞VORIGINS S4 🍞 | !vorigins !socials",
+      "url": "https://www.twitch.tv/miyuwanchan"
+    },
     "761873718": {
       "display_name": "cylinks_owo",
       "game_name": "Minecraft",
@@ -20,6 +29,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cylinks_owo-{width}x{height}.jpg",
       "title": "How I Became The SMP's Cutest Imp In Minecraft",
       "url": "https://www.twitch.tv/cylinks_owo"
+    },
+    "938069605": {
+      "display_name": "CedarVT",
+      "game_name": "Minecraft",
+      "login": "cedarvt",
+      "started_at": "2026-11-16T03:00:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
+      "title": "[CrownFall] My the Arrows I fire strike true ~🍂 !discord !merch",
+      "url": "https://www.twitch.tv/cedarvt"
     }
   },
   "login_updates": {}
