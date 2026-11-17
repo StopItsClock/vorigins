@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-17T02:10:10Z",
+  "updated_at": "2026-11-17T02:15:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -52,7 +52,7 @@
       "display_name": "CedarVT",
       "game_name": "Minecraft",
       "login": "cedarvt",
-      "started_at": "2026-11-17T00:00:56Z",
+      "started_at": "2026-11-17T02:10:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
       "title": "[CrownFall] All Roads May Someday Lead Back Home ~🍂 !discord !merch",
       "url": "https://www.twitch.tv/cedarvt"
