@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-17T07:25:10Z",
+  "updated_at": "2026-11-17T07:45:10Z",
   "poll_seconds": 300,
-  "live": {
-    "983832675": {
-      "display_name": "Meoweomell_Marsyus_Seliem",
-      "game_name": "Minecraft",
-      "login": "meoweomell_marsyus_seliem",
-      "started_at": "2026-11-17T00:54:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meoweomell_marsyus_seliem-{width}x{height}.jpg",
-      "title": "CROWNFALL | VORIGINS S4 [day Lucky 13] | Alexander Da Maris",
-      "url": "https://www.twitch.tv/meoweomell_marsyus_seliem"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
