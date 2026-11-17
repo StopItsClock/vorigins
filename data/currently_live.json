@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-17T07:45:10Z",
+  "updated_at": "2026-11-17T16:05:10Z",
   "poll_seconds": 300,
-  "live": {},
+  "live": {
+    "835371235": {
+      "display_name": "MizuRelictus",
+      "game_name": "For the King",
+      "login": "mizurelictus",
+      "started_at": "2026-11-17T16:00:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
+      "title": "[For The King] The rise of Jhon Gobblin D. Nuts & friends",
+      "url": "https://www.twitch.tv/mizurelictus"
+    }
+  },
   "login_updates": {}
 }
