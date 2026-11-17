@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-17T02:55:10Z",
+  "updated_at": "2026-11-17T03:10:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -47,6 +47,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
       "title": "🤍🎑【 V-ORIGINS DAY 16 】I will give you a string of light and unbreakable volition ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte ✦ !vorigins",
       "url": "https://www.twitch.tv/shizukach"
+    },
+    "686234820": {
+      "display_name": "miyuwanchan",
+      "game_name": "Minecraft",
+      "login": "miyuwanchan",
+      "started_at": "2026-11-17T03:08:38Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
+      "title": "Even gods can't change what is written. 🍞VORIGINS S4 🍞 | !vorigins !socials",
+      "url": "https://www.twitch.tv/miyuwanchan"
     },
     "938069605": {
       "display_name": "CedarVT",
