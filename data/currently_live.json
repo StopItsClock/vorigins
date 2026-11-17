@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-17T00:05:10Z",
+  "updated_at": "2026-11-17T00:10:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -23,11 +23,11 @@
     },
     "68909866": {
       "display_name": "PuckThePixieVT",
-      "game_name": "Just Chatting",
+      "game_name": "Fallout 4",
       "login": "puckthepixievt",
       "started_at": "2026-11-16T22:59:50Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
-      "title": "[18+] [Important Announcements] modded fallout 4 and yapping",
+      "title": "[18+] [Important Announcements] Hog jumpscare chance: 67%",
       "url": "https://www.twitch.tv/puckthepixievt"
     },
     "938069605": {
