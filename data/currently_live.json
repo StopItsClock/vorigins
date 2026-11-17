@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-17T20:25:11Z",
+  "updated_at": "2026-11-17T20:35:10Z",
   "poll_seconds": 300,
   "live": {
     "835371235": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
       "title": "[For The King] The rise of Jhon Gobblin D. Nuts & friends",
       "url": "https://www.twitch.tv/mizurelictus"
-    },
-    "886081934": {
-      "display_name": "wiltedIrony",
-      "game_name": "Endacopia",
-      "login": "wiltedirony",
-      "started_at": "2026-11-17T17:32:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wiltedirony-{width}x{height}.jpg",
-      "title": "WAITER MORE COPING PLEASE | !discord !d20 !clip [ENG/ARA]",
-      "url": "https://www.twitch.tv/wiltedirony"
     }
   },
   "login_updates": {}
