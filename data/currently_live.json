@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-17T06:40:10Z",
+  "updated_at": "2026-11-17T06:45:10Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
       "title": "[18+] [MCRP] Rourvestag is finally awake from his nap!",
       "url": "https://www.twitch.tv/puckthepixievt"
-    },
-    "77176298": {
-      "display_name": "ShivaRoseBloom",
-      "game_name": "Minecraft",
-      "login": "shivarosebloom",
-      "started_at": "2026-11-17T03:41:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
-      "title": "🌹[Minecraft] #VOriginsS4 calm waters and gentle thoughts",
-      "url": "https://www.twitch.tv/shivarosebloom"
     },
     "110867034": {
       "display_name": "VVDragon_",
