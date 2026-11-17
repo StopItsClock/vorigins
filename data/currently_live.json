@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-17T04:15:11Z",
+  "updated_at": "2026-11-17T04:45:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
       "title": "꒰ RP ꒱ ITS ANGST TIME BABY | 👑 VOrigins: Crownfall 🍃 !rp as Elizabeth Erdo 🎨🌸 | !vorigins",
       "url": "https://www.twitch.tv/doeremi_"
+    },
+    "68909866": {
+      "display_name": "PuckThePixieVT",
+      "game_name": "Minecraft",
+      "login": "puckthepixievt",
+      "started_at": "2026-11-17T04:42:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
+      "title": "[18+] [MCRP] Rourvestag is finally awake from his nap!",
+      "url": "https://www.twitch.tv/puckthepixievt"
     },
     "77176298": {
       "display_name": "ShivaRoseBloom",
