@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-17T22:30:10Z",
+  "updated_at": "2026-11-17T22:35:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "This Crabapple did not fall far from the tree.  | Sir Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
-    },
-    "835371235": {
-      "display_name": "MizuRelictus",
-      "game_name": "For the King",
-      "login": "mizurelictus",
-      "started_at": "2026-11-17T16:00:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
-      "title": "[For The King] The rise of Jhon Gobblin D. Nuts & friends",
-      "url": "https://www.twitch.tv/mizurelictus"
     }
   },
   "login_updates": {}
