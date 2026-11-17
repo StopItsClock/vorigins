@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-17T03:10:10Z",
+  "updated_at": "2026-11-17T03:35:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
       "title": "꒰ RP ꒱ ITS ANGST TIME BABY | 👑 VOrigins: Crownfall 🍃 !rp as Elizabeth Erdo 🎨🌸 | !vorigins",
       "url": "https://www.twitch.tv/doeremi_"
+    },
+    "110867034": {
+      "display_name": "VVDragon_",
+      "game_name": "Minecraft",
+      "login": "vvdragon_",
+      "started_at": "2026-11-17T03:32:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
+      "title": "[VORIGINS S4] | The Collective [SPOILERS!!] | Demons Make Monsters, Devils Make Deals (TAKE 2)",
+      "url": "https://www.twitch.tv/vvdragon_"
     },
     "209565401": {
       "display_name": "AidenChiiVT",
