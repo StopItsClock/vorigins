@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-17T06:10:10Z",
+  "updated_at": "2026-11-17T06:40:10Z",
   "poll_seconds": 300,
   "live": {
-    "59922801": {
-      "display_name": "doeremi_",
-      "game_name": "Minecraft",
-      "login": "doeremi_",
-      "started_at": "2026-11-16T23:57:52Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
-      "title": "꒰ RP ꒱ ITS ANGST TIME BABY | 👑 VOrigins: Crownfall 🍃 !rp as Elizabeth Erdo 🎨🌸 | !vorigins",
-      "url": "https://www.twitch.tv/doeremi_"
-    },
     "68909866": {
       "display_name": "PuckThePixieVT",
       "game_name": "Minecraft",
@@ -47,15 +38,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
       "title": "🤍🎑【 V-ORIGINS DAY 16 】I will give you a string of light and unbreakable volition ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte ✦ !vorigins",
       "url": "https://www.twitch.tv/shizukach"
-    },
-    "938069605": {
-      "display_name": "CedarVT",
-      "game_name": "Minecraft",
-      "login": "cedarvt",
-      "started_at": "2026-11-17T02:10:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
-      "title": "[CrownFall] All Roads May Someday Lead Back Home ~🍂 !discord !merch",
-      "url": "https://www.twitch.tv/cedarvt"
     },
     "983832675": {
       "display_name": "Meoweomell_Marsyus_Seliem",
