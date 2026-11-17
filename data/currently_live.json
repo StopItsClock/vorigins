@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-17T07:15:10Z",
+  "updated_at": "2026-11-17T07:25:10Z",
   "poll_seconds": 300,
   "live": {
-    "487437198": {
-      "display_name": "ShizukaCh",
-      "game_name": "Minecraft",
-      "login": "shizukach",
-      "started_at": "2026-11-17T02:00:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
-      "title": "🤍🎑【 V-ORIGINS DAY 16 】I will give you a string of light and unbreakable volition ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte ✦ !vorigins",
-      "url": "https://www.twitch.tv/shizukach"
-    },
     "983832675": {
       "display_name": "Meoweomell_Marsyus_Seliem",
       "game_name": "Minecraft",
