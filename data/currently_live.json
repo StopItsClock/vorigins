@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-18T05:00:10Z",
+  "updated_at": "2026-11-18T05:10:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -101,15 +101,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_a__nubis-{width}x{height}.jpg",
       "title": "Rourke Dolmayan VORIGENS!!!!!",
       "url": "https://www.twitch.tv/a__nubis"
-    },
-    "714177656": {
-      "display_name": "FreyjaRabbit",
-      "game_name": "Minecraft",
-      "login": "freyjarabbit",
-      "started_at": "2026-11-18T00:46:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_freyjarabbit-{width}x{height}.jpg",
-      "title": "V✧ORIGINS EPISODE 4! HARVEST FESTIVAL!!! !vorigins | !kofi !prismaria !vgen",
-      "url": "https://www.twitch.tv/freyjarabbit"
     },
     "938069605": {
       "display_name": "CedarVT",
