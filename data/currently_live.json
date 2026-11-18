@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-18T08:00:10Z",
+  "updated_at": "2026-11-18T08:25:10Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -12,15 +12,6 @@
       "title": "꒰ RP ꒱ Its time for The Harvest Festival!! | 👑 VOrigins: Crownfall 🍃 !rp as Elizabeth Erdo 🎨🌸 | !vorigins",
       "url": "https://www.twitch.tv/doeremi_"
     },
-    "68909866": {
-      "display_name": "PuckThePixieVT",
-      "game_name": "Minecraft",
-      "login": "puckthepixievt",
-      "started_at": "2026-11-18T02:37:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
-      "title": "[18+] [MCRP] OH the harvest festival aye? I dinnae knoo what that means!",
-      "url": "https://www.twitch.tv/puckthepixievt"
-    },
     "77176298": {
       "display_name": "ShivaRoseBloom",
       "game_name": "Minecraft",
@@ -29,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
       "title": "🌹[Minecraft] #VOriginsS4 strange lands, different smells",
       "url": "https://www.twitch.tv/shivarosebloom"
-    },
-    "110867034": {
-      "display_name": "VVDragon_",
-      "game_name": "Minecraft",
-      "login": "vvdragon_",
-      "started_at": "2026-11-18T02:19:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
-      "title": "[VORIGINS S4] | The Collective [SPOILERS!!] | If I Had A Nickel For Every Harvest Festival I'd Have Two Nickels",
-      "url": "https://www.twitch.tv/vvdragon_"
     },
     "555456488": {
       "display_name": "vapVeran",
