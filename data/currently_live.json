@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-18T03:05:10Z",
+  "updated_at": "2026-11-18T03:25:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -57,6 +57,15 @@
       "title": "{VOrigins Crownfall SMP} SPOILERS/ Day 10//Winnifred Sterling// Second harvest Fest/Philips Birthday",
       "url": "https://www.twitch.tv/66grimdemise66"
     },
+    "555456488": {
+      "display_name": "vapVeran",
+      "game_name": "Minecraft",
+      "login": "vapveran",
+      "started_at": "2026-11-18T03:22:17Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vapveran-{width}x{height}.jpg",
+      "title": "[ V*Origins: Crownfall ] Volos, He Who Wishes. !vorigins !character",
+      "url": "https://www.twitch.tv/vapveran"
+    },
     "612172705": {
       "display_name": "A__NUBIS",
       "game_name": "Minecraft",
@@ -74,6 +83,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_freyjarabbit-{width}x{height}.jpg",
       "title": "V✧ORIGINS EPISODE 4! HARVEST FESTIVAL!!! !vorigins | !kofi !prismaria !vgen",
       "url": "https://www.twitch.tv/freyjarabbit"
+    },
+    "938069605": {
+      "display_name": "CedarVT",
+      "game_name": "Minecraft",
+      "login": "cedarvt",
+      "started_at": "2026-11-18T03:20:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
+      "title": "[CrownFall] Kiyomori Harvest Festival ~🍂 !discord !merch",
+      "url": "https://www.twitch.tv/cedarvt"
     },
     "983832675": {
       "display_name": "Meoweomell_Marsyus_Seliem",
