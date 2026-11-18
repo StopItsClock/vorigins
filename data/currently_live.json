@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-18T09:00:10Z",
+  "updated_at": "2026-11-18T09:05:10Z",
   "poll_seconds": 300,
   "live": {
-    "59922801": {
-      "display_name": "doeremi_",
-      "game_name": "Minecraft",
-      "login": "doeremi_",
-      "started_at": "2026-11-18T01:00:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
-      "title": "꒰ RP ꒱ Its time for The Harvest Festival!! | 👑 VOrigins: Crownfall 🍃 !rp as Elizabeth Erdo 🎨🌸 | !vorigins",
-      "url": "https://www.twitch.tv/doeremi_"
-    },
     "77176298": {
       "display_name": "ShivaRoseBloom",
       "game_name": "Minecraft",
