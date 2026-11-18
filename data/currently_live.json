@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-18T08:55:10Z",
+  "updated_at": "2026-11-18T09:00:10Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -20,24 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
       "title": "🌹[Minecraft] #VOriginsS4 strange lands, different smells",
       "url": "https://www.twitch.tv/shivarosebloom"
-    },
-    "555456488": {
-      "display_name": "vapVeran",
-      "game_name": "Minecraft",
-      "login": "vapveran",
-      "started_at": "2026-11-18T03:22:17Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vapveran-{width}x{height}.jpg",
-      "title": "[ V*Origins: Crownfall ] Volos, He Who Wishes. !vorigins !character",
-      "url": "https://www.twitch.tv/vapveran"
-    },
-    "938069605": {
-      "display_name": "CedarVT",
-      "game_name": "Minecraft",
-      "login": "cedarvt",
-      "started_at": "2026-11-18T03:20:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
-      "title": "[CrownFall] Kiyomori Harvest Festival ~🍂 !discord !merch",
-      "url": "https://www.twitch.tv/cedarvt"
     },
     "1380109945": {
       "display_name": "NovaAustralis",
