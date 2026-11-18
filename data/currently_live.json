@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-18T07:05:10Z",
+  "updated_at": "2026-11-18T07:15:10Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -43,7 +43,7 @@
       "display_name": "celiere",
       "game_name": "Minecraft",
       "login": "celiere",
-      "started_at": "2026-11-18T03:47:36Z",
+      "started_at": "2026-11-18T07:13:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
       "title": "【VORIGINS】♡ Stress at the Harvest Festival? ♡ !socials !tip #vorigins",
       "url": "https://www.twitch.tv/celiere"
