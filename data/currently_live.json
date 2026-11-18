@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-18T06:25:10Z",
+  "updated_at": "2026-11-18T06:40:10Z",
   "poll_seconds": 300,
   "live": {
-    "58276005": {
-      "display_name": "Banana_Ramajama",
-      "game_name": "Minecraft",
-      "login": "banana_ramajama",
-      "started_at": "2026-11-17T21:59:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
-      "title": "This Crabapple did not fall far from the tree.  | Sir Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
-      "url": "https://www.twitch.tv/banana_ramajama"
-    },
     "59922801": {
       "display_name": "doeremi_",
       "game_name": "Minecraft",
