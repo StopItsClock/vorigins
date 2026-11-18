@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-18T02:25:10Z",
+  "updated_at": "2026-11-18T02:40:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
       "title": "꒰ RP ꒱ Its time for The Harvest Festival!! | 👑 VOrigins: Crownfall 🍃 !rp as Elizabeth Erdo 🎨🌸 | !vorigins",
       "url": "https://www.twitch.tv/doeremi_"
+    },
+    "68909866": {
+      "display_name": "PuckThePixieVT",
+      "game_name": "Minecraft",
+      "login": "puckthepixievt",
+      "started_at": "2026-11-18T02:37:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
+      "title": "[18+] [MCRP] OH the harvest festival aye? I dinnae knoo what that means!",
+      "url": "https://www.twitch.tv/puckthepixievt"
     },
     "110867034": {
       "display_name": "VVDragon_",
