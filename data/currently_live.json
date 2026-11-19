@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-19T20:05:10Z",
+  "updated_at": "2026-11-19T20:50:10Z",
   "poll_seconds": 300,
-  "live": {},
+  "live": {
+    "495919620": {
+      "display_name": "66GrimDemise66",
+      "game_name": "Minecraft",
+      "login": "66grimdemise66",
+      "started_at": "2026-11-19T20:45:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
+      "title": "{VOrigins Crownfall SMP} SPOILERS/ Day 11//Winnifred Sterling// The crushing weight",
+      "url": "https://www.twitch.tv/66grimdemise66"
+    }
+  },
   "login_updates": {}
 }
