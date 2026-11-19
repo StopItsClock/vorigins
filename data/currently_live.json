@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-19T01:00:10Z",
+  "updated_at": "2026-11-19T01:10:10Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -14,11 +14,11 @@
     },
     "1166441997": {
       "display_name": "VexaraTV",
-      "game_name": "Terrible Lizards",
+      "game_name": "R.E.P.O.",
       "login": "vexaratv",
       "started_at": "2026-11-18T23:20:17Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vexaratv-{width}x{height}.jpg",
-      "title": "SPOOKY DINOSAUR TIME  ✨ Terrible Lizards ❄️ ┊ !discord 🎁",
+      "title": "CELEBRATING W BIRTHDAY BOY @chelae_lesath  ✨ Terrible Lizards ❄️ ┊ !discord 🎁",
       "url": "https://www.twitch.tv/vexaratv"
     }
   },
