@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-19T16:50:10Z",
+  "updated_at": "2026-11-19T17:15:10Z",
   "poll_seconds": 300,
   "live": {
     "835371235": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
       "title": "[Learn 2 Kaizo & Super Ryu World] Finally my status as a gamer is being tested I 100SSR",
       "url": "https://www.twitch.tv/mizurelictus"
+    },
+    "886081934": {
+      "display_name": "wiltedIrony",
+      "game_name": "The Legend of Zelda: Ocarina of Time",
+      "login": "wiltedirony",
+      "started_at": "2026-11-19T17:10:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wiltedirony-{width}x{height}.jpg",
+      "title": "WOOOO YEA BABY | !discord !d20 !clip [ENG/ARA]",
+      "url": "https://www.twitch.tv/wiltedirony"
     }
   },
   "login_updates": {}
