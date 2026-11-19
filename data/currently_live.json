@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-19T03:10:10Z",
+  "updated_at": "2026-11-19T03:30:10Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -20,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchiivt-{width}x{height}.jpg",
       "title": "🦝| Touhou 9 | Being repeatedly shot by @shizukach | !Discord | !Socials |🦝👟👑",
       "url": "https://www.twitch.tv/aidenchiivt"
-    },
-    "487437198": {
-      "display_name": "ShizukaCh",
-      "game_name": "Touhou Project",
-      "login": "shizukach",
-      "started_at": "2026-11-19T01:59:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
-      "title": "🤍🎑【 TOUHOU 9 】repeatedly shooting @AidenChiiVT ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte",
-      "url": "https://www.twitch.tv/shizukach"
     },
     "1166441997": {
       "display_name": "VexaraTV",
