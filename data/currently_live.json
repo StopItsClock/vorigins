@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-19T03:30:10Z",
+  "updated_at": "2026-11-19T03:35:10Z",
   "poll_seconds": 300,
   "live": {
     "68909866": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
       "title": "[18+] Get back! I'll take on the hot aliens to buy you time to escape...",
       "url": "https://www.twitch.tv/puckthepixievt"
+    },
+    "119893530": {
+      "display_name": "FrostedPlague7",
+      "game_name": "FINAL FANTASY XIV ONLINE",
+      "login": "frostedplague7",
+      "started_at": "2026-11-19T03:32:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
+      "title": "[Sprout 🌱] MSQ FOR REALSIES... after dailies 🧊 !pine !socials !naa 🍧 @frostedplague7",
+      "url": "https://www.twitch.tv/frostedplague7"
     },
     "209565401": {
       "display_name": "AidenChiiVT",
