@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-19T04:52:52Z",
+  "updated_at": "2026-11-19T04:53:01Z",
   "members": [
     {
       "id": "alexander-da-maris",
@@ -159,7 +159,7 @@
       },
       "head": true,
       "name": "Winnifred Sterling",
-      "role": "",
+      "role": "Princess of the Fields",
       "age": "23",
       "height": "5'3",
       "race": "Human",
