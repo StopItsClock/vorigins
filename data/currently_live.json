@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-19T23:05:10Z",
+  "updated_at": "2026-11-19T23:10:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "This Crabapple has hope  | Sir Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "495919620": {
+      "display_name": "66GrimDemise66",
+      "game_name": "UNDERTALE",
+      "login": "66grimdemise66",
+      "started_at": "2026-11-19T23:09:34Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
+      "title": "Fallin down holes today [First time playing Undertale!]",
+      "url": "https://www.twitch.tv/66grimdemise66"
     }
   },
   "login_updates": {}
