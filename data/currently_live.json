@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T03:25:10Z",
+  "updated_at": "2026-11-20T03:30:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -101,6 +101,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cylinks_owo-{width}x{height}.jpg",
       "title": "Im Walking The Path of Exile's Again ....Poggers?",
       "url": "https://www.twitch.tv/cylinks_owo"
+    },
+    "938069605": {
+      "display_name": "CedarVT",
+      "game_name": "Minecraft",
+      "login": "cedarvt",
+      "started_at": "2026-11-20T03:27:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
+      "title": "[CrownFall] Only way out but I dont want to take it ~🍂 !discord !merch",
+      "url": "https://www.twitch.tv/cedarvt"
     },
     "983832675": {
       "display_name": "Meoweomell_Marsyus_Seliem",
