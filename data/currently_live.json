@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T07:55:11Z",
+  "updated_at": "2026-11-20T08:10:10Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -56,15 +56,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
       "title": "The hypocrisy of the Moon Goddess 🍞VORIGINS S4 🍞 | !vorigins !socials",
       "url": "https://www.twitch.tv/miyuwanchan"
-    },
-    "1380109945": {
-      "display_name": "NovaAustralis",
-      "game_name": "Minecraft",
-      "login": "novaaustralis",
-      "started_at": "2026-11-20T06:07:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_novaaustralis-{width}x{height}.jpg",
-      "title": "[Novaember Day 19]We will continue to try. Dragon is sick be kind please! [Vorigins: Crownfall ] !discord !socials !pet",
-      "url": "https://www.twitch.tv/novaaustralis"
     }
   },
   "login_updates": {}
