@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T08:25:10Z",
+  "updated_at": "2026-11-20T08:50:10Z",
   "poll_seconds": 300,
   "live": {
-    "139155084": {
-      "display_name": "RaiineLive",
-      "game_name": "Overwatch",
-      "login": "raiinelive",
-      "started_at": "2026-11-20T05:15:58Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiinelive-{width}x{height}.jpg",
-      "title": "world's sleepiest support -> MC later?with @viuryse @paroposa | !badge !crownfall",
-      "url": "https://www.twitch.tv/raiinelive"
-    },
     "160748634": {
       "display_name": "celiere",
       "game_name": "Minecraft",
