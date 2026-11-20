@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T02:30:10Z",
+  "updated_at": "2026-11-20T02:35:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -47,6 +47,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
       "title": "{VOrigins Crownfall SMP} SPOILERS/ Day 11//Winnifred Sterling// The crushing weight PART 2",
       "url": "https://www.twitch.tv/66grimdemise66"
+    },
+    "686234820": {
+      "display_name": "miyuwanchan",
+      "game_name": "Minecraft",
+      "login": "miyuwanchan",
+      "started_at": "2026-11-20T02:31:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
+      "title": "The hypocrisy of the Moon Goddess 🍞VORIGINS S4 🍞 | !vorigins !socials",
+      "url": "https://www.twitch.tv/miyuwanchan"
     },
     "761873718": {
       "display_name": "cylinks_owo",
