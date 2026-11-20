@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T01:00:10Z",
+  "updated_at": "2026-11-20T01:05:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,6 +20,24 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
       "title": "꒰ RP ꒱ GIRRRRRLLLS NIIIIIIGHT | 👑 VOrigins: Crownfall 🍃 !rp as Elizabeth Erdo 🎨🌸 | !vorigins",
       "url": "https://www.twitch.tv/doeremi_"
+    },
+    "487437198": {
+      "display_name": "ShizukaCh",
+      "game_name": "Minecraft",
+      "login": "shizukach",
+      "started_at": "2026-11-20T01:04:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
+      "title": "🤍🎑【 V-ORIGINS DAY 18 】Left behind in the world is boundless despair ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte ✦ !vorigins",
+      "url": "https://www.twitch.tv/shizukach"
+    },
+    "495919620": {
+      "display_name": "66GrimDemise66",
+      "game_name": "Minecraft",
+      "login": "66grimdemise66",
+      "started_at": "2026-11-20T01:01:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
+      "title": "{VOrigins Crownfall SMP} SPOILERS/ Day 11//Winnifred Sterling// The crushing weight PART 2",
+      "url": "https://www.twitch.tv/66grimdemise66"
     },
     "983832675": {
       "display_name": "Meoweomell_Marsyus_Seliem",
