@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T01:40:10Z",
+  "updated_at": "2026-11-20T01:55:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -38,6 +38,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
       "title": "{VOrigins Crownfall SMP} SPOILERS/ Day 11//Winnifred Sterling// The crushing weight PART 2",
       "url": "https://www.twitch.tv/66grimdemise66"
+    },
+    "761873718": {
+      "display_name": "cylinks_owo",
+      "game_name": "Path of Exile 2",
+      "login": "cylinks_owo",
+      "started_at": "2026-11-20T01:54:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cylinks_owo-{width}x{height}.jpg",
+      "title": "Im Walking The Path of Exile's Again ....Poggers?",
+      "url": "https://www.twitch.tv/cylinks_owo"
     },
     "983832675": {
       "display_name": "Meoweomell_Marsyus_Seliem",
