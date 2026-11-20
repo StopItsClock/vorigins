@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T09:35:10Z",
+  "updated_at": "2026-11-20T09:40:11Z",
   "poll_seconds": 300,
   "live": {
     "160748634": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
       "title": "【VORIGINS】♡ Strange Books? One referencing Arwen? h-huh... ♡ !socials !tip #vorigins",
       "url": "https://www.twitch.tv/celiere"
-    },
-    "686234820": {
-      "display_name": "miyuwanchan",
-      "game_name": "Minecraft",
-      "login": "miyuwanchan",
-      "started_at": "2026-11-20T06:06:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
-      "title": "The hypocrisy of the Moon Goddess 🍞VORIGINS S4 🍞 | !vorigins !socials",
-      "url": "https://www.twitch.tv/miyuwanchan"
     }
   },
   "login_updates": {}
