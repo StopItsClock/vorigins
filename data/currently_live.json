@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T10:45:11Z",
+  "updated_at": "2026-11-20T11:05:10Z",
   "poll_seconds": 300,
-  "live": {
-    "160748634": {
-      "display_name": "celiere",
-      "game_name": "Minecraft",
-      "login": "celiere",
-      "started_at": "2026-11-20T02:26:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
-      "title": "【VORIGINS】♡ Strange Books? One referencing Arwen? h-huh... ♡ !socials !tip #vorigins",
-      "url": "https://www.twitch.tv/celiere"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
