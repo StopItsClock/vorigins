@@ -1,8 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T15:10:10Z",
+  "updated_at": "2026-11-20T15:40:10Z",
   "poll_seconds": 300,
   "live": {
+    "239191238": {
+      "display_name": "RedBladeCrimson",
+      "game_name": "Zenless Zone Zero",
+      "login": "redbladecrimson",
+      "started_at": "2026-11-20T15:35:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
+      "title": "[Zenless Zone Zero] Letting the dommy mommy ruin my life in a good way!  Prep for Kafka!",
+      "url": "https://www.twitch.tv/redbladecrimson"
+    },
     "835371235": {
       "display_name": "MizuRelictus",
       "game_name": "ELDEN RING",
