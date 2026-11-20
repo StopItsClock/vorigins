@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T05:00:11Z",
+  "updated_at": "2026-11-20T05:05:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -101,15 +101,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miyuwanchan-{width}x{height}.jpg",
       "title": "The hypocrisy of the Moon Goddess 🍞VORIGINS S4 🍞 | !vorigins !socials",
       "url": "https://www.twitch.tv/miyuwanchan"
-    },
-    "761873718": {
-      "display_name": "cylinks_owo",
-      "game_name": "Path of Exile 2",
-      "login": "cylinks_owo",
-      "started_at": "2026-11-20T01:54:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cylinks_owo-{width}x{height}.jpg",
-      "title": "Im Walking The Path of Exile's Again ....Poggers?",
-      "url": "https://www.twitch.tv/cylinks_owo"
     },
     "938069605": {
       "display_name": "CedarVT",
