@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T02:40:10Z",
+  "updated_at": "2026-11-20T02:55:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -29,6 +29,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
       "title": "🌹[Minecraft] #VOriginsS4 May the Mother Moon bless these enchants!",
       "url": "https://www.twitch.tv/shivarosebloom"
+    },
+    "110867034": {
+      "display_name": "VVDragon_",
+      "game_name": "Minecraft",
+      "login": "vvdragon_",
+      "started_at": "2026-11-20T02:52:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
+      "title": "[VORIGINS S4] | The Collective [SPOILERS!!] | Who's Watching The Watcher?",
+      "url": "https://www.twitch.tv/vvdragon_"
     },
     "160748634": {
       "display_name": "celiere",
