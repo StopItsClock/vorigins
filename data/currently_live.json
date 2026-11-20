@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T05:05:10Z",
+  "updated_at": "2026-11-20T05:20:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -47,6 +47,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
       "title": "[VORIGINS S4] | The Collective [SPOILERS!!] | Who's Watching The Watcher?",
       "url": "https://www.twitch.tv/vvdragon_"
+    },
+    "139155084": {
+      "display_name": "RaiineLive",
+      "game_name": "Overwatch",
+      "login": "raiinelive",
+      "started_at": "2026-11-20T05:15:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiinelive-{width}x{height}.jpg",
+      "title": "world's sleepiest support -> MC later?with @viuryse @paroposa | !badge !crownfall",
+      "url": "https://www.twitch.tv/raiinelive"
     },
     "160748634": {
       "display_name": "celiere",
