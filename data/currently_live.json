@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T04:20:10Z",
+  "updated_at": "2026-11-20T04:35:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -128,15 +128,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
       "title": "[CrownFall] Only way out but I dont want to take it ~🍂 !discord !merch",
       "url": "https://www.twitch.tv/cedarvt"
-    },
-    "983832675": {
-      "display_name": "Meoweomell_Marsyus_Seliem",
-      "game_name": "Minecraft",
-      "login": "meoweomell_marsyus_seliem",
-      "started_at": "2026-11-19T23:26:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meoweomell_marsyus_seliem-{width}x{height}.jpg",
-      "title": "CROWNFALL | VORIGINS S4 [day 15] | Alexander Da Maris",
-      "url": "https://www.twitch.tv/meoweomell_marsyus_seliem"
     },
     "1380109945": {
       "display_name": "NovaAustralis",
