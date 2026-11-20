@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T11:05:10Z",
+  "updated_at": "2026-11-20T14:00:12Z",
   "poll_seconds": 300,
-  "live": {},
+  "live": {
+    "835371235": {
+      "display_name": "MizuRelictus",
+      "game_name": "ELDEN RING",
+      "login": "mizurelictus",
+      "started_at": "2026-11-20T13:55:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
+      "title": "[Elden Ring] Can I beat the entire game in one stream as a mage??",
+      "url": "https://www.twitch.tv/mizurelictus"
+    }
+  },
   "login_updates": {}
 }
