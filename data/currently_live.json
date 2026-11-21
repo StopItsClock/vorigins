@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-21T02:55:10Z",
+  "updated_at": "2026-11-21T03:00:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -57,15 +57,6 @@
       "title": "✨[18+ Eng/Esp] ✨What will happen today ※ Violet Evernight POV✨ !socials !lurk  @rams404vt ✨",
       "url": "https://www.twitch.tv/rams404vt"
     },
-    "239191238": {
-      "display_name": "RedBladeCrimson",
-      "game_name": "Minecraft",
-      "login": "redbladecrimson",
-      "started_at": "2026-11-21T01:13:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
-      "title": "[Road To 400!] Minecraft V-origins! Things are going down in Kiyomori...",
-      "url": "https://www.twitch.tv/redbladecrimson"
-    },
     "495919620": {
       "display_name": "66GrimDemise66",
       "game_name": "Minecraft",
@@ -74,6 +65,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
       "title": "{VOrigins Crownfall SMP} SPOILERS/ Day 12//Winnifred Sterling// As She Falls",
       "url": "https://www.twitch.tv/66grimdemise66"
+    },
+    "555456488": {
+      "display_name": "vapVeran",
+      "game_name": "Minecraft",
+      "login": "vapveran",
+      "started_at": "2026-11-21T02:56:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vapveran-{width}x{height}.jpg",
+      "title": "[ V*Origins: Crownfall ]「 Volos, He Who Wishes 」 !vorigins !character",
+      "url": "https://www.twitch.tv/vapveran"
     },
     "983832675": {
       "display_name": "Meoweomell_Marsyus_Seliem",
