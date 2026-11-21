@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-21T10:05:10Z",
+  "updated_at": "2026-11-21T10:30:10Z",
   "poll_seconds": 300,
   "live": {
-    "139155084": {
-      "display_name": "RaiineLive",
-      "game_name": "Minecraft",
-      "login": "raiinelive",
-      "started_at": "2026-11-21T06:43:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiinelive-{width}x{height}.jpg",
-      "title": "[VOrigins MCRP] May the moon guide us <3 | !badge !crownfall",
-      "url": "https://www.twitch.tv/raiinelive"
-    },
     "160748634": {
       "display_name": "celiere",
       "game_name": "Minecraft",
