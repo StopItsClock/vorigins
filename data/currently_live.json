@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-21T01:15:10Z",
+  "updated_at": "2026-11-21T01:20:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -36,7 +36,7 @@
       "login": "redbladecrimson",
       "started_at": "2026-11-21T01:13:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
-      "title": "[Road To 400!] Minecraft roleplaying! Things are going down in Kiyomori...",
+      "title": "[Road To 400!] Minecraft V-origins! Things are going down in Kiyomori...",
       "url": "https://www.twitch.tv/redbladecrimson"
     }
   },
