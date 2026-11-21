@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-21T01:00:10Z",
+  "updated_at": "2026-11-21T01:15:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -29,6 +29,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
       "title": "[Sprout 🌱] NIER RAIDS -> MC RP 🧊 !pine !socials !naa 🍧 @frostedplague7",
       "url": "https://www.twitch.tv/frostedplague7"
+    },
+    "239191238": {
+      "display_name": "RedBladeCrimson",
+      "game_name": "Minecraft",
+      "login": "redbladecrimson",
+      "started_at": "2026-11-21T01:13:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
+      "title": "[Road To 400!] Minecraft roleplaying! Things are going down in Kiyomori...",
+      "url": "https://www.twitch.tv/redbladecrimson"
     }
   },
   "login_updates": {}
