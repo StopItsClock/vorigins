@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-21T08:35:10Z",
+  "updated_at": "2026-11-21T09:00:10Z",
   "poll_seconds": 300,
   "live": {
     "77176298": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shivarosebloom-{width}x{height}.jpg",
       "title": "🌹[Minecraft] #VOriginsS4 Quiet waters to welcome in a festival tomorrow",
       "url": "https://www.twitch.tv/shivarosebloom"
-    },
-    "110867034": {
-      "display_name": "VVDragon_",
-      "game_name": "Minecraft",
-      "login": "vvdragon_",
-      "started_at": "2026-11-21T03:18:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
-      "title": "[VORIGINS S4] | The Collective [SPOILERS!!] | They're Gonna Be Looking For A Guy Who Collects Things",
-      "url": "https://www.twitch.tv/vvdragon_"
     },
     "139155084": {
       "display_name": "RaiineLive",
