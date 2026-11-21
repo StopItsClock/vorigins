@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-21T04:40:10Z",
+  "updated_at": "2026-11-21T05:05:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -83,15 +83,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
       "title": "✨[18+ Eng/Esp] ✨What will happen today ※ Violet Evernight POV✨ !socials !lurk  @rams404vt ✨",
       "url": "https://www.twitch.tv/rams404vt"
-    },
-    "452819536": {
-      "display_name": "AlfNAlf",
-      "game_name": "Minecraft",
-      "login": "alfnalf",
-      "started_at": "2026-11-21T03:11:32Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfnalf-{width}x{height}.jpg",
-      "title": "(EN) V-ORIGINS DAY 19 (short)| !lurk",
-      "url": "https://www.twitch.tv/alfnalf"
     },
     "555456488": {
       "display_name": "vapVeran",
