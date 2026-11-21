@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-21T04:15:10Z",
+  "updated_at": "2026-11-21T04:30:11Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -110,6 +110,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vapveran-{width}x{height}.jpg",
       "title": "[ V*Origins: Crownfall ]「 Volos, He Who Wishes 」 !vorigins !character",
       "url": "https://www.twitch.tv/vapveran"
+    },
+    "938069605": {
+      "display_name": "CedarVT",
+      "game_name": "Minecraft",
+      "login": "cedarvt",
+      "started_at": "2026-11-21T04:27:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
+      "title": "[CrownFall] Only way out but I dont want to take it ~🍂 !discord !merch",
+      "url": "https://www.twitch.tv/cedarvt"
     },
     "983832675": {
       "display_name": "Meoweomell_Marsyus_Seliem",
