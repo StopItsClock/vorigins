@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-21T00:20:10Z",
+  "updated_at": "2026-11-21T00:30:10Z",
   "poll_seconds": 300,
-  "live": {
-    "58276005": {
-      "display_name": "Banana_Ramajama",
-      "game_name": "Minecraft",
-      "login": "banana_ramajama",
-      "started_at": "2026-11-20T22:05:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
-      "title": "Kiyomori is making moves | Sir Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
-      "url": "https://www.twitch.tv/banana_ramajama"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
