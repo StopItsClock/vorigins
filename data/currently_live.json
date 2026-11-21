@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-21T05:15:10Z",
+  "updated_at": "2026-11-21T05:30:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -74,15 +74,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchiivt-{width}x{height}.jpg",
       "title": "🦝| Vorigins: Crownfall | Fire boy is confused | !Discord | !Socials |🦝👟👑",
       "url": "https://www.twitch.tv/aidenchiivt"
-    },
-    "228334289": {
-      "display_name": "Rams404Vt",
-      "game_name": "Minecraft",
-      "login": "rams404vt",
-      "started_at": "2026-11-21T01:54:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
-      "title": "✨[18+ Eng/Esp] ✨What will happen today ※ Violet Evernight POV✨ !socials !lurk  @rams404vt ✨",
-      "url": "https://www.twitch.tv/rams404vt"
     },
     "555456488": {
       "display_name": "vapVeran",
