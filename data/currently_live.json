@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-21T15:25:10Z",
+  "updated_at": "2026-11-21T16:00:11Z",
   "poll_seconds": 300,
-  "live": {
-    "835371235": {
-      "display_name": "MizuRelictus",
-      "game_name": "Big Walk",
-      "login": "mizurelictus",
-      "started_at": "2026-11-21T12:00:53Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
-      "title": "[Big Walk] Walking all day long but replace l with an n /w @suo_hillankukka @gonmasvt @puluvt",
-      "url": "https://www.twitch.tv/mizurelictus"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
