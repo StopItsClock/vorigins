@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-21T05:50:10Z",
+  "updated_at": "2026-11-21T05:55:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -57,24 +57,6 @@
       "title": "【VORIGINS】♡ Things only get stranger and stranger... and more dangerous ♡ !socials !tip #vorigins",
       "url": "https://www.twitch.tv/celiere"
     },
-    "209565401": {
-      "display_name": "AidenChiiVT",
-      "game_name": "Minecraft",
-      "login": "aidenchiivt",
-      "started_at": "2026-11-21T03:26:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchiivt-{width}x{height}.jpg",
-      "title": "🦝| Vorigins: Crownfall | Fire boy is confused | !Discord | !Socials |🦝👟👑",
-      "url": "https://www.twitch.tv/aidenchiivt"
-    },
-    "555456488": {
-      "display_name": "vapVeran",
-      "game_name": "Minecraft",
-      "login": "vapveran",
-      "started_at": "2026-11-21T02:56:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vapveran-{width}x{height}.jpg",
-      "title": "[ V*Origins: Crownfall ]「 Volos, He Who Wishes 」 !vorigins !character",
-      "url": "https://www.twitch.tv/vapveran"
-    },
     "938069605": {
       "display_name": "CedarVT",
       "game_name": "Minecraft",
@@ -83,15 +65,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
       "title": "[CrownFall] Only way out but I dont want to take it ~🍂 !discord !merch",
       "url": "https://www.twitch.tv/cedarvt"
-    },
-    "983832675": {
-      "display_name": "Meoweomell_Marsyus_Seliem",
-      "game_name": "Minecraft",
-      "login": "meoweomell_marsyus_seliem",
-      "started_at": "2026-11-21T04:06:58Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meoweomell_marsyus_seliem-{width}x{height}.jpg",
-      "title": "CROWNFALL | VORIGINS S4 [day 16]  pART 2 | Alexander Da Maris",
-      "url": "https://www.twitch.tv/meoweomell_marsyus_seliem"
     },
     "1003296268": {
       "display_name": "Elio_Zinn",
