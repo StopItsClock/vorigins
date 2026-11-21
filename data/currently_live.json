@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-21T03:20:10Z",
+  "updated_at": "2026-11-21T03:30:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -59,12 +59,21 @@
     },
     "160748634": {
       "display_name": "celiere",
-      "game_name": "Minecraft",
+      "game_name": "Just Chatting",
       "login": "celiere",
       "started_at": "2026-11-21T03:18:38Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
       "title": "【VORIGINS】♡ Things only get stranger and stranger... and more dangerous ♡ !socials !tip #vorigins",
       "url": "https://www.twitch.tv/celiere"
+    },
+    "209565401": {
+      "display_name": "AidenChiiVT",
+      "game_name": "Minecraft",
+      "login": "aidenchiivt",
+      "started_at": "2026-11-21T03:26:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchiivt-{width}x{height}.jpg",
+      "title": "🦝| Vorigins: Crownfall | Fire boy is confused | !Discord | !Socials |🦝👟👑",
+      "url": "https://www.twitch.tv/aidenchiivt"
     },
     "228334289": {
       "display_name": "Rams404Vt",
