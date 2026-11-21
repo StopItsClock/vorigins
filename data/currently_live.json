@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-21T04:30:11Z",
+  "updated_at": "2026-11-21T04:40:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -92,15 +92,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfnalf-{width}x{height}.jpg",
       "title": "(EN) V-ORIGINS DAY 19 (short)| !lurk",
       "url": "https://www.twitch.tv/alfnalf"
-    },
-    "495919620": {
-      "display_name": "66GrimDemise66",
-      "game_name": "Minecraft",
-      "login": "66grimdemise66",
-      "started_at": "2026-11-21T01:34:34Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
-      "title": "{VOrigins Crownfall SMP} SPOILERS/ Day 12//Winnifred Sterling// As She Falls",
-      "url": "https://www.twitch.tv/66grimdemise66"
     },
     "555456488": {
       "display_name": "vapVeran",
