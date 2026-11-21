@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-21T18:30:10Z",
+  "updated_at": "2026-11-21T18:50:10Z",
   "poll_seconds": 300,
-  "live": {
-    "886081934": {
-      "display_name": "wiltedIrony",
-      "game_name": "Voices of the Void",
-      "login": "wiltedirony",
-      "started_at": "2026-11-21T16:47:11Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wiltedirony-{width}x{height}.jpg",
-      "title": "VOTV for the 2nd first time! | !discord !d20 !clip [ENG/ARA]",
-      "url": "https://www.twitch.tv/wiltedirony"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
