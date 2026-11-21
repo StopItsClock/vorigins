@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-21T20:40:10Z",
+  "updated_at": "2026-11-21T21:10:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "Even should the realm fall, I just want to keep Ria safe | Sir Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "63513141": {
+      "display_name": "Helpinghand97",
+      "game_name": "Just Chatting",
+      "login": "helpinghand97",
+      "started_at": "2026-11-21T21:05:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_helpinghand97-{width}x{height}.jpg",
+      "title": "A bit of a Rebel before VOrigins Mid Season Event!",
+      "url": "https://www.twitch.tv/helpinghand97"
     }
   },
   "login_updates": {}
