@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T03:25:10Z",
+  "updated_at": "2026-11-22T03:55:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -128,15 +128,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostoni_-{width}x{height}.jpg",
       "title": "V-Origins Crownfall #8 (Mid-Season) | !discord | Minecraft",
       "url": "https://www.twitch.tv/lostoni_"
-    },
-    "239191238": {
-      "display_name": "RedBladeCrimson",
-      "game_name": "Minecraft",
-      "login": "redbladecrimson",
-      "started_at": "2026-11-22T01:33:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
-      "title": "[Road To 400!] Minecraft V-origins Day 13! Many events, many trials, Dallius must be tough!",
-      "url": "https://www.twitch.tv/redbladecrimson"
     },
     "443242156": {
       "display_name": "YeonoVt",
