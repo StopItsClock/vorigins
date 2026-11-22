@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T01:05:10Z",
+  "updated_at": "2026-11-22T01:15:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -101,6 +101,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
       "title": "[VOrgins s4] POV: you're Ursoc Earthfist - Mid season event!!",
       "url": "https://www.twitch.tv/mizurelictus"
+    },
+    "1166441997": {
+      "display_name": "VexaraTV",
+      "game_name": "Minecraft",
+      "login": "vexaratv",
+      "started_at": "2026-11-22T01:10:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vexaratv-{width}x{height}.jpg",
+      "title": "MID-SEASON EVENT IS HERE!  Minecraft RP SMP ✨ VOrigins Crownlands ❄️ ┊ !discord 🎁",
+      "url": "https://www.twitch.tv/vexaratv"
     }
   },
   "login_updates": {}
