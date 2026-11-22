@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T04:50:10Z",
+  "updated_at": "2026-11-22T05:20:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -92,15 +92,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
       "title": "【VORIGINS】♡ Midseason Event! Things seem... tense... ♡ !socials !tip #vorigins",
       "url": "https://www.twitch.tv/celiere"
-    },
-    "209565401": {
-      "display_name": "AidenChiiVT",
-      "game_name": "Minecraft",
-      "login": "aidenchiivt",
-      "started_at": "2026-11-22T01:41:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchiivt-{width}x{height}.jpg",
-      "title": "🦝| Vorigins: Crownfall | Mid-Season Event!! | !Discord | !Socials |🦝👟👑",
-      "url": "https://www.twitch.tv/aidenchiivt"
     },
     "228334289": {
       "display_name": "Rams404Vt",
@@ -245,15 +236,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vexaratv-{width}x{height}.jpg",
       "title": "MID-SEASON EVENT IS HERE!  Minecraft RP SMP ✨ VOrigins Crownlands ❄️ ┊ !discord !throne 🎁",
       "url": "https://www.twitch.tv/vexaratv"
-    },
-    "1380109945": {
-      "display_name": "NovaAustralis",
-      "game_name": "Minecraft",
-      "login": "novaaustralis",
-      "started_at": "2026-11-22T01:36:12Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_novaaustralis-{width}x{height}.jpg",
-      "title": "[Novaember Day 21] The Edge of Dawn calls from the horizon (ITS EVENT TIME BABEY) [Vorigins: Crownfall ] !discord !socials !pet",
-      "url": "https://www.twitch.tv/novaaustralis"
     }
   },
   "login_updates": {}
