@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T06:35:10Z",
+  "updated_at": "2026-11-22T07:00:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
       "title": "꒰ RP | 👑 VOrigins: Crownfall ꒱ Mid Season Event! WEEK LONG RP BREAK SOON™ 🍃 !rp as Elizabeth Erdo 🎨🌸 | !vorigins",
       "url": "https://www.twitch.tv/doeremi_"
-    },
-    "63513141": {
-      "display_name": "Helpinghand97",
-      "game_name": "Minecraft",
-      "login": "helpinghand97",
-      "started_at": "2026-11-21T21:05:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_helpinghand97-{width}x{height}.jpg",
-      "title": "VOrigins Mid Season Event!",
-      "url": "https://www.twitch.tv/helpinghand97"
     },
     "73150212": {
       "display_name": "XionFox",
@@ -111,15 +102,6 @@
       "title": "[ V*Origins: Crownfall ]「 Volos, He Who Wishes 」 !vorigins !character",
       "url": "https://www.twitch.tv/vapveran"
     },
-    "612172705": {
-      "display_name": "A__NUBIS",
-      "game_name": "Minecraft",
-      "login": "a__nubis",
-      "started_at": "2026-11-22T01:00:52Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_a__nubis-{width}x{height}.jpg",
-      "title": "Rourke Dolmayan VORIGENS!!!!!",
-      "url": "https://www.twitch.tv/a__nubis"
-    },
     "714177656": {
       "display_name": "FreyjaRabbit",
       "game_name": "Minecraft",
@@ -146,15 +128,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
       "title": "【VOrigins S4: Crownfall】Remembrance Day Celebration {18+} // !discord !socials //",
       "url": "https://www.twitch.tv/alectoeumenid"
-    },
-    "835371235": {
-      "display_name": "MizuRelictus",
-      "game_name": "Minecraft",
-      "login": "mizurelictus",
-      "started_at": "2026-11-22T00:30:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
-      "title": "[VOrgins s4] POV: you're Ursoc Earthfist - Mid season event!!",
-      "url": "https://www.twitch.tv/mizurelictus"
     },
     "938069605": {
       "display_name": "CedarVT",
