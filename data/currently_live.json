@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T09:25:11Z",
+  "updated_at": "2026-11-22T09:35:10Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
       "title": "꒰ RP | 👑 VOrigins: Crownfall ꒱ Mid Season Event! WEEK LONG RP BREAK SOON™ 🍃 !rp as Elizabeth Erdo 🎨🌸 | !vorigins",
       "url": "https://www.twitch.tv/doeremi_"
-    },
-    "160748634": {
-      "display_name": "celiere",
-      "game_name": "Minecraft",
-      "login": "celiere",
-      "started_at": "2026-11-22T01:52:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
-      "title": "【VORIGINS】♡ Midseason Event! Things seem... tense... ♡ !socials !tip #vorigins",
-      "url": "https://www.twitch.tv/celiere"
     },
     "443242156": {
       "display_name": "YeonoVt",
