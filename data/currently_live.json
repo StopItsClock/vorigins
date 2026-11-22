@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T00:15:10Z",
+  "updated_at": "2026-11-22T00:35:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -29,6 +29,24 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
       "title": "{VOrigins Crownfall SMP} SPOILERS/ Day 13//Winnifred Sterling// MidSeason",
       "url": "https://www.twitch.tv/66grimdemise66"
+    },
+    "714177656": {
+      "display_name": "FreyjaRabbit",
+      "game_name": "Among Us",
+      "login": "freyjarabbit",
+      "started_at": "2026-11-22T00:30:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_freyjarabbit-{width}x{height}.jpg",
+      "title": "AMOGUS -> V✧ORIGINS MID-SEASON EVENT !vorigins | !kofi !prismaria !vgen",
+      "url": "https://www.twitch.tv/freyjarabbit"
+    },
+    "835371235": {
+      "display_name": "MizuRelictus",
+      "game_name": "Minecraft",
+      "login": "mizurelictus",
+      "started_at": "2026-11-22T00:30:57Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
+      "title": "[VOrgins s4] POV: you're Ursoc Earthfist - Mid season event!!",
+      "url": "https://www.twitch.tv/mizurelictus"
     }
   },
   "login_updates": {}
