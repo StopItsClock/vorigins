@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T07:25:10Z",
+  "updated_at": "2026-11-22T07:35:10Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -39,15 +39,6 @@
       "title": "໒VOrigins-MidSeason Event১ The Dwarf is in The Walls ⋆˚࿔  !vorigins !lurk !unlurk",
       "url": "https://www.twitch.tv/yeonovt"
     },
-    "452819536": {
-      "display_name": "AlfNAlf",
-      "game_name": "Minecraft",
-      "login": "alfnalf",
-      "started_at": "2026-11-22T01:22:17Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfnalf-{width}x{height}.jpg",
-      "title": "(EN) V-ORIGINS DAY 20 (MidSeason)| !lurk",
-      "url": "https://www.twitch.tv/alfnalf"
-    },
     "555456488": {
       "display_name": "vapVeran",
       "game_name": "Minecraft",
@@ -56,15 +47,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vapveran-{width}x{height}.jpg",
       "title": "[ V*Origins: Crownfall ]「 Volos, He Who Wishes 」 !vorigins !character",
       "url": "https://www.twitch.tv/vapveran"
-    },
-    "714177656": {
-      "display_name": "FreyjaRabbit",
-      "game_name": "Minecraft",
-      "login": "freyjarabbit",
-      "started_at": "2026-11-22T00:30:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_freyjarabbit-{width}x{height}.jpg",
-      "title": "AMOGUS -> V✧ORIGINS MID-SEASON EVENT !vorigins | !kofi !prismaria !vgen",
-      "url": "https://www.twitch.tv/freyjarabbit"
     },
     "761873718": {
       "display_name": "cylinks_owo",
