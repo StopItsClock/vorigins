@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T07:00:10Z",
+  "updated_at": "2026-11-22T07:05:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -38,15 +38,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
       "title": "[VORIGINS S4] | The Collective [SPOILERS!!] | \"Mid-Season\" Event",
       "url": "https://www.twitch.tv/vvdragon_"
-    },
-    "120519348": {
-      "display_name": "reitvt",
-      "game_name": "Minecraft",
-      "login": "reitvt",
-      "started_at": "2026-11-22T00:59:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_reitvt-{width}x{height}.jpg",
-      "title": "A Mid-summer Nights...rememberance? || V Origins Season 4 - Minecraft",
-      "url": "https://www.twitch.tv/reitvt"
     },
     "139155084": {
       "display_name": "RaiineLive",
@@ -137,15 +128,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
       "title": "[CrownFall] Only way out but I dont want to take it ~🍂 !discord !merch",
       "url": "https://www.twitch.tv/cedarvt"
-    },
-    "1166441997": {
-      "display_name": "VexaraTV",
-      "game_name": "Minecraft",
-      "login": "vexaratv",
-      "started_at": "2026-11-22T01:10:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vexaratv-{width}x{height}.jpg",
-      "title": "MID-SEASON EVENT IS HERE!  Minecraft RP SMP ✨ VOrigins Crownlands ❄️ ┊ !discord !throne 🎁",
-      "url": "https://www.twitch.tv/vexaratv"
     }
   },
   "login_updates": {}
