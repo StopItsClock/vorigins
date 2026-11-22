@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T01:40:10Z",
+  "updated_at": "2026-11-22T01:45:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -48,6 +48,15 @@
       "title": "[CROWNFALL] Happy Hunger Games, I mean....Mid-season Festival! #VoriginsS4",
       "url": "https://www.twitch.tv/xionfox"
     },
+    "110867034": {
+      "display_name": "VVDragon_",
+      "game_name": "Minecraft",
+      "login": "vvdragon_",
+      "started_at": "2026-11-22T01:41:17Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
+      "title": "[VORIGINS S4] | The Collective [SPOILERS!!] | \"Mid-Season\" Event",
+      "url": "https://www.twitch.tv/vvdragon_"
+    },
     "119893530": {
       "display_name": "FrostedPlague7",
       "game_name": "Minecraft",
@@ -65,6 +74,24 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_reitvt-{width}x{height}.jpg",
       "title": "A Mid-summer Nights...rememberance? || V Origins Season 4 - Minecraft",
       "url": "https://www.twitch.tv/reitvt"
+    },
+    "209565401": {
+      "display_name": "AidenChiiVT",
+      "game_name": "Minecraft",
+      "login": "aidenchiivt",
+      "started_at": "2026-11-22T01:41:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aidenchiivt-{width}x{height}.jpg",
+      "title": "🦝| Vorigins: Crownfall | Mid-Season Event!! | !Discord | !Socials |🦝👟👑",
+      "url": "https://www.twitch.tv/aidenchiivt"
+    },
+    "228334289": {
+      "display_name": "Rams404Vt",
+      "game_name": "Minecraft",
+      "login": "rams404vt",
+      "started_at": "2026-11-22T01:44:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
+      "title": "✨[18+ Eng/Esp] ✨It's time for the festival ※ Violet Evernight POV✨ !socials !lurk  @rams404vt ✨",
+      "url": "https://www.twitch.tv/rams404vt"
     },
     "231199835": {
       "display_name": "LostOni_",
