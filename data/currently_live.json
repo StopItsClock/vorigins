@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T01:50:10Z",
+  "updated_at": "2026-11-22T01:55:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -23,11 +23,11 @@
     },
     "63513141": {
       "display_name": "Helpinghand97",
-      "game_name": "Persona 5 Royal",
+      "game_name": "Minecraft",
       "login": "helpinghand97",
       "started_at": "2026-11-21T21:05:55Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_helpinghand97-{width}x{height}.jpg",
-      "title": "A bit of a Rebel before VOrigins Mid Season Event!",
+      "title": "VOrigins Mid Season Event!",
       "url": "https://www.twitch.tv/helpinghand97"
     },
     "68909866": {
@@ -83,6 +83,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiinelive-{width}x{height}.jpg",
       "title": "[VOrigins Mid-Season Event] Remembering those we've lost! | !badge !crownfall",
       "url": "https://www.twitch.tv/raiinelive"
+    },
+    "160748634": {
+      "display_name": "celiere",
+      "game_name": "Minecraft",
+      "login": "celiere",
+      "started_at": "2026-11-22T01:52:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
+      "title": "【VORIGINS】♡ Midseason Event! Things seem... tense... ♡ !socials !tip #vorigins",
+      "url": "https://www.twitch.tv/celiere"
     },
     "209565401": {
       "display_name": "AidenChiiVT",
@@ -173,6 +182,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_freyjarabbit-{width}x{height}.jpg",
       "title": "AMOGUS -> V✧ORIGINS MID-SEASON EVENT !vorigins | !kofi !prismaria !vgen",
       "url": "https://www.twitch.tv/freyjarabbit"
+    },
+    "761873718": {
+      "display_name": "cylinks_owo",
+      "game_name": "Minecraft",
+      "login": "cylinks_owo",
+      "started_at": "2026-11-22T01:51:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cylinks_owo-{width}x{height}.jpg",
+      "title": "IMP STARTS A WAR ?",
+      "url": "https://www.twitch.tv/cylinks_owo"
     },
     "819211356": {
       "display_name": "AlectoEumenid",
