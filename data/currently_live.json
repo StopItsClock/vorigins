@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T01:30:10Z",
+  "updated_at": "2026-11-22T01:35:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -30,6 +30,24 @@
       "title": "A bit of a Rebel before VOrigins Mid Season Event!",
       "url": "https://www.twitch.tv/helpinghand97"
     },
+    "68909866": {
+      "display_name": "PuckThePixieVT",
+      "game_name": "Minecraft",
+      "login": "puckthepixievt",
+      "started_at": "2026-11-22T01:30:09Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
+      "title": "[18+] [MCRP] it's the Mid season event!",
+      "url": "https://www.twitch.tv/puckthepixievt"
+    },
+    "73150212": {
+      "display_name": "XionFox",
+      "game_name": "Minecraft",
+      "login": "xionfox",
+      "started_at": "2026-11-22T01:32:59Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
+      "title": "[CROWNFALL] Happy Hunger Games, I mean....Mid-season Festival! #VoriginsS4",
+      "url": "https://www.twitch.tv/xionfox"
+    },
     "119893530": {
       "display_name": "FrostedPlague7",
       "game_name": "Minecraft",
@@ -56,6 +74,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostoni_-{width}x{height}.jpg",
       "title": "V-Origins Crownfall #8 (Mid-Season) | !discord | Minecraft",
       "url": "https://www.twitch.tv/lostoni_"
+    },
+    "239191238": {
+      "display_name": "RedBladeCrimson",
+      "game_name": "Minecraft",
+      "login": "redbladecrimson",
+      "started_at": "2026-11-22T01:33:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
+      "title": "[Road To 400!] Minecraft V-origins Day 13! Many events, many trials, Dallius must be tough!",
+      "url": "https://www.twitch.tv/redbladecrimson"
     },
     "443242156": {
       "display_name": "YeonoVt",
