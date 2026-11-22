@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T05:20:10Z",
+  "updated_at": "2026-11-22T05:35:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -218,15 +218,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meoweomell_marsyus_seliem-{width}x{height}.jpg",
       "title": "CROWNFALL | VORIGINS S4 [day 17]  Midseason event | Alexander Da Maris",
       "url": "https://www.twitch.tv/meoweomell_marsyus_seliem"
-    },
-    "1003296268": {
-      "display_name": "Elio_Zinn",
-      "game_name": "Minecraft",
-      "login": "elio_zinn",
-      "started_at": "2026-11-22T01:37:58Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elio_zinn-{width}x{height}.jpg",
-      "title": "Surely nothing bad will happen during the midseason trust | V✧ORIGINS SEASON 4: CROWNFALL",
-      "url": "https://www.twitch.tv/elio_zinn"
     },
     "1166441997": {
       "display_name": "VexaraTV",
