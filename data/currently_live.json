@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T19:30:10Z",
+  "updated_at": "2026-11-22T19:40:10Z",
   "poll_seconds": 300,
   "live": {
     "835371235": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
       "title": "[Lethal Company] Go dono to the frog, also may I have a sweet treat as well?",
       "url": "https://www.twitch.tv/mizurelictus"
-    },
-    "1166441997": {
-      "display_name": "VexaraTV",
-      "game_name": "Warframe",
-      "login": "vexaratv",
-      "started_at": "2026-11-22T16:13:53Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vexaratv-{width}x{height}.jpg",
-      "title": "[ ᴘʟᴀᴛ ɢɪᴠᴇᴀᴡᴀʏ ] HAPPY SUNDAY FUNDAY ✨ Warframe ❄️ ┊ !discord !throne !ign !tawawa 🎁",
-      "url": "https://www.twitch.tv/vexaratv"
     }
   },
   "login_updates": {}
