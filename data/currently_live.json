@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T09:20:10Z",
+  "updated_at": "2026-11-22T09:25:11Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -29,15 +29,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeonovt-{width}x{height}.jpg",
       "title": "໒VOrigins-MidSeason Event১ The Dwarf is in The Walls ⋆˚࿔  !vorigins !lurk !unlurk",
       "url": "https://www.twitch.tv/yeonovt"
-    },
-    "819211356": {
-      "display_name": "AlectoEumenid",
-      "game_name": "Minecraft",
-      "login": "alectoeumenid",
-      "started_at": "2026-11-22T01:02:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
-      "title": "【VOrigins S4: Crownfall】Remembrance Day Celebration {18+} // !discord !socials //",
-      "url": "https://www.twitch.tv/alectoeumenid"
     },
     "938069605": {
       "display_name": "CedarVT",
