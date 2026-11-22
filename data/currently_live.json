@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T00:55:10Z",
+  "updated_at": "2026-11-22T01:00:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "Even should the realm fall, I just want to keep Ria safe | Sir Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "59922801": {
+      "display_name": "doeremi_",
+      "game_name": "Minecraft",
+      "login": "doeremi_",
+      "started_at": "2026-11-22T00:56:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
+      "title": "꒰ RP | 👑 VOrigins: Crownfall ꒱ Mid Season Event! WEEK LONG RP BREAK SOON™ 🍃 !rp as Elizabeth Erdo 🎨🌸 | !vorigins",
+      "url": "https://www.twitch.tv/doeremi_"
     },
     "63513141": {
       "display_name": "Helpinghand97",
@@ -29,6 +38,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
       "title": "꒰ 🐾 VOrigins: Crownfall꒱ The Remembrance Festival | Minecraft RP🧊 !rp !map !socials 🍧 @frostedplague7",
       "url": "https://www.twitch.tv/frostedplague7"
+    },
+    "120519348": {
+      "display_name": "reitvt",
+      "game_name": "Minecraft",
+      "login": "reitvt",
+      "started_at": "2026-11-22T00:59:42Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_reitvt-{width}x{height}.jpg",
+      "title": "A Mid-summer Nights...rememberance? || V Origins Season 4 - Minecraft",
+      "url": "https://www.twitch.tv/reitvt"
     },
     "443242156": {
       "display_name": "YeonoVt",
@@ -65,15 +83,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
       "title": "[VOrgins s4] POV: you're Ursoc Earthfist - Mid season event!!",
       "url": "https://www.twitch.tv/mizurelictus"
-    },
-    "1350182752": {
-      "display_name": "Caramoreli",
-      "game_name": "Minecraft",
-      "login": "caramoreli",
-      "started_at": "2026-11-22T00:52:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_caramoreli-{width}x{height}.jpg",
-      "title": "Let's go to an EVENT | [Vorigins Crownfall] Day 9",
-      "url": "https://www.twitch.tv/caramoreli"
     }
   },
   "login_updates": {}
