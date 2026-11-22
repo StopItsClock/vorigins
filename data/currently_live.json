@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T02:00:10Z",
+  "updated_at": "2026-11-22T02:05:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -185,7 +185,7 @@
     },
     "714177656": {
       "display_name": "FreyjaRabbit",
-      "game_name": "Among Us",
+      "game_name": "Minecraft",
       "login": "freyjarabbit",
       "started_at": "2026-11-22T00:30:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_freyjarabbit-{width}x{height}.jpg",
