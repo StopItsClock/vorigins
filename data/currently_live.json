@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T05:50:10Z",
+  "updated_at": "2026-11-22T06:05:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -75,15 +75,6 @@
       "title": "【VORIGINS】♡ Midseason Event! Things seem... tense... ♡ !socials !tip #vorigins",
       "url": "https://www.twitch.tv/celiere"
     },
-    "231199835": {
-      "display_name": "LostOni_",
-      "game_name": "Minecraft",
-      "login": "lostoni_",
-      "started_at": "2026-11-22T01:27:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostoni_-{width}x{height}.jpg",
-      "title": "V-Origins Crownfall #8 (Mid-Season) | !discord | Minecraft",
-      "url": "https://www.twitch.tv/lostoni_"
-    },
     "443242156": {
       "display_name": "YeonoVt",
       "game_name": "Minecraft",
@@ -110,15 +101,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
       "title": "🤍🎑【 V-ORIGINS MIDSEASON 】She repeats this cycle, just like the solitary sun in the sky. ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte ✦ !vorigins",
       "url": "https://www.twitch.tv/shizukach"
-    },
-    "495919620": {
-      "display_name": "66GrimDemise66",
-      "game_name": "Minecraft",
-      "login": "66grimdemise66",
-      "started_at": "2026-11-22T00:05:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_66grimdemise66-{width}x{height}.jpg",
-      "title": "{VOrigins Crownfall SMP} SPOILERS/ Day 13//Winnifred Sterling// MidSeason",
-      "url": "https://www.twitch.tv/66grimdemise66"
     },
     "555456488": {
       "display_name": "vapVeran",
@@ -182,15 +164,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
       "title": "[CrownFall] Only way out but I dont want to take it ~🍂 !discord !merch",
       "url": "https://www.twitch.tv/cedarvt"
-    },
-    "983832675": {
-      "display_name": "Meoweomell_Marsyus_Seliem",
-      "game_name": "Minecraft",
-      "login": "meoweomell_marsyus_seliem",
-      "started_at": "2026-11-22T01:27:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meoweomell_marsyus_seliem-{width}x{height}.jpg",
-      "title": "CROWNFALL | VORIGINS S4 [day 17]  Midseason event | Alexander Da Maris",
-      "url": "https://www.twitch.tv/meoweomell_marsyus_seliem"
     },
     "1166441997": {
       "display_name": "VexaraTV",
