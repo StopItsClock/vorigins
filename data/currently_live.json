@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T07:15:10Z",
+  "updated_at": "2026-11-22T07:20:10Z",
   "poll_seconds": 300,
   "live": {
-    "58276005": {
-      "display_name": "Banana_Ramajama",
-      "game_name": "Minecraft",
-      "login": "banana_ramajama",
-      "started_at": "2026-11-21T19:30:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
-      "title": "Even should the realm fall, I just want to keep Ria safe | Sir Giuseppe Crabapple of Kiyomori | !discord !horror !lurk !clip",
-      "url": "https://www.twitch.tv/banana_ramajama"
-    },
     "59922801": {
       "display_name": "doeremi_",
       "game_name": "Minecraft",
@@ -29,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xionfox-{width}x{height}.jpg",
       "title": "[CROWNFALL] Happy Hunger Games, I mean....Mid-season Festival! #VoriginsS4",
       "url": "https://www.twitch.tv/xionfox"
-    },
-    "110867034": {
-      "display_name": "VVDragon_",
-      "game_name": "Minecraft",
-      "login": "vvdragon_",
-      "started_at": "2026-11-22T01:41:17Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vvdragon_-{width}x{height}.jpg",
-      "title": "[VORIGINS S4] | The Collective [SPOILERS!!] | \"Mid-Season\" Event",
-      "url": "https://www.twitch.tv/vvdragon_"
     },
     "139155084": {
       "display_name": "RaiineLive",
