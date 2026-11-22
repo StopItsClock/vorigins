@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T01:35:10Z",
+  "updated_at": "2026-11-22T01:40:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -102,6 +102,15 @@
       "title": "(EN) V-ORIGINS DAY 20 (MidSeason)| !lurk",
       "url": "https://www.twitch.tv/alfnalf"
     },
+    "487437198": {
+      "display_name": "ShizukaCh",
+      "game_name": "Minecraft",
+      "login": "shizukach",
+      "started_at": "2026-11-22T01:37:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
+      "title": "🤍🎑【 V-ORIGINS MIDSEASON 】She repeats this cycle, just like the solitary sun in the sky. ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte ✦ !vorigins",
+      "url": "https://www.twitch.tv/shizukach"
+    },
     "495919620": {
       "display_name": "66GrimDemise66",
       "game_name": "Minecraft",
@@ -156,6 +165,15 @@
       "title": "CROWNFALL | VORIGINS S4 [day 17]  Midseason event | Alexander Da Maris",
       "url": "https://www.twitch.tv/meoweomell_marsyus_seliem"
     },
+    "1003296268": {
+      "display_name": "Elio_Zinn",
+      "game_name": "Minecraft",
+      "login": "elio_zinn",
+      "started_at": "2026-11-22T01:37:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elio_zinn-{width}x{height}.jpg",
+      "title": "Surely nothing bad will happen during the midseason trust | V✧ORIGINS SEASON 4: CROWNFALL",
+      "url": "https://www.twitch.tv/elio_zinn"
+    },
     "1166441997": {
       "display_name": "VexaraTV",
       "game_name": "Minecraft",
@@ -164,6 +182,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vexaratv-{width}x{height}.jpg",
       "title": "MID-SEASON EVENT IS HERE!  Minecraft RP SMP ✨ VOrigins Crownlands ❄️ ┊ !discord 🎁",
       "url": "https://www.twitch.tv/vexaratv"
+    },
+    "1380109945": {
+      "display_name": "NovaAustralis",
+      "game_name": "Minecraft",
+      "login": "novaaustralis",
+      "started_at": "2026-11-22T01:36:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_novaaustralis-{width}x{height}.jpg",
+      "title": "[Novaember Day 21] The Edge of Dawn calls from the horizon (ITS EVENT TIME BABEY) [Vorigins: Crownfall ] !discord !socials !pet",
+      "url": "https://www.twitch.tv/novaaustralis"
     }
   },
   "login_updates": {}
