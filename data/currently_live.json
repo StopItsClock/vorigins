@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T05:45:10Z",
+  "updated_at": "2026-11-22T05:50:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -48,15 +48,6 @@
       "title": "[VORIGINS S4] | The Collective [SPOILERS!!] | \"Mid-Season\" Event",
       "url": "https://www.twitch.tv/vvdragon_"
     },
-    "119893530": {
-      "display_name": "FrostedPlague7",
-      "game_name": "Minecraft",
-      "login": "frostedplague7",
-      "started_at": "2026-11-22T00:44:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frostedplague7-{width}x{height}.jpg",
-      "title": "꒰ 🐾 VOrigins: Crownfall꒱ The Remembrance Festival | Minecraft RP🧊 !rp !map !socials 🍧 @frostedplague7",
-      "url": "https://www.twitch.tv/frostedplague7"
-    },
     "120519348": {
       "display_name": "reitvt",
       "game_name": "Minecraft",
@@ -83,15 +74,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_celiere-{width}x{height}.jpg",
       "title": "【VORIGINS】♡ Midseason Event! Things seem... tense... ♡ !socials !tip #vorigins",
       "url": "https://www.twitch.tv/celiere"
-    },
-    "228334289": {
-      "display_name": "Rams404Vt",
-      "game_name": "Minecraft",
-      "login": "rams404vt",
-      "started_at": "2026-11-22T01:44:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
-      "title": "✨[18+ Eng/Esp] ✨It's time for the festival ※ Violet Evernight POV✨ !socials !lurk  @rams404vt ✨",
-      "url": "https://www.twitch.tv/rams404vt"
     },
     "231199835": {
       "display_name": "LostOni_",
