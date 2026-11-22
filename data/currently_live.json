@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T07:05:10Z",
+  "updated_at": "2026-11-22T07:15:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -74,15 +74,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alfnalf-{width}x{height}.jpg",
       "title": "(EN) V-ORIGINS DAY 20 (MidSeason)| !lurk",
       "url": "https://www.twitch.tv/alfnalf"
-    },
-    "487437198": {
-      "display_name": "ShizukaCh",
-      "game_name": "Minecraft",
-      "login": "shizukach",
-      "started_at": "2026-11-22T01:37:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
-      "title": "🤍🎑【 V-ORIGINS MIDSEASON 】She repeats this cycle, just like the solitary sun in the sky. ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte ✦ !vorigins",
-      "url": "https://www.twitch.tv/shizukach"
     },
     "555456488": {
       "display_name": "vapVeran",
