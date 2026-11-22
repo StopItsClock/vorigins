@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T20:05:10Z",
+  "updated_at": "2026-11-22T20:15:10Z",
   "poll_seconds": 300,
   "live": {
     "63513141": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_helpinghand97-{width}x{height}.jpg",
       "title": "Artsy Farsty Is not Required in my Plot",
       "url": "https://www.twitch.tv/helpinghand97"
-    },
-    "835371235": {
-      "display_name": "MizuRelictus",
-      "game_name": "Lethal Company",
-      "login": "mizurelictus",
-      "started_at": "2026-11-22T16:02:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
-      "title": "[Lethal Company] Go dono to the frog, also may I have a sweet treat as well?",
-      "url": "https://www.twitch.tv/mizurelictus"
     }
   },
   "login_updates": {}
