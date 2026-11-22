@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T08:10:10Z",
+  "updated_at": "2026-11-22T08:20:10Z",
   "poll_seconds": 300,
   "live": {
     "59922801": {
@@ -38,15 +38,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeonovt-{width}x{height}.jpg",
       "title": "໒VOrigins-MidSeason Event১ The Dwarf is in The Walls ⋆˚࿔  !vorigins !lurk !unlurk",
       "url": "https://www.twitch.tv/yeonovt"
-    },
-    "555456488": {
-      "display_name": "vapVeran",
-      "game_name": "Minecraft",
-      "login": "vapveran",
-      "started_at": "2026-11-22T01:59:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vapveran-{width}x{height}.jpg",
-      "title": "[ V*Origins: Crownfall ]「 Volos, He Who Wishes 」 !vorigins !character",
-      "url": "https://www.twitch.tv/vapveran"
     },
     "819211356": {
       "display_name": "AlectoEumenid",
