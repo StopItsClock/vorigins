@@ -1,8 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-23T18:35:10Z",
+  "updated_at": "2026-11-23T18:45:11Z",
   "poll_seconds": 300,
   "live": {
+    "59922801": {
+      "display_name": "doeremi_",
+      "game_name": "Minecraft",
+      "login": "doeremi_",
+      "started_at": "2026-11-23T18:40:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
+      "title": "꒰ Cwismus SMP 🎄 ꒱ We're bringing the HOLIDAY SPIRIT to MINECRAFT!? 🎁 | Multi-stream | BIG SALE THIS FRIDAY on !vgen",
+      "url": "https://www.twitch.tv/doeremi_"
+    },
     "886081934": {
       "display_name": "wiltedIrony",
       "game_name": "Voices of the Void",
