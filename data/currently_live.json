@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-23T16:50:10Z",
+  "updated_at": "2026-11-23T17:10:10Z",
   "poll_seconds": 300,
   "live": {
     "835371235": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
       "title": "[Chunklocked] Let's have a grand new adventure~",
       "url": "https://www.twitch.tv/mizurelictus"
+    },
+    "886081934": {
+      "display_name": "wiltedIrony",
+      "game_name": "Voices of the Void",
+      "login": "wiltedirony",
+      "started_at": "2026-11-23T17:07:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wiltedirony-{width}x{height}.jpg",
+      "title": "MORE VOTV | !discord !d20 !clip [ENG/ARA]",
+      "url": "https://www.twitch.tv/wiltedirony"
     }
   },
   "login_updates": {}
