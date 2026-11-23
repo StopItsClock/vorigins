@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-23T22:20:10Z",
+  "updated_at": "2026-11-23T22:25:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
       "title": "꒰ Cwismus SMP 🎄 ꒱ We're bringing the HOLIDAY SPIRIT to MINECRAFT!? 🎁 | Multi-stream | BIG SALE THIS FRIDAY on !vgen",
       "url": "https://www.twitch.tv/doeremi_"
+    },
+    "228334289": {
+      "display_name": "Rams404Vt",
+      "game_name": "LOCKDOWN Protocol",
+      "login": "rams404vt",
+      "started_at": "2026-11-23T22:20:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
+      "title": "✨[18+ Eng/Esp] ✨Chaos in the office and ULTRACHAOS✨ !socials !lurk  @rams404vt ✨",
+      "url": "https://www.twitch.tv/rams404vt"
     }
   },
   "login_updates": {}
