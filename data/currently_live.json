@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-23T22:55:10Z",
+  "updated_at": "2026-11-23T23:00:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
       "display_name": "Banana_Ramajama",
-      "game_name": "World of Warcraft",
+      "game_name": "Queen's Domain",
       "login": "banana_ramajama",
       "started_at": "2026-11-23T22:16:29Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
