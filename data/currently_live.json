@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-23T00:35:10Z",
+  "updated_at": "2026-11-23T14:05:10Z",
   "poll_seconds": 300,
-  "live": {},
+  "live": {
+    "835371235": {
+      "display_name": "MizuRelictus",
+      "game_name": "World of Warcraft",
+      "login": "mizurelictus",
+      "started_at": "2026-11-23T14:02:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
+      "title": "[Chunklocked] Let's have a grand new adventure~",
+      "url": "https://www.twitch.tv/mizurelictus"
+    }
+  },
   "login_updates": {}
 }
