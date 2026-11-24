@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-24T05:55:10Z",
+  "updated_at": "2026-11-24T06:25:10Z",
   "poll_seconds": 300,
-  "live": {
-    "938069605": {
-      "display_name": "CedarVT",
-      "game_name": "Valheim",
-      "login": "cedarvt",
-      "started_at": "2026-11-24T01:59:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
-      "title": "ITS GIANT HUNTING SEASON ~🍂 !discord !merch",
-      "url": "https://www.twitch.tv/cedarvt"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
