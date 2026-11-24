@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-24T19:00:10Z",
+  "updated_at": "2026-11-24T19:10:10Z",
   "poll_seconds": 300,
   "live": {
     "835371235": {
@@ -11,15 +11,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
       "title": "[For The King] Jhon Gobblin D. Nuts is ready to serve",
       "url": "https://www.twitch.tv/mizurelictus"
-    },
-    "886081934": {
-      "display_name": "wiltedIrony",
-      "game_name": "Tomodachi Life: Living the Dream",
-      "login": "wiltedirony",
-      "started_at": "2026-11-24T17:22:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wiltedirony-{width}x{height}.jpg",
-      "title": "MORE TOMODACHI LIFE | !discord !d20 !clip [ENG/ARA]",
-      "url": "https://www.twitch.tv/wiltedirony"
     }
   },
   "login_updates": {}
