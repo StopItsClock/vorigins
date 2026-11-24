@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-24T01:05:11Z",
+  "updated_at": "2026-11-24T01:10:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -21,6 +21,15 @@
       "title": "꒰ Cwismus SMP 🎄 ꒱ We're bringing the HOLIDAY SPIRIT to MINECRAFT!? 🎁 | Multi-stream | BIG SALE THIS FRIDAY on !vgen",
       "url": "https://www.twitch.tv/doeremi_"
     },
+    "68909866": {
+      "display_name": "PuckThePixieVT",
+      "game_name": "A Hat in Time",
+      "login": "puckthepixievt",
+      "started_at": "2026-11-24T01:07:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
+      "title": "[18+] A Hat In Time Randomized! PECK!",
+      "url": "https://www.twitch.tv/puckthepixievt"
+    },
     "228334289": {
       "display_name": "Rams404Vt",
       "game_name": "ULTRAKILL",
@@ -29,15 +38,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
       "title": "✨[18+ Eng/Esp] ✨IT'S TIME FOR ULTRACHAOS✨ !socials !lurk  @rams404vt ✨",
       "url": "https://www.twitch.tv/rams404vt"
-    },
-    "1166441997": {
-      "display_name": "VexaraTV",
-      "game_name": "Warframe",
-      "login": "vexaratv",
-      "started_at": "2026-11-23T23:01:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vexaratv-{width}x{height}.jpg",
-      "title": "18+ [ ᴘʟᴀᴛ ɢɪᴠᴇᴀᴡᴀʏ ] WE'RE BACK AT IT ✨ Warframe ❄️ ┊ !discord !throne !ign !tawawa🎁",
-      "url": "https://www.twitch.tv/vexaratv"
     }
   },
   "login_updates": {}
