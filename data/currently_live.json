@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-24T01:35:10Z",
+  "updated_at": "2026-11-24T02:00:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
       "title": "[18+] A Hat In Time Randomized! PECK!",
       "url": "https://www.twitch.tv/puckthepixievt"
+    },
+    "938069605": {
+      "display_name": "CedarVT",
+      "game_name": "Valheim",
+      "login": "cedarvt",
+      "started_at": "2026-11-24T01:59:10Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
+      "title": "ITS GIANT HUNTING SEASON ~🍂 !discord !merch",
+      "url": "https://www.twitch.tv/cedarvt"
     }
   },
   "login_updates": {}
