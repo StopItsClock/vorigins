@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-24T20:15:10Z",
+  "updated_at": "2026-11-24T20:40:10Z",
   "poll_seconds": 300,
-  "live": {
-    "835371235": {
-      "display_name": "MizuRelictus",
-      "game_name": "For the King",
-      "login": "mizurelictus",
-      "started_at": "2026-11-24T16:33:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
-      "title": "[For The King] Jhon Gobblin D. Nuts is ready to serve",
-      "url": "https://www.twitch.tv/mizurelictus"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
