@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-24T20:40:10Z",
+  "updated_at": "2026-11-24T22:45:10Z",
   "poll_seconds": 300,
-  "live": {},
+  "live": {
+    "68909866": {
+      "display_name": "PuckThePixieVT",
+      "game_name": "Halo: The Master Chief Collection",
+      "login": "puckthepixievt",
+      "started_at": "2026-11-24T22:43:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
+      "title": "[18+] Subjecting Matty to Cursed Halo again!",
+      "url": "https://www.twitch.tv/puckthepixievt"
+    }
+  },
   "login_updates": {}
 }
