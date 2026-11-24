@@ -1,8 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-24T22:45:10Z",
+  "updated_at": "2026-11-24T23:00:14Z",
   "poll_seconds": 300,
   "live": {
+    "58276005": {
+      "display_name": "Banana_Ramajama",
+      "game_name": "Queen's Domain",
+      "login": "banana_ramajama",
+      "started_at": "2026-11-24T22:57:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
+      "title": "Why do you perceive me | I kinda know what I'm doing but probably not | !discord !horror !lurk !clip",
+      "url": "https://www.twitch.tv/banana_ramajama"
+    },
     "68909866": {
       "display_name": "PuckThePixieVT",
       "game_name": "Halo: The Master Chief Collection",
