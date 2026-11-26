@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-26T01:45:10Z",
+  "updated_at": "2026-11-26T01:50:10Z",
   "poll_seconds": 300,
   "live": {
-    "228334289": {
-      "display_name": "Rams404Vt",
-      "game_name": "Just Chatting",
-      "login": "rams404vt",
-      "started_at": "2026-11-25T22:39:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rams404vt-{width}x{height}.jpg",
-      "title": "✨[18+ Eng/Esp] ✨We react to scary video✨ !socials !lurk  @rams404vt ✨",
-      "url": "https://www.twitch.tv/rams404vt"
-    },
     "1166441997": {
       "display_name": "VexaraTV",
       "game_name": "The Sinking City 2",
