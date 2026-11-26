@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-26T21:45:10Z",
+  "updated_at": "2026-11-26T22:15:10Z",
   "poll_seconds": 300,
-  "live": {
-    "835371235": {
-      "display_name": "MizuRelictus",
-      "game_name": "NARAKA: BLADEPOINT",
-      "login": "mizurelictus",
-      "started_at": "2026-11-26T16:02:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizurelictus-{width}x{height}.jpg",
-      "title": "[Naraka] Kaizo was too much lmao",
-      "url": "https://www.twitch.tv/mizurelictus"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
