@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-26T01:25:09Z",
+  "updated_at": "2026-11-26T01:45:10Z",
   "poll_seconds": 300,
   "live": {
-    "59922801": {
-      "display_name": "doeremi_",
-      "game_name": "Minecraft",
-      "login": "doeremi_",
-      "started_at": "2026-11-25T19:15:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
-      "title": "꒰ Cwismus SMP 🎄 ꒱ Let's get COMFY 🩷 Building our CHRISTMAS HOME?! 🎁 | Multi-stream | BIG SALE THIS FRIDAY on !vgen",
-      "url": "https://www.twitch.tv/doeremi_"
-    },
     "228334289": {
       "display_name": "Rams404Vt",
       "game_name": "Just Chatting",
