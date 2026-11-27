@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-27T03:40:10Z",
+  "updated_at": "2026-11-27T04:00:09Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -20,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
       "title": "[18+] Going back To the first thanksgiving to get turkey's off the menu",
       "url": "https://www.twitch.tv/puckthepixievt"
-    },
-    "487437198": {
-      "display_name": "ShizukaCh",
-      "game_name": "Wii Sports",
-      "login": "shizukach",
-      "started_at": "2026-11-27T01:51:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
-      "title": "🤍🎑【 BASEBALL 】pro baseballer back at it again yessir ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte",
-      "url": "https://www.twitch.tv/shizukach"
     },
     "761873718": {
       "display_name": "cylinks_owo",
