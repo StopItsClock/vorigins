@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-27T04:30:09Z",
+  "updated_at": "2026-11-27T04:35:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -12,15 +12,6 @@
       "title": "I'm gonna look very dumb while I work on this until I get embarrassed and play something | I'm pretty stupid | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
     },
-    "68909866": {
-      "display_name": "PuckThePixieVT",
-      "game_name": "Co-working & Studying",
-      "login": "puckthepixievt",
-      "started_at": "2026-11-27T01:57:21Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
-      "title": "[18+] Post thanksgiving WORKIN",
-      "url": "https://www.twitch.tv/puckthepixievt"
-    },
     "761873718": {
       "display_name": "cylinks_owo",
       "game_name": "World of Warcraft",
@@ -29,15 +20,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cylinks_owo-{width}x{height}.jpg",
       "title": "Thanksgiving Just Got A LOT More Chaotic 😂🦃 | First Time in WoW Forever!",
       "url": "https://www.twitch.tv/cylinks_owo"
-    },
-    "938069605": {
-      "display_name": "CedarVT",
-      "game_name": "Wuthering Waves",
-      "login": "cedarvt",
-      "started_at": "2026-11-27T00:59:00Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cedarvt-{width}x{height}.jpg",
-      "title": "The darkest hour is nearing... (TIME TO PLAY CATCH UP!) ~🍂 !discord !merch",
-      "url": "https://www.twitch.tv/cedarvt"
     }
   },
   "login_updates": {}
