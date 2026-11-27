@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-27T05:10:09Z",
+  "updated_at": "2026-11-27T05:30:09Z",
   "poll_seconds": 300,
-  "live": {
-    "761873718": {
-      "display_name": "cylinks_owo",
-      "game_name": "World of Warcraft",
-      "login": "cylinks_owo",
-      "started_at": "2026-11-27T01:59:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cylinks_owo-{width}x{height}.jpg",
-      "title": "Thanksgiving Just Got A LOT More Chaotic 😂🦃 | First Time in WoW Forever!",
-      "url": "https://www.twitch.tv/cylinks_owo"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
