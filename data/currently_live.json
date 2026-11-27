@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-27T01:35:10Z",
+  "updated_at": "2026-11-27T01:40:09Z",
   "poll_seconds": 300,
   "live": {
-    "58276005": {
-      "display_name": "Banana_Ramajama",
-      "game_name": "Co-working & Studying",
-      "login": "banana_ramajama",
-      "started_at": "2026-11-27T00:51:53Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
-      "title": "I'm gonna look very dumb while I work on this until I get embarrassed and play something | I'm pretty stupid | !discord !horror !lurk !clip",
-      "url": "https://www.twitch.tv/banana_ramajama"
-    },
     "938069605": {
       "display_name": "CedarVT",
       "game_name": "Wuthering Waves",
