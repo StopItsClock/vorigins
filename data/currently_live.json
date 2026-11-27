@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-27T01:45:10Z",
+  "updated_at": "2026-11-27T01:55:09Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -11,6 +11,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
       "title": "I'm gonna look very dumb while I work on this until I get embarrassed and play something | I'm pretty stupid | !discord !horror !lurk !clip",
       "url": "https://www.twitch.tv/banana_ramajama"
+    },
+    "487437198": {
+      "display_name": "ShizukaCh",
+      "game_name": "Wii Sports",
+      "login": "shizukach",
+      "started_at": "2026-11-27T01:51:57Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
+      "title": "🤍🎑【 BASEBALL 】pro baseballer back at it again yessir ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte",
+      "url": "https://www.twitch.tv/shizukach"
     },
     "938069605": {
       "display_name": "CedarVT",
