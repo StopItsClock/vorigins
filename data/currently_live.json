@@ -1,8 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-27T22:55:10Z",
+  "updated_at": "2026-11-27T23:10:09Z",
   "poll_seconds": 300,
   "live": {
+    "58276005": {
+      "display_name": "Banana_Ramajama",
+      "game_name": "Co-working & Studying",
+      "login": "banana_ramajama",
+      "started_at": "2026-11-27T23:05:49Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
+      "title": "Vconnect, reverse engineering my redeems | I'm pretty stupid | !discord !horror !lurk !clip",
+      "url": "https://www.twitch.tv/banana_ramajama"
+    },
     "59922801": {
       "display_name": "doeremi_",
       "game_name": "Minecraft",
@@ -11,6 +20,15 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
       "title": "꒰ Cwismus SMP 🎄 ꒱ Absolutely sillymaxxing today 🍻 Finishing our CHRISTMAS HOME?! 🎁 | Multi-stream | HUGE SALE on !vgen",
       "url": "https://www.twitch.tv/doeremi_"
+    },
+    "68909866": {
+      "display_name": "PuckThePixieVT",
+      "game_name": "Music",
+      "login": "puckthepixievt",
+      "started_at": "2026-11-27T23:09:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puckthepixievt-{width}x{height}.jpg",
+      "title": "[18+] This Pixie sings for you!",
+      "url": "https://www.twitch.tv/puckthepixievt"
     }
   },
   "login_updates": {}
