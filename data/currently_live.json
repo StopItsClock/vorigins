@@ -1,8 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-27T21:50:10Z",
+  "updated_at": "2026-11-27T22:15:10Z",
   "poll_seconds": 300,
   "live": {
+    "59922801": {
+      "display_name": "doeremi_",
+      "game_name": "Minecraft",
+      "login": "doeremi_",
+      "started_at": "2026-11-27T22:14:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
+      "title": "꒰ Cwismus SMP 🎄 ꒱ Absolutely sillymaxxing today 🍻 Finishing our CHRISTMAS HOME?! 🎁 | Multi-stream | HUGE SALE on !vgen",
+      "url": "https://www.twitch.tv/doeremi_"
+    },
     "63513141": {
       "display_name": "Helpinghand97",
       "game_name": "Persona 5 Royal",
