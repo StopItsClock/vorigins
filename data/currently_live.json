@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-28T06:55:10Z",
+  "updated_at": "2026-11-28T07:20:10Z",
   "poll_seconds": 300,
-  "live": {
-    "59922801": {
-      "display_name": "doeremi_",
-      "game_name": "Just Chatting",
-      "login": "doeremi_",
-      "started_at": "2026-11-27T22:14:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doeremi_-{width}x{height}.jpg",
-      "title": "꒰ Cwismus SMP 🎄 ꒱ Absolutely sillymaxxing today 🍻 Finishing our CHRISTMAS HOME?! 🎁 | Multi-stream | HUGE SALE on !vgen",
-      "url": "https://www.twitch.tv/doeremi_"
-    }
-  },
+  "live": {},
   "login_updates": {}
 }
