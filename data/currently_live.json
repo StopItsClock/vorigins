@@ -1,17 +1,8 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-28T03:30:10Z",
+  "updated_at": "2026-11-28T03:50:10Z",
   "poll_seconds": 300,
   "live": {
-    "58276005": {
-      "display_name": "Banana_Ramajama",
-      "game_name": "Queen's Domain",
-      "login": "banana_ramajama",
-      "started_at": "2026-11-27T23:05:49Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_banana_ramajama-{width}x{height}.jpg",
-      "title": "Im in the Queen's Domain | I'm pretty stupid | !discord !horror !lurk !clip",
-      "url": "https://www.twitch.tv/banana_ramajama"
-    },
     "59922801": {
       "display_name": "doeremi_",
       "game_name": "Minecraft",
