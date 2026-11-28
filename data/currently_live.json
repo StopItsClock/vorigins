@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-28T02:35:10Z",
+  "updated_at": "2026-11-28T03:10:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -29,15 +29,6 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbladecrimson-{width}x{height}.jpg",
       "title": "[Road To 400!] Making my Boss @ladysevilla a pokemon tierlist + gaming later!",
       "url": "https://www.twitch.tv/redbladecrimson"
-    },
-    "487437198": {
-      "display_name": "ShizukaCh",
-      "game_name": "Wii Sports",
-      "login": "shizukach",
-      "started_at": "2026-11-28T02:00:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizukach-{width}x{height}.jpg",
-      "title": "🤍🎑【 BASEBALL 】beating the game. ⋆.˚☁️⋆ ✦ !socials ✦ !starbyte",
-      "url": "https://www.twitch.tv/shizukach"
     },
     "819211356": {
       "display_name": "AlectoEumenid",
