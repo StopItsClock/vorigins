@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-28T01:10:10Z",
+  "updated_at": "2026-11-28T01:35:10Z",
   "poll_seconds": 300,
   "live": {
     "58276005": {
@@ -32,7 +32,7 @@
     },
     "819211356": {
       "display_name": "AlectoEumenid",
-      "game_name": "Just Chatting",
+      "game_name": "Blair Witch",
       "login": "alectoeumenid",
       "started_at": "2026-11-28T01:05:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alectoeumenid-{width}x{height}.jpg",
